@@ -58,27 +58,12 @@
 </head>
 
 <body onload="formCalc()">
-	<div id="outerDiv">
-			<div id="headerBox">
-			<div id="logo">
-				<a href="http://orderlydrawer.com"><img src="http://orderlydrawer.com/wp-content/uploads/2011/05/odlogo1.jpg" title="drawer organizers" alt="drawer organizers"></a>
-			</div>			
-			<div id="viewCartBox">
-				<a href="http://www.e-junkie.com/ecom/gb.php?c=cart;cl=69858;ejc=2"  target="ej_ejc" class="ec_ejc_thkbx"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
-				<p>423.521.5357</p>
-			</div>			
-			<div id = "mainMenu">
-					<ul>
-						<li><a href = "http://orderlydrawer.com">Home</a></li>
-						<li><a href = "http://orderlydrawer.com/custom-organizers">Custom Inserts</a></li>
-						<li><a href = "http://orderlydrawer.com/standard-organizers">Standard Organizers</a></li>
-						<li><a href = "http://orderlydrawer.com/about-us">About Us</a></li>
-						<li><a href = "http://orderlydrawer.com/contact-us">Contact</a></li>
-						<li><a href = "http://orderlydrawer.com/customers-comment">Testimonials</a></li>
-					</ul>
-			</div>		
-		</div>
-		<div id = "container">			
+<head>
+    <title>Orderly Drawer Organizers  -  Cimple Install</title>
+    <?php
+    include ("../../header.inc.php");
+    ?>
+<div id = "container">
 			<h1>Custom-Cut Drawer Mat</h1>
 			<div id = "content"
 				<p>We offer three options for custom cut drawer mats.
@@ -95,7 +80,7 @@
 				<div id = "data">
 					<div id = "leftdata">
 					<div id = "jsEnabled">
-						<p>You do not have Javascript enabled.  Please use <a href="http://orderlydrawer.com/contact-us">our contact form</a> to place your order and we will invoice you.</p>
+						<p>You do not have Javascript enabled.  Please use <a href="/contact-us">our contact form</a> to place your order and we will invoice you.</p>
 					</div>
 						<form id = "formcalc" action="">
 							<fieldset>
@@ -108,7 +93,7 @@
 								  <option value="clr">Clear</option>
 								</select><br /><br />
 								Enter drawer dimensions:
-								<h6> Please enter sizes in inches. <a href="http://www.orderlydrawer.com/how-to-measure" target="_blank">(How to measure)</a> </h6>
+								<h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
 								<h6> Use decimals, not fractions. <a href="media/fractiontodecimalpopup.jpg" onclick="return popitup('media/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
 								<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" size="12" /> Drawer Inside Width (Mat Width)<br />
 								<input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" size="12" /> Drawer Inside Depth (Mat Length) <br /><br />
@@ -122,8 +107,9 @@
 				<div id = "rightdata">
 				<img src="media/cm_mat.jpg"></>
 				</div>
-			</div>	
-		</div>
-		</div>
-	</body>
+    <?php
+    include ("../../footer.inc.php");
+    ?>
+</body>
 </html>
+

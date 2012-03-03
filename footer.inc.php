@@ -13,13 +13,13 @@
 <!-- close wrapperblog --></div>
 
 <div class="footerlinks">
-<a href="http://orderlydrawer.com">Home Page</a>
-<a href="http://orderlydrawer.com/about-us">About Us</a>
-<a href="http://orderlydrawer.com/customers-comment">Customers Comment</a>
+<a href="/">Home Page</a>
+<a href="/about-us">About Us</a>
+<a href="/customers-comment">Customers Comment</a>
 
-<a href="http://orderlydrawer.com/?page_id=81">Contact Us</a>
-<a href="http://orderlydrawer.com/policies">Policies</a>
-<a href="http://orderlydrawer.com/which-type">Buying Guide</a>
+<a href="/contact-us">Contact Us</a>
+<a href="/policies">Policies</a>
+<a href="/which-type">Buying Guide</a>
 </div>
 
 <!-- close copyright --></div> 

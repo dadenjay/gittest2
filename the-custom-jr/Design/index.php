@@ -4,49 +4,24 @@
 <head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 	<title>Custom Junior -- Design Yours</title>
-	<link rel="shortcut icon" href="http://orderlydrawer.com/wp-content/uploads/2009/02/favicon.ico" >
-	<link href="css/maincmjr800px.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="outerDiv">
+    <?php
+    include ("../../header.inc.php");
+    ?>
 
-		<div id="headerBox">
-			<div id="logo">
-				<a href="http://orderlydrawer.com"><img src="http://orderlydrawer.com/wp-content/uploads/2011/05/odlogo1.jpg" title="drawer organizers" alt="drawer organizers"></a>
-			</div>			
-		
-			<div id="viewCartBox">
-				<a href="http://www.e-junkie.com/ecom/gb.php?c=cart;cl=69858;ejc=2"  target="ej_ejc" class="ec_ejc_thkbx"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
-				<p>423.521.5357</p>
-			</div>			
-			<div id = "mainMenu">
-
-					<ul>
-						<li><a href="http://orderlydrawer.com">Home</a></li>
-						<li><a href="http://orderlydrawer.com/custom-organizers">Custom Inserts</a></li>
-
-						<li><a href="http://orderlydrawer.com/standard-organizers">Standard Organizers</a></li>
-						<li><a href="http://orderlydrawer.com/about-us">About Us</a></li>
-						<li><a href="http://orderlydrawer.com/contact-us">Contact</a></li>
-
-						<li><a href="http://orderlydrawer.com/customers-comment">Testimonials</a></li>
-					</ul>
-			</div>		
-		</div>
-		<div id = "container">			
+        <div id = "container">
 			<h1>Design Your "Custom Jr" Drawer Insert</h1>
-			<p><a href = "http://orderlydrawer.com/the-custom-jr">See Product Details</a></p>
+			<p><a href = "/the-custom-jr">See Product Details</a></p>
 				<div id = "data">
 
 				<div id = "leftdata">
 					<noscript id = "jsEnabled">
-						<p>You do not have Javascript enabled.  Please use <a href="http://orderlydrawer.com/jr">our old form</a>.</p>
+						<p>Please enable Javascript to use this form.</p>
 					</noscript>
 					<form id = "formcalc" class="h5-defaults" action="">
 						<fieldset>
 							<legend>Personalize Your Insert:</legend>
 
-							<h6> Please enter sizes in inches. <a href="http://www.orderlydrawer.com/how-to-measure" target="_blank">(How to measure)</a> </h6>
+							<h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
 							<h6> Use decimals, not fractions. <a href="http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg" onclick="return popitup('http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
 							<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" size="16" /> Internal Drawer Width <br />
 							<div id = "widthResponse"><p> </p></div>
@@ -56,7 +31,7 @@
 							<div id = "depthResponse"><p> </p></div>
 							<div id = "divsResponse"><p>Movable Dividers included: <span>4</span></p></div>
 							<div id = "btmPrice">
-								<input class="btms" id="wBtm" type="checkbox" name="woodBtm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span></span>&nbsp;<a href="http://orderlydrawer.com/attached-bottom" target="_blank">(Learn more)</a>
+								<input class="btms" id="wBtm" type="checkbox" name="woodBtm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span></span>&nbsp;<a href="/attached-bottom" target="_blank">(Learn more)</a>
 
 							</div>
 							<div id = "priceResponse"><p>Price: $<span>20</span></p></div>
@@ -66,7 +41,7 @@
 						<a id = "price" href="">Please enable Javascript to use this form</a>
 					</div>
 
-				<p>(Custom Mat not included with this insert.  It is <a href="http://design.orderlydrawer.com/mat.htm">available here</a>.)</p>
+				<p>(Custom Mat not included with this insert.  It is <a href="../the-custom-jr/mat">available here</a>.)</p>
 				</div>
 				<div id = "rightdata">
 				<img src="https://lh6.googleusercontent.com/-xaw7apm_iuM/TeOrWJr6MyI/AAAAAAAAHnQ/q55dh-sDqlY/calcformpriceformula.jpg"></>
@@ -184,7 +159,7 @@
 			var btmOut = "noBtm";
 			if (btmPrice)
 				{$("#btmPrice span").html(btmPrice.toFixed(2));
-				};
+				}
 			if (document.getElementById("wBtm").checked){price = price + btmPrice; btmOut = "wBtm"};
 			//end of wood bottom pricing section
 			
@@ -198,10 +173,10 @@
 				document.getElementById('price').href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=857033&cl=69858&ejc=2&amount=" + (price.toFixed(2)) + "&on0=Options&os0=w" + width.toFixed(2) + ", d" + depth.toFixed(2) + " Code m" + divs + btmOut;
 				}else{$("#priceResponse p span").html(" Awaiting your Input");	
 				document.getElementById('price').href="";
-				};
+				}
 
-		},
-	};
+		}
+	}
 
 	Calcform.init();
 
@@ -211,9 +186,11 @@
 		newwindow=window.open(url,'name','height=550,width=230,screenX=10,screenY=10');
 		if (window.focus) {newwindow.focus()}
 		return false;
-		};
+		}
 
 		</script>
 
-	</body>
+    <?php
+    include ("../../footer.inc.php");
+    ?>
 </html>
