@@ -8,7 +8,7 @@
 include ("../header.inc.php");
 ?> 
 
-<h4>Policies</h4>
+<h1>Policies</h1>
 <p><span style="text-decoration: underline;">Our Commitment</span>:</p>
 <p>OrderlyDrawer.com is committed to selling high quality products that are unique in the industry.</p>
 <p><span style="text-decoration: underline;">Shipping Commitment</span>:</p>

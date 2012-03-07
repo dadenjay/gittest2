@@ -1,3 +1,52 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* end reset */
 html,
 body  {
     font-family: "Trebuchet MS", sans-serif;
@@ -11,13 +60,47 @@ p, h1, h2, h3, h4, h5, h6, li {
     margin: 1ex 1em;
 }
 
+p  {
+    margin: 3ex 1ex 1ex 1ex;
+    line-height: 1.25em;
+
+}
+
+p:first-line {
+    font-size: 1.1em;
+}
 h1 {
 	text-align: center;
-	margin-top: 5px;
-	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+    font-family: trebuchet MS;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #354C56;
 	
-}	
+}
 
+h2 {
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    font-size: 1.6em;
+    font-weight: bold;
+
+}
+
+h3 {
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+img {
+    padding: 1px 3px;
+}
 a img {
 	border: none; 
 }
@@ -31,10 +114,10 @@ a img {
 }
 
 #headerBox {
-	width: 800x;
+	width: 800px;
 	height: 120px;
 	margin: 0 auto;
-	background-color: none;
+	background-color: #fff;
 	position: relative;
 }
 
@@ -105,7 +188,37 @@ div#viewCartBox {
     cursor: default;
 }*/
 
-
+.button {
+    border-top: 1px solid #96d1f8;
+    background: #447fa6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#267482), to(#376173));
+    background: -webkit-linear-gradient(top, #267482, #376173);
+    background: -moz-linear-gradient(top, #267482, #376173);
+    background: -ms-linear-gradient(top, #267482, #376173);
+    background: -o-linear-gradient(top, #267482, #376173);
+    padding: 10px 29px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #ffffff;
+    font-size: 23px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.button:hover {
+    border-top-color: #28597a;
+    background: #71a3b9;
+    color: #ccc;
+}
+.button:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+}
 
 div#container {
     width: 800px;       /* sets the content width */
@@ -162,7 +275,8 @@ div.callout {
 }
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
+    color: #0D3968;
 }
 
 a#price {
@@ -181,6 +295,8 @@ a#price {
    color: #bebebe;
 }   
 
+
+}
 /*6july11 used for no JS enabled on cmjr calcform */
 #jsEnabled p{
 	background: red;

@@ -15,7 +15,7 @@
 		
 	</h1>
 	<noscript id = "jsEnabled">
-		<p>You do not have Javascript enabled.  Please use <a href="http://orderlydrawer.com/jr">our old form</a>.</p>
+		<p>You do not have Javascript enabled.  Please use <a href="../the-custom">our old form</a>.</p>
 	</noscript>
 	<!-- width and depth fields with response divs -->
 	<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" class="chg" size="16" /> Internal Drawer Width <br />

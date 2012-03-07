@@ -8,7 +8,7 @@
 include ("../header.inc.php");
 ?> 
 
-<h4>Order Confirmation</h4>
+<h1>Order Confirmation</h1>
 <p>Thank you for your order.  Your payment has been received, and your order is being processed.</p>
 <p>Would you like to continue shopping?  See the menu above.</p>
 

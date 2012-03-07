@@ -5,7 +5,7 @@
 <?php
 include ("../header.inc.php");
 ?> 
-<h4>The Cimple</h4>
+<h1>The Cimple</h1>
 <h2><strong>Available in three sizes: 3&#8243;, 4.5&#8243;, 6&#8243;, and 8&#8243; high</strong></h2>
 <div class="noticebox">Prices starting at $4 for a regular divider.  Seconds starting at $2.<br />
 Check out at end of page.</div>
@@ -30,7 +30,7 @@ Check out at end of page.</div>
 <p><strong>Doubles as a Shelf Divider!</strong></p>
 <p>That&#8217;s right.  You can use the Cimple to divide shelves from 17&#8243; high opening all the way down to around 7&#8243;.</p>
 
-<p>See our Cimple FAQ page to <a href="http://orderlydrawer.com/cimple-faq">learn more about the Cimple divider.</a></p>
+<p>See our Cimple FAQ page to <a href="/expandable-dividers/cimple-faq">learn more about the Cimple divider.</a></p>
 <p><strong>Reasons You Might Not Want to Choose the Cimple</strong></p>
 <ul>
 <li>The Cimple is made of natural wood, sanded smooth so it is easy on your delicates and fingers.  <em>However, you may find that it is not smooth enough for repeated contact with ultra-delicate items such as hosiery.</em></li>
@@ -79,7 +79,7 @@ Check out at end of page.</div>
 
 <input class="ec_ejc_thkbx" onclick="javascript:return EJEJC_lc(this.parentNode);" alt="Add to Cart" src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" type="image" />
 </form>
-<p><a href="http://orderlydrawer.com/payment-options" target="_blank">See our Payment Options.</a></p>
+<p><a href="/payment-options" target="_blank">See our Payment Options.</a></p>
 
 
 <?php

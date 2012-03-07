@@ -1,6 +1,6 @@
 
 <link rel="shortcut icon" href="http://orderlydrawer.com/wp-content/uploads/2009/02/favicon.ico" >
-	<link href="../css/maincmjr800px.css" rel="stylesheet" type="text/css" />
+	<link href="/css/maincmjr800px.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div id="outerDiv">

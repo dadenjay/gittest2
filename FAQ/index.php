@@ -8,15 +8,15 @@
 include ("../header.inc.php");
 ?> 
 
-<h4>Frequently Asked Questions</h4>
+<h1>Frequently Asked Questions</h1>
 <p><strong><span style="color: #800000;"><em>What wood do you use?</em></span></strong><br />
-For our Custom products, we use maple and cabinet grade hardwoods. <a href="http://orderlydrawer.com/wood-types"></a></p>
+For our Custom products, we use maple. ></p>
 <p>For our Cimple drawer dividers, we use un-finished plywood.</p>
 <p><span style="color: #800000;"><em><strong>I&#8217;m planning to order a custom, but it seems like you need to have more measurements from me than what you ask on the order form.  Don&#8217;t you need measurements for each section?</strong></em></span> The measurements we have you specify for the templates on our site - your drawer width, depth, and the A,B,C &amp; D values (if applicable for your template) - are the only measurements we need.  All other measurements will be determined by the ones you give us.</p>
 
 <p><span style="color: #800000;"><strong><em>How many movable dividers will I get in my custom drawer insert?</em></strong></span>We provide one movable divider for every 2&#8243; of space, so when the dividers are spaced evenly, the average compartment size will be 2&#8243; in width.</p>
 <p>We cannot provide movable dividers for compartments that are less than 3&#8243; wide.</p>
-<p><span style="color: #800000;"><em><strong>What is the spacing increment between the slots on your custom insert?</strong></em></span><a href="http://orderlydrawer.com/slot-spacing">See details of our slot spacing here.</a></p>
+<p><span style="color: #800000;"><em><strong>What is the spacing increment between the slots on your custom insert?</strong></em></span><a href="/slot-spacing">See details of our slot spacing here.</a></p>
 <p><span style="color: #800000;"><em><strong>Why are your custom inserts bottomless?</strong> </em></span> In most cases an attached bottom is unnecessary since the drawer bottom can serve as the organizer bottom.  Also, drawers are easier to clean when the organizer is bottomless.  The insert can be lifted out so that the drawer can be wiped clean.  This way there will be no buildup of debris in the corners of your organizer.</p>
 
 <p><strong><span style="color: #800000;"><em>Why does adding a bottom to my organizer raise the price so much? </em></span> </strong>There are 3 reasons.  One: it requires more wood.  Two: The process of adding a bottom to these inserts is kind of tricky; extra care is needed.  Three: When we add a bottom, the shipping weight - and therefore, the shipping price - goes up.</p>

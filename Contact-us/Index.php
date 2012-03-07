@@ -8,7 +8,7 @@
 include ("../header.inc.php");
 ?> 
 
-<h4>Contact Us</h4>
+<h1>Contact Us</h1>
 <p><strong>EMAIL </strong> &#8212;  info (at) orderlydrawer (dot com)</p>
 <p><strong> </strong></p>
 <p><img class="alignnone size-full wp-image-1574" src="http://orderlydrawer.com/wp-content/uploads/2010/07/od-phone21.jpg" alt="" width="245" height="42" /></a></p>

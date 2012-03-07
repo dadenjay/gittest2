@@ -8,7 +8,7 @@
 include ("../header.inc.php");
 ?> 
 
-<h4>How to Measure</h4>
+<h1>How to Measure</h1>
 <p><strong>Drawer Inside Width</strong></p>
 <p>Measure in several places, looking for the minimum value.  It is okay for your measurement to be &#8220;tight&#8221;.  We will build your inserts and mats 1/8&#8243; less than the width you tell us (unless specified otherwise).</p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2008/11/typ-drawer-width-measure-cleaned-up.jpg"><img class="aligncenter size-full wp-image-151" title="typ-drawer-width-measure-cleaned-up" src="http://orderlydrawer.com/wp-content/uploads/2008/11/typ-drawer-width-measure-cleaned-up.jpg" alt="" width="500" height="336" /></a></p>

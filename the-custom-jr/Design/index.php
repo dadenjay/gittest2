@@ -41,7 +41,7 @@
 						<a id = "price" href="">Please enable Javascript to use this form</a>
 					</div>
 
-				<p>(Custom Mat not included with this insert.  It is <a href="../the-custom-jr/mat">available here</a>.)</p>
+				<p>(Custom Mat not included with this insert.  It is <a href="/the-custom-jr/mat">available here</a>.)</p>
 				</div>
 				<div id = "rightdata">
 				<img src="https://lh6.googleusercontent.com/-xaw7apm_iuM/TeOrWJr6MyI/AAAAAAAAHnQ/q55dh-sDqlY/calcformpriceformula.jpg"></>

@@ -17,13 +17,13 @@ include ("../header.inc.php");
 </ul>
 <p>Click on their names or photos to see more details.</p>
 <div class="picbox">
-<div><a href="http://orderlydrawer.com/the-caddy"><img src="http://orderlydrawer.com/wp-content/uploads/2009/02/adsc06134.jpg" alt="" width="160" height="90" /></a></p>
-<div class="texta"><a href="http://orderlydrawer.com/the-caddy"> The Caddy</a></div>
+<div><a href="/the-caddy"><img src="http://orderlydrawer.com/wp-content/uploads/2009/02/adsc06134.jpg" alt="" width="160" height="90" /></a></p>
+<div class="texta"><a href="/the-caddy"> The Caddy</a></div>
 </div>
 </div>
 <div class="picbox">
-<div><a href="http://orderlydrawer.com/expandable-dividers"><img class="alignnone size-medium wp-image-1316" title="3-sizes-cimples2" src="http://orderlydrawer.com/wp-content/uploads/2009/10/3-sizes-cimples2-245x184.jpg" alt="" width="160" height="90" /></a></p>
-<div class="texta"><a href="http://orderlydrawer.com/expandable-dividers"> The Cimple</a></div>
+<div><a href="/expandable-dividers"><img class="alignnone size-medium wp-image-1316" title="3-sizes-cimples2" src="http://orderlydrawer.com/wp-content/uploads/2009/10/3-sizes-cimples2-245x184.jpg" alt="" width="160" height="90" /></a></p>
+<div class="texta"><a href="/expandable-dividers"> The Cimple</a></div>
 </div>
 </div>
 

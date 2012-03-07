@@ -11,7 +11,7 @@ include ("../header.inc.php");
 <!-- open content --><div id="contentblog">
 
 
-<h4>Why You Might Want an Attached Bottom on Your Custom Drawer Insert</h4>
+<h1>Does Your Drawer Organizer Need an Attached Bottom?</h1>
 <p>Considering an attached bottom for your custom drawer insert?</p>
 <p><em>First consider your drawer bottom.</em> If your drawer bottom is bowed, you need an attached bottom for your drawer insert.  Check to see if your drawer bottom is bowed by using a tight string or a straight edge to test it.</p>
 <p>Especially on larger drawers, we recommend that you put some weight in the drawer so that you know whether the bottom will actually remain flat when loaded.</p>

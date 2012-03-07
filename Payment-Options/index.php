@@ -8,7 +8,7 @@
 include ("../header.inc.php");
 ?> 
 
-<h4>Payment Options</h4>
+<h1>Payment Options</h1>
 <p>We currently accept the following payment options:</p>
 <ul>
 <li>Paypal</li>

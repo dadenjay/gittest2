@@ -8,7 +8,7 @@
 include ("../header.inc.php");
 ?> 
 
-<p><strong>TYPICAL SLOT SPACING AND MOVABLE DIVIDER SIZE</strong></p>
+<h1>TYPICAL SLOT SPACING AND MOVABLE DIVIDER SIZE</h1p>
 <p>The drawing below shows the typical spacing and size of the slots in our custom products.</p>
 <p><img class="alignnone" title="typical slot detail" src="https://lh5.googleusercontent.com/-9SndTcf9vB8/TetoIZyY-II/AAAAAAAAHsw/PzBO4BxSdlw/slotdetails-1.jpg" alt="" width="603" height="264" /><br />
 <br /></br></p>
