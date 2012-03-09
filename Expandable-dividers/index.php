@@ -60,7 +60,6 @@ Check out at end of page.</div>
 <h6>6&#8243; High Cimple Divider - $6.50</h6>
 <h6>8&#8243; High Cimple Divider - $8.00</h6>
 <h6>6&#8243; High XL Cimple Divider - $10.00</h6>
-<h2><strong>Please Note: Orders of 6&#8243; tall Cimples placed 10-24-11 or later will be shipped the week of November 1st.</strong></h2>
 
 <form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=329356&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Size:</p>
 <select name="o1"> <option value="3&quot; High Expandable Divider">3&#8243; High Expandable Divider</option> <option value="4.5&quot; High Expandable Divider">4.5&#8243; High Expandable Divider</option> <option value="6&quot; High Expandable Divider">6&#8243; High Expandable Divider</option> <option value="8&quot; High Expandable Divider">8&#8243; High Expandable Divider</option> <option value="6&quot; High XL Expandable Divider">6&#8243; High XL Expandable Divider</option> </select>

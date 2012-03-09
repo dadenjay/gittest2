@@ -71,9 +71,9 @@ p:first-line {
 }
 h1 {
 	text-align: center;
-	margin-top: 10px;
+	margin-top: 30px;
 	margin-bottom: 15px;
-    font-family: trebuchet MS;
+    font-family: trebuchet MS, Arial;
     font-size: 2.2em;
     font-weight: bold;
     color: #354C56;
@@ -140,13 +140,17 @@ div#viewCartBox {
 
 #mainMenu {
 	position: relative;
+
 }
 
 #mainMenu ul {
-    width: 835px;
+    width: 650px;
 	list-style: none;
     margin: 0 0 0 25px;
     padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 #mainMenu li {
@@ -235,7 +239,8 @@ div#data {
 }	
 
 div#leftdata {
-	position: absolute;
+	/*position: absolute;*/
+    float: left;
 	width: 390px;
 	background-color: #f0f0f0;
 	border-radius: 15px; 
@@ -253,15 +258,11 @@ div#rightdata {
 	
 }
 
-div#rightdata p{
-	background-color: yellow;
-}
-
 div#widthResponse p, div#depthResponse p{
 	height: 50%;
 	color: gray;
 }
-
+/* killed on 9mar12 b/c we're going to use the button instead
 div.callout {
 	background-color: #8D000B;
 	padding: 15px;
@@ -271,11 +272,11 @@ div.callout {
 	-moz-border-radius: 15px; 
 	text-decoration: none;
 	text-align: center;
-	
-}
+} */
 
 a {
-	text-decoration: underline;
+    text-decoration: none;
+    text-transform: uppercase;
     color: #0D3968;
 }
 
@@ -285,7 +286,7 @@ a#price {
 	font-weight: bold;
 }
 
-#footer {
+#footerlinks {
    clear: both;
    position:absolute;
    bottom:0;
@@ -293,32 +294,16 @@ a#price {
    height:25px;   /* Height of the footer */
    background:transparent;
    color: #bebebe;
-}   
+}
 
+#footerlinks a {
+    padding-left: 20px;
+}
+hr{
+    padding-top:20px;
 
 }
 /*6july11 used for no JS enabled on cmjr calcform */
 #jsEnabled p{
 	background: red;
 }
-/* end 6july11 */
-
-
-/*
-
-div#header {
-    height: 110px;      // set size equal to banner image 
-    position: relative;
-}
-
-#outerDiv a:link, #outerDiv a:visited {
-    text-decoration: none;
-    color: #b36b00;
-}
-
-#outerDiv a:hover, #outerDiv a:active {
-    color: #566440;
-    border-bottom: 1px dashed #566440;
-}
-
-*/

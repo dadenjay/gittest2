@@ -424,7 +424,7 @@
 				var sel = document.getElementById("height");
 				var ht = sel.value;
 				//if ht doesn't work, try "return ht" from that fn
-				var code = "T"+template+price.toFixed(0)+"W"+insW+"D"+insD+"H"+ht+dimSnippet+","+divSnippet+","+scoopSnippet+btm;
+				var code = "T"+template+price.toFixed(0)+"W"+insW+"D"+insD+"H"+ht+dimSnippet+","+divSnippet+","+scoopSnippet+","+btm;
 				console.log("code string is %s", code);
 				//fix the anchor text and the url of checkout button
 				$("#price").text('Add to Shopping Cart');

@@ -2,11 +2,12 @@
 
 <html lang="en" dir="ltr">
 	<head>
-		<title>FORM Response</title>
-	</head>
-	<body>
+		<title>Thank You</title>
+        <?php
+        include ("../header.inc.php");
+        ?>
 
-<?php
+        <?php
 if(isset($_POST['submit'])) {
 //$to = "njh246@gmail.com";
 $to  = 'njh246@gmail.com' . ', '; // note the comma
@@ -53,8 +54,8 @@ mail($to, $subject, $body);
 echo "Failed attempt to initialize.  Sorry.";
 
 }
-?> 
+?>
 
-
-	</body>
-</html>
+<?php
+include ("../footer.inc.php");
+?>

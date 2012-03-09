@@ -1,5 +1,6 @@
         <!-- open footer -->
-        <div class="footerlinks">
+        <div id="footerlinks">
+            <hr/>
             <a href="/">Home Page</a>
             <a href="/about-us">About Us</a>
             <a href="/customers-comment">Customers Comment</a>

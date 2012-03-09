@@ -11,7 +11,7 @@ include ("../header.inc.php");
 <h1>Custom Organizers</h1>
 <p>The following are Custom Organizers we currently offer.</p>
 <ul>
-<li><strong>The Custom</strong> is a full-drawer organizer.  These are priced by the inch with many template options.</li>
+<li><strong>The Custom</strong> is a full-drawer organizer.  These are priced by the square-inch with many layout options.</li>
 <li><strong>The Custom Jr.</strong> is designed for narrow drawers.  You get a custom-width fit.</li>
 
 </ul>
