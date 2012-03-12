@@ -8,100 +8,90 @@
 include ("../header.inc.php");
 ?> 
 
-<h1>The Custom</h1>
+<h1>The Custom: Full-Drawer Customized Insert</h1>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/03/ebay-gallery-pic.jpg"><img class="size-thumbnail wp-image-819" src="http://orderlydrawer.com/wp-content/uploads/2009/03/ebay-gallery-pic-150x150.jpg" alt="" width="150" height="150" align="right" /></a><br />
-Solid wood. Adjustable. A custom fit. Your choice of layout. What more could you want in a drawer organizer?</p>
-<p style="text-align: left;">Forget wondering if your new drawer insert will fit; forget rummaging around in chaotic drawers.  No more too narrow or too wide compartments.  All the solutions are here in our custom, made-to-order drawer organizer inserts.</p>
-<p style="text-align: left;">The best part: they<strong>start at just $40!</strong> (Note: if price is an issue, consider our <a href="http://orderlydrawer.com/the-custom-jr">Custom Jr</a> - prices start around $20 - especially if you have a narrow drawer.)  Our standard custom drawer organizers are $.20/square inch.  So, for a 12&#8243; x 20&#8243; deep drawer, multiply 12&#8243; x 20&#8243; x $.20.  The cost would be $48.</p>
+<p>Solid wood. Adjustable. A custom fit. Your choice of layout. What more could you want in a drawer organizer?</p>
+<p>Forget wondering if your new drawer insert will fit; forget rummaging around in chaotic drawers.  No more too narrow or too wide compartments.  All the solutions are here in our custom, made-to-order drawer organizer inserts.</p>
+<p>The best part: they <strong>start at just $40! (Note: if price is an issue, consider our <a href="http://orderlydrawer.com/the-custom-jr">Custom Jr</a> - prices start around $20 - especially if you have a narrow drawer.)  Our standard custom drawer organizers are $.20/square inch.  So, for a 12&#8243; x 20&#8243; deep drawer, multiply 12&#8243; x 20&#8243; x $.20.  The cost would be $48.</p>
 
-<p style="text-align: left;"><a href="/customer-pictures">See more customers&#8217; pictures of Orderly Drawers.</a></p>
-<p style="text-align: left;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744.jpg"><img class="alignnone size-medium wp-image-1290" title="junk drawer organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744-244x183.jpg" alt="" width="244" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210.jpg"><img class="alignnone size-medium wp-image-617" title="insert with knives" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2.jpg"><img class="alignnone size-medium wp-image-1292" title="custom flatware insert" src="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2-244x183.jpg" alt="" width="244" height="183" /></a></p>
-<p style="text-align: left;"><em><span style="color: #800000;">&#8220;It fits just perfectly and now I can actually see what I&#8217;m grabbing.&#8221;</span></em>- Joslyn H., South Elgin, IL</p>
-<p style="text-align: left;"><strong>What Makes our Organizers Unique</strong></p>
-<ul style="text-align: left;">
+<p><a href="/customer-pictures">See more customers' pictures of Orderly Drawers.</a></p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744.jpg"><img class="alignnone size-medium wp-image-1290" title="junk drawer organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744-244x183.jpg" alt="" width="244" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210.jpg"><img class="alignnone size-medium wp-image-617" title="insert with knives" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2.jpg"><img class="alignnone size-medium wp-image-1292" title="custom flatware insert" src="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2-244x183.jpg" alt="" width="244" height="183" /></a></p>
+<p>It fits just perfectly and now I can actually see what I'm grabbing."- Joslyn H., South Elgin, IL</p>
+<p>What Makes our Organizers Unique</p>
+<ul>
 <blockquote>
-<li>They are made of solid hardwood</li>
-
+<li>They are made of solid Canadian maple</li>
 <li>They have movable dividers for easy micro-adjustability</li>
 <li>The are made-to-order from your dimensions and layout choice</li>
 <li>They have a urethane finish that resists stains</li>
-<li>They are bottomless - your drawer&#8217;s bottom will serve as the bottom of the organizer (we do include an option of adding a bottom for an additional charge)</li>
-<li>Height options from 1.5&#8243; - 3.5&#8243;  (Add 1/4&#8243; if including a bottom)</li>
+<li>They are bottomless - your drawer's bottom will serve as the bottom of the organizer (we do include an option of adding a bottom for an additional charge)</li>
+<li>Height options from 1.5" - 3.5"  (Add 1/4" if including a bottom)</li>
 </blockquote>
 
 </ul>
-<p style="text-align: left;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205.jpg"><img class="alignnone size-medium wp-image-619" title="skewed dividers make space for irregular items" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185.jpg"><img class="alignnone size-medium wp-image-620" title="OrderlyDrawer.com's unique adjustable dividers" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1.jpg"><img class="alignnone size-medium wp-image-1296" title="bathroom organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1-244x184.jpg" alt="" width="244" height="184" /></a></p>
-<p style="text-align: left;"><em></em></p>
-<p style="text-align: left;">
-<h2 style="text-align: left;"><strong>Options for your OrderlyDrawer Custom Drawer Insert</strong></h2>
-<ul style="text-align: left;">
-<li><span style="text-decoration: underline;">Add a Bottom</span> to your organizer. If your drawer bottom is showing age, bowed, etc. you might want us to add a finished plywood bottom to your insert. Attached bottoms are $10 plus $0.01/square inch.  (So a bottom for a 10&#8243; x 20&#8243; drawer would be 10 x 20 x $0.01 + $10, or $12.00.)  <a href="/attached-bottom" target="_self">Read more about attached bottoms here.</a></li>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205.jpg"><img class="alignnone size-medium wp-image-619" title="skewed dividers make space for irregular items" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185.jpg"><img class="alignnone size-medium wp-image-620" title="OrderlyDrawer.com's unique adjustable dividers" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1.jpg"><img class="alignnone size-medium wp-image-1296" title="bathroom organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1-244x184.jpg" alt="" width="244" height="184" /></a></p>
 
-<li><span style="text-decoration: underline;">Make it Maple</span>.  Our base-line custom organizers are made of the hardwood of our choice.  We also offer maple for an additional $0.02 per square inch. So, maple inserts are $0.22 per square inch.</li>
-<li><span style="text-decoration: underline;">Make it (Maple AND make it) taller</span>.  All custom inserts over 2&#8243; tall are made with maple.  We can make maple inserts up to 3.5&#8243; high.  Organizers over 2&#8243; tall may take an additional 5 business days to ship.  (<a href="http://orderlydrawer.com/exact-height">Need an exact height not listed below?</a>)</li>
-<li style="text-align: center;">2.5&#8243; tall maple inserts are $0.29/square inch</li>
-
-<li style="text-align: center;">3.0&#8243; tall maple inserts are $0.35/square inch</li>
-<li style="text-align: center;">3.5&#8243; tall maple inserts are $0.43/square inch</li>
-<li><span style="text-decoration: underline;">Add a Custom-Sized Rubber Mat</span> that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="http://orderlydrawer.com/custom-cut-drawer-mat">See our mat options here.</a></li>
-<li><span style="text-decoration: underline;">Add Scooped Dividers.</span> Learn <a href="http://orderlydrawer.com/scooped-dividers" target="_self">more about scoops here.</a></li>
-
-</ul>
-<p style="text-align: left;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06295.jpg"><img class="alignnone size-medium wp-image-735" title="custom drawer insert" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06295-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06333.jpg"><img class="alignnone size-medium wp-image-736" title="close-up of slot &amp; divider system" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06333-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06336.jpg"><img class="alignnone size-medium wp-image-737" title="custom insert, ready to be disassembled, packaged &amp; shipped" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06336-245x183.jpg" alt="" width="245" height="183" /></a></p>
-<h2 style="text-align: left;"><strong>What you&#8217;ll need to know before you order</strong>:</h2>
-<ol style="text-align: left;">
-<li><strong><span style="color: #888888;">Your drawer measurements.</span></strong> The drawing below shows the measurements we&#8217;ll need to construct your organizer.</li>
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/measurementjp.jpg"><img class="size-full wp-image-767 aligncenter" title="measurementjp" src="http://orderlydrawer.com/wp-content/uploads/2009/02/measurementjp.jpg" alt="" width="368" height="328" /></a></p>
-<p style="text-align: center;">
-<p style="padding-left: 60px; text-align: left;">
-</ol>
+<h2>Options & Upgrades for your Custom Drawer Insert</h2>
 <ul>
+<li>Add a Bottom to your organizer. If your drawer bottom is showing age, bowed, etc. you might want us to add a finished plywood bottom to your insert. Attached bottoms are $10 plus $0.01/square inch.  (So a bottom for a 10&#8243; x 20&#8243; drawer would be 10 x 20 x $0.01 + $10, or $12.00.)  <a href="/attached-bottom" target="_self">Read more about attached bottoms here.</a></li>
 
-<li>We will build the insert slightly smaller than the size of the drawer you report to us.  Measure the width and depth at 3 different locations (e.g.: front, middle, back), and give us the smallest number you measure in each direction (side to side; and front to back). <a href="/how-to-measure" target="_blank">This link explains how we&#8217;ll use your measurements to size your insert</a>.<strong></strong></li>
+<li>Height.  Choose a height in 1/2" increments from 1.5" to 3.5" tall.</li>
+<ul><ul><li>2.5" tall maple inserts are $0.29/square inch</li>
+
+<li>3.0" tall maple inserts are $0.35/square inch</li>
+<li>3.5" tall maple inserts are $0.43/square inch</li></ul></ul>
+<li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="http://orderlydrawer.com/custom-cut-drawer-mat">See our mat options here.</a></li>
+<li>Add Scooped Dividers. Learn <a href="http://orderlydrawer.com/scooped-dividers" target="_self">more about scoops here.</a></li>
+
 </ul>
-<p style="text-align: left;">2. <strong>Your preferred layout.</strong></p>
-<p style="text-align: left;">The following are some templates (or layouts) you may want to consider for your drawer.</p>
-<li style="text-align: left;">The black lines show fixed 1/2&#8243; pieces.  <a href="/thin-walls-for-narrow-drawers">(In some cases, we&#8217;re able to use thinner fixed walls for narrow drawers.)</a></li>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06295.jpg"><img class="alignnone size-medium wp-image-735" title="custom drawer insert" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06295-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06333.jpg"><img class="alignnone size-medium wp-image-736" title="close-up of slot &amp; divider system" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06333-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06336.jpg"><img class="alignnone size-medium wp-image-737" title="custom insert, ready to be disassembled, packaged &amp; shipped" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06336-245x183.jpg" alt="" width="245" height="183" /></a></p>
+<h3>What you'll need to know before you order:</h3>
 
-<li style="text-align: left;">The blue lines are thin (max of 3/16&#8243; &#8212; <a href="/slot-spacing">learn more</a>), movable dividers;</li>
-<li style="text-align: left;">The red letters represent usable space between fixed 1/2&#8243; dividers (thick black lines).<br />
-These are dimensions you can specify. (You might want to measure some of your utensils to help you determine the best numbers.)</li>
-<p style="text-align: left;">
-<p style="text-align: left;">Not all of our templates are appropriate for all drawer sizes.  See the recommended minimum drawer width for our templates.</p>
-<p style="text-align: left;"><strong>The following templates are suitable for any drawer size.</strong></p>
+<p>1. Your drawer measurements. The drawing below shows the measurements we'll need to construct your organizer.</p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/measurementjp.jpg"><img class="size-full wp-image-767 aligncenter" title="measurementjp" src="http://orderlydrawer.com/wp-content/uploads/2009/02/measurementjp.jpg" alt="" width="368" height="328" /></a></p>
 
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/16.jpg"><img class="alignnone size-medium wp-image-782" title="template 1" src="http://orderlydrawer.com/wp-content/uploads/2009/02/16-192x245.jpg" alt="" width="192" height="245" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/22.jpg"><img class="alignnone size-medium wp-image-783" title="template 2" src="http://orderlydrawer.com/wp-content/uploads/2009/02/22-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/32.jpg"><img class="alignnone size-medium wp-image-784" title="template 3" src="http://orderlydrawer.com/wp-content/uploads/2009/02/32-192x245.jpg" alt="" width="192" height="245" /></a></p>
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/41.jpg"><img class="alignnone size-medium wp-image-785" title="template 4" src="http://orderlydrawer.com/wp-content/uploads/2009/02/41-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2010/01/template16.jpg"><img class="alignnone size-medium wp-image-1412" title="template16" src="http://orderlydrawer.com/wp-content/uploads/2010/01/template16-188x245.jpg" alt="" width="188" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2010/01/template17.jpg"><img class="alignnone size-medium wp-image-1413" title="template17" src="http://orderlydrawer.com/wp-content/uploads/2010/01/template17-168x245.jpg" alt="" width="168" height="245" /></a></p>
-<p style="text-align: center;">
-<p style="text-align: left;">
-<p style="text-align: left;">
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2011/01/template184.jpg"><img class="size-medium wp-image-1699 aligncenter" title="template18" src="http://orderlydrawer.com/wp-content/uploads/2011/01/template184-244x245.jpg" alt="" width="244" height="245" /></a></p>
-<p style="text-align: left;"><strong>The following templates require a minimum drawer width of 14 inches.</strong></p>
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/51.jpg"><img class="alignnone size-medium wp-image-786" title="template 5" src="http://orderlydrawer.com/wp-content/uploads/2009/02/51-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/61.jpg"><img class="alignnone size-medium wp-image-787" title="template 6" src="http://orderlydrawer.com/wp-content/uploads/2009/02/61-192x245.jpg" alt="" width="192" height="245" /></a></p>
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/71.jpg"><img class="alignnone size-medium wp-image-789" title="template 7" src="http://orderlydrawer.com/wp-content/uploads/2009/02/71-192x245.jpg" alt="" width="192" height="245" /> </a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/82.jpg"><img class="alignnone size-medium wp-image-790" title="template 8" src="http://orderlydrawer.com/wp-content/uploads/2009/02/82-192x245.jpg" alt="" width="192" height="245" /></a></p>
-<p style="text-align: left;">
-<p style="text-align: left;">
-<p style="text-align: left;"><strong>The following templates require a minimum drawer width of 20 inches.</strong></p>
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/93.jpg"><img class="alignnone size-medium wp-image-791" title="template 9" src="http://orderlydrawer.com/wp-content/uploads/2009/02/93-226x245.jpg" alt="" width="226" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/101.jpg"><img class="alignnone size-medium wp-image-792" title="template 10" src="http://orderlydrawer.com/wp-content/uploads/2009/02/101-226x245.jpg" alt="" width="226" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/112.jpg"><img class="alignnone size-medium wp-image-801" title="template 11" src="http://orderlydrawer.com/wp-content/uploads/2009/02/112-226x245.jpg" alt="" width="226" height="245" /></a></p>
 
-<p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/122.jpg"><img class="alignnone size-medium wp-image-800" title="template 12" src="http://orderlydrawer.com/wp-content/uploads/2009/02/122-245x217.jpg" alt="" width="245" height="217" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/132.jpg"><img class="alignnone size-medium wp-image-802" title="template 13" src="http://orderlydrawer.com/wp-content/uploads/2009/02/132-245x221.jpg" alt="" width="245" height="221" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/142.jpg"><img class="alignnone size-medium wp-image-803" title="template 14" src="http://orderlydrawer.com/wp-content/uploads/2009/02/142-245x211.jpg" alt="" width="245" height="211" /></a></p>
-<h3 style="text-align: center;"><em>&#8220;What if none of these templates will work for me?&#8221;</em></h3>
-<p style="text-align: left;">Although the templates above will work for most cases, you are also welcome to come up with your own layout design. Here are the ways you can go about communicating your design to us:</p>
-<li style="text-align: left;">Sketch it in the style of the templates above, photo or scan it, and <a href="/contact-us" target="_blank">email it to us</a>.</li>
-<li style="text-align: left;"><a href="/contact-us" target="_blank">Fax it to us</a>.</li>
-<li style="text-align: left;">Describe the dimensions of your drawer and contents, we&#8217;ll make a sketch, and email it to you for approval. Going this route may delay your shipping date somewhat.</li>
-<p style="text-align: left;">
-<p style="text-align: left;"><em><span style="color: #800000;">&#8220;Just FANTASTIC,GREAT fit, PERFECT. Thank you.�</span></em><span style="color: #800000;"> </span>- Dave W., Winchester,VA</p>
 
-<p style="text-align: left;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06212.jpg"><img class="alignnone size-medium wp-image-655" title="junk drawer organizer" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06212-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07224.jpg"><img class="alignnone size-medium wp-image-656" title="1 divider provided for every 2&quot; of slotted space" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07224-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07182.jpg"><img class="alignnone size-medium wp-image-657" title="desk drawer custom organizer" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07182-245x183.jpg" alt="" width="245" height="183" /></a></p>
-<p style="text-align: left;"><em><span style="color: #800000;">&#8220;I ABSOLUTELY LOVE IT!!!  Fits all of my utensils as well as silverware in it.�</span></em> - Cheryl B., Romulus, MI</p>
-<p style="text-align: left;"><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06211.jpg"><img class="alignnone size-medium wp-image-661" title="custom insert with flatware caddy" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06211-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06290.jpg"><img class="alignnone size-medium wp-image-733" title="custom organizer with removable caddy" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06290-245x183.jpg" alt="" width="245" height="183" /></a></p>
-<p style="text-align: left;"><strong>Our Custom Inserts are priced by the square inch, starting at $0.20 per square-inch.  (That&#8217;s your drawer&#8217;s width times depth times $0.20)</strong></p>
-<p style="text-align: left;"><strong>Prices are subject to change.  Quotes are valid for one month. </strong></p>
-<p style="text-align: left;">To order or request a quote, submit the following form.  Once your form has been received and reviewed, we&#8217;ll contact you.</p>
+<p>We will build the insert slightly smaller than the dimensions you provide us.  Measure the width and depth at 3 different locations (e.g.: front, middle, back), and give us the smallest number you measure in each direction (side to side; and front to back). <a href="/how-to-measure" target="_blank">This link explains how we'll use your measurements to size your insert</a>.</p>
 
-<p style="text-align: left;">You can use the form for submitting questions too.</p>
-<div style="text-align: left;">
+<p>2. Your preferred layout.</p>
+<p>The following are some templates (or layouts) you may want to consider for your drawer.</p>
+<li>The black lines show fixed 1/2" pieces.  <a href="/thin-walls-for-narrow-drawers">(In some cases, we&#8217;re able to use thinner fixed walls for narrow drawers.)</a></li>
+
+<li>The blue lines are thin (max of 3/16" --<a href="/slot-spacing">learn more</a>), movable dividers;</li>
+<li>The red letters represent usable space between fixed 1/2" dividers (thick black lines).  These are dimensions you can specify. (You might want to measure some of your utensils to help you determine the best numbers.)</li>
+
+<p>Not all of our templates are appropriate for all drawer sizes.  See the recommended minimum drawer width for our templates.</p>
+<p>The following templates are suitable for any drawer size.</p>
+
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/16.jpg"><img class="alignnone size-medium wp-image-782" title="template 1" src="http://orderlydrawer.com/wp-content/uploads/2009/02/16-192x245.jpg" alt="" width="192" height="245" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/22.jpg"><img class="alignnone size-medium wp-image-783" title="template 2" src="http://orderlydrawer.com/wp-content/uploads/2009/02/22-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/32.jpg"><img class="alignnone size-medium wp-image-784" title="template 3" src="http://orderlydrawer.com/wp-content/uploads/2009/02/32-192x245.jpg" alt="" width="192" height="245" /></a></p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/41.jpg"><img class="alignnone size-medium wp-image-785" title="template 4" src="http://orderlydrawer.com/wp-content/uploads/2009/02/41-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2010/01/template16.jpg"><img class="alignnone size-medium wp-image-1412" title="template16" src="http://orderlydrawer.com/wp-content/uploads/2010/01/template16-188x245.jpg" alt="" width="188" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2010/01/template17.jpg"><img class="alignnone size-medium wp-image-1413" title="template17" src="http://orderlydrawer.com/wp-content/uploads/2010/01/template17-168x245.jpg" alt="" width="168" height="245" /></a></p>
+
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2011/01/template184.jpg"><img class="size-medium wp-image-1699 aligncenter" title="template18" src="http://orderlydrawer.com/wp-content/uploads/2011/01/template184-244x245.jpg" alt="" width="244" height="245" /></a></p>
+<p>The following templates require a minimum drawer width of 14 inches.</p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/51.jpg"><img class="alignnone size-medium wp-image-786" title="template 5" src="http://orderlydrawer.com/wp-content/uploads/2009/02/51-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/61.jpg"><img class="alignnone size-medium wp-image-787" title="template 6" src="http://orderlydrawer.com/wp-content/uploads/2009/02/61-192x245.jpg" alt="" width="192" height="245" /></a></p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/71.jpg"><img class="alignnone size-medium wp-image-789" title="template 7" src="http://orderlydrawer.com/wp-content/uploads/2009/02/71-192x245.jpg" alt="" width="192" height="245" /> </a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/82.jpg"><img class="alignnone size-medium wp-image-790" title="template 8" src="http://orderlydrawer.com/wp-content/uploads/2009/02/82-192x245.jpg" alt="" width="192" height="245" /></a></p>
+<p>The following templates require a minimum drawer width of 20 inches.</strong></p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/93.jpg"><img class="alignnone size-medium wp-image-791" title="template 9" src="http://orderlydrawer.com/wp-content/uploads/2009/02/93-226x245.jpg" alt="" width="226" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/101.jpg"><img class="alignnone size-medium wp-image-792" title="template 10" src="http://orderlydrawer.com/wp-content/uploads/2009/02/101-226x245.jpg" alt="" width="226" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/112.jpg"><img class="alignnone size-medium wp-image-801" title="template 11" src="http://orderlydrawer.com/wp-content/uploads/2009/02/112-226x245.jpg" alt="" width="226" height="245" /></a></p>
+
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/122.jpg"><img class="alignnone size-medium wp-image-800" title="template 12" src="http://orderlydrawer.com/wp-content/uploads/2009/02/122-245x217.jpg" alt="" width="245" height="217" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/132.jpg"><img class="alignnone size-medium wp-image-802" title="template 13" src="http://orderlydrawer.com/wp-content/uploads/2009/02/132-245x221.jpg" alt="" width="245" height="221" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/142.jpg"><img class="alignnone size-medium wp-image-803" title="template 14" src="http://orderlydrawer.com/wp-content/uploads/2009/02/142-245x211.jpg" alt="" width="245" height="211" /></a></p>
+<!-- todo -->
+<h2>"What if none of these templates will work for me?"</h2>
+<p>Although the templates above will work in many cases, you are also welcome to come up with your own layout design. Here are the ways you can go about communicating your design to us:</p>
+<li>Sketch it in the style of the templates above, photo or scan it, and <a href="/contact-us" target="_blank">email it to us</a>.</li>
+<li><a href="/contact-us" target="_blank">Fax it to us</a>.</li>
+<li>Describe the dimensions of your drawer and contents, we'll make a sketch, and email it to you for approval. Going this route may delay your shipping date somewhat.</li>
+<p>
+<p>"Just FANTASTIC,GREAT fit, PERFECT. Thank you."- Dave W., Winchester,VA</p>
+
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06212.jpg"><img class="alignnone size-medium wp-image-655" title="junk drawer organizer" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06212-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07224.jpg"><img class="alignnone size-medium wp-image-656" title="1 divider provided for every 2&quot; of slotted space" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07224-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07182.jpg"><img class="alignnone size-medium wp-image-657" title="desk drawer custom organizer" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc07182-245x183.jpg" alt="" width="245" height="183" /></a></p>
+<p>"I ABSOLUTELY LOVE IT!!!  Fits all of my utensils as well as silverware in it." - Cheryl B., Romulus, MI</p>
+<p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06211.jpg"><img class="alignnone size-medium wp-image-661" title="custom insert with flatware caddy" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06211-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06290.jpg"><img class="alignnone size-medium wp-image-733" title="custom organizer with removable caddy" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06290-245x183.jpg" alt="" width="245" height="183" /></a></p>
+<p>Prices are subject to change.  Quotes are valid for one month. </p>
+<p>To order or request a quote, submit the following form.  Once your form has been received and reviewed, we'll contact you.</p>
+
+<p>You can use the form for submitting questions too.</p>
+<div class=orderform>
 <div style="text-align: left;">
 		<div id="usermessage2a" class="cf_info "></div>
 		<form method="POST" action="../cm_follow">
@@ -173,8 +163,9 @@ These are dimensions you can specify. (You might want to measure some of your ut
 		</p>
 </form>
 
-<p><a href="/payment-options" target="_blank">See our Payment Options</a></div>
+
 </div>
+</div></br></br></br>
 
 <?php
 include ("../footer.inc.php");

@@ -49,41 +49,40 @@ table {
 /* end reset */
 html,
 body  {
-    font-family: "Trebuchet MS", sans-serif;
+    font-family: arial, "Trebuchet MS", sans-serif;
     background: #fff;
     margin: 0;  /* shorthand for all margins = 0 */
     padding: 0;
 	height: 100%;
 }
-
 p, h1, h2, h3, h4, h5, h6, li {
     margin: 1ex 1em;
 }
-
 p  {
     margin: 3ex 1ex 1ex 1ex;
     line-height: 1.25em;
-
 }
-
 p:first-line {
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 h1 {
 	text-align: center;
 	margin-top: 30px;
-	margin-bottom: 15px;
-    font-family: trebuchet MS, Arial;
+	margin-bottom: 30px;
+    font-family: Georgia, trebuchet MS, Arial;
     font-size: 2.2em;
     font-weight: bold;
-    color: #354C56;
-	
-}
+    color: #111;
 
+}
+ul {
+    list-style-type: disc;
+    margin-left: 10px;
+}
 h2 {
     text-align: left;
-    margin-top: 2px;
-    margin-bottom: 4px;
+    margin-top: 30px;
+    margin-bottom: 10px;
     font-size: 1.6em;
     font-weight: bold;
 
@@ -91,13 +90,25 @@ h2 {
 
 h3 {
     text-align: left;
-    margin-top: 8px;
+    margin-top: 30px;
     margin-bottom: 12px;
     font-size: 1.4em;
     font-weight: bold;
     text-decoration: underline;
 
 }
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: #2B56AC;
+    font-size: 1.05em;
+}
+
+a:hover {
+    color: #cb5846;
+}
+
 img {
     padding: 1px 3px;
 }
@@ -144,7 +155,7 @@ div#viewCartBox {
 }
 
 #mainMenu ul {
-    width: 650px;
+    width: 675px;
 	list-style: none;
     margin: 0 0 0 25px;
     padding: 0;
@@ -191,39 +202,50 @@ div#viewCartBox {
 #mainMenu a.current:hover {
     cursor: default;
 }*/
+.outerpicbox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
 
-.button {
-    border-top: 1px solid #96d1f8;
-    background: #447fa6;
-    background: -webkit-gradient(linear, left top, left bottom, from(#267482), to(#376173));
-    background: -webkit-linear-gradient(top, #267482, #376173);
-    background: -moz-linear-gradient(top, #267482, #376173);
-    background: -ms-linear-gradient(top, #267482, #376173);
-    background: -o-linear-gradient(top, #267482, #376173);
-    padding: 10px 29px;
-    -webkit-border-radius: 17px;
-    -moz-border-radius: 17px;
-    border-radius: 17px;
-    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
-    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-    box-shadow: rgba(0,0,0,1) 0 1px 0;
-    text-shadow: rgba(0,0,0,.4) 0 1px 0;
-    color: #ffffff;
-    font-size: 23px;
-    font-family: Georgia, serif;
+}
+
+.picbox {
+    padding-top: 30px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+ .caption {
+    text-align: center;
+     font-size: 1.5em;
+     padding-top: 10px;
+ }
+
+.button{
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 1.2em;
+    display: block;
+    width: 200px;
+    color: #fff;
     text-decoration: none;
-    vertical-align: middle;
-}
-.button:hover {
-    border-top-color: #28597a;
-    background: #71a3b9;
-    color: #ccc;
-}
-.button:active {
-    border-top-color: #1b435e;
-    background: #1b435e;
-}
+    text-align: center;
+    font-weight: bold;
+    padding: 0 15px 0 15px;
+    margin-right: 5px;
+    line-height: 50px;
+    background-color: #354c56;
+    border: none;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+ }
+.button:hover{
+    background-color: #447fa6;
+    color: #f8b449;
 
+}
 div#container {
     width: 800px;       /* sets the content width */
     margin: 0 auto;     /* no top/bottom margin, centered horizontally */
@@ -241,14 +263,16 @@ div#data {
 div#leftdata {
 	/*position: absolute;*/
     float: left;
-	width: 390px;
-	background-color: #f0f0f0;
+	width: 400px;
+    background-color: #cfcfd1;
 	border-radius: 15px; 
 	-webkit-border-radius: 15px; 
 	-moz-border-radius: 15px;
 	margin-top: 20px;
 	padding-top: 10px;
-	padding-bottom: 25px;
+	padding-bottom: 8px;
+    padding-left: 10px;
+
 }
 
 div#rightdata {
@@ -274,18 +298,22 @@ div.callout {
 	text-align: center;
 } */
 
-a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #0D3968;
+
+
+.orderform {
+    background-color: #CFCFD1;
 }
 
 a#price {
 	color: #fff;
 	text-decoration: none;
 	font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
 }
-
+a#price:hover{
+    color: #f8b449;
+}
 #footerlinks {
    clear: both;
    position:absolute;
@@ -298,11 +326,11 @@ a#price {
 
 #footerlinks a {
     padding-left: 20px;
+    color: #bebebe;
 }
-hr{
-    padding-top:20px;
 
-}
+
+
 /*6july11 used for no JS enabled on cmjr calcform */
 #jsEnabled p{
 	background: red;

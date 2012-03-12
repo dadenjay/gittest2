@@ -14,11 +14,14 @@
 		
 		
 	</h1>
+<div id = "data">
+    <div id = "leftdata">
 	<noscript id = "jsEnabled">
 		<p>You do not have Javascript enabled.  Please use <a href="../the-custom">our old form</a>.</p>
 	</noscript>
 	<!-- width and depth fields with response divs -->
-	<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" class="chg" size="16" /> Internal Drawer Width <br />
+
+    <input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" class="chg" size="16" /> Internal Drawer Width <br />
 	<div id = "widthResponse"><p> </p></div>
 	<input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" class="chg" size="16" /> Internal Drawer Depth <br />
 	<div id = "depthResponse"><p> </p></div>
@@ -446,7 +449,10 @@
 		};
 
 	</script>
-
+    </div>
+    <div id = "rightdata">
+    </div>
+    </div>
 <?php
 include ("../../footer.inc.php");
 ?>

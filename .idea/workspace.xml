@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="99c8d5c1-0052-4da6-9b82-bd524e5cfe50" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\Install-Cimple\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\The-Custom\cm_follow\index.php" afterPath="" />
       <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\Wood-types\index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cm_follow/index.php" afterPath="$PROJECT_DIR$/cm_follow/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/maincmjr800px.css" afterPath="$PROJECT_DIR$/css/maincmjr800px.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom-organizers/index.php" afterPath="$PROJECT_DIR$/custom-organizers/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.inc.php" afterPath="$PROJECT_DIR$/footer.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.inc.php" afterPath="$PROJECT_DIR$/header.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="htdocs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +29,61 @@
     <favorites_list name="htdocs" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the-custom/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="50" selection-start="5875" selection-end="5875" vertical-scroll-proportion="-15.666667">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the-custom/design/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="453" column="10" selection-start="17728" selection-end="17728" vertical-scroll-proportion="-18.423077">
+              <folding>
+                <element signature="tag#noscript#0;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#select#0;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="e#1525#1956#0" expanded="false" />
+                <element signature="e#2123#2826#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#div#4;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#script#1;tag#div#0;tag#div#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.3333334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maincmjr800px.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/maincmjr800px.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="260" column="4" selection-start="4499" selection-end="4499" vertical-scroll-proportion="0.64285713">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the-custom-jr/design/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="45" selection-start="6007" selection-end="6017" vertical-scroll-proportion="-5.8431373">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -45,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/expandable-dividers/install-cimple/index.php" />
-        <option value="$PROJECT_DIR$/expandable-dividers/cimple-faq/index.php" />
         <option value="$PROJECT_DIR$/customers-comment/index.php" />
         <option value="$PROJECT_DIR$/customer-pictures/index.php" />
         <option value="$PROJECT_DIR$/contact-us/Index.php" />
@@ -54,21 +105,24 @@
         <option value="$PROJECT_DIR$/about-us/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/expandable-dividers/index.php" />
-        <option value="$PROJECT_DIR$/custom-organizers/index.php" />
-        <option value="$PROJECT_DIR$/the-custom/design/index.php" />
         <option value="$PROJECT_DIR$/header.inc.php" />
-        <option value="$PROJECT_DIR$/the-custom-jr/design/index.php" />
         <option value="$PROJECT_DIR$/footer.inc.php" />
-        <option value="$PROJECT_DIR$/css/maincmjr800px.css" />
         <option value="$PROJECT_DIR$/cm_follow/index.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/custom-organizers/index.php" />
+        <option value="$PROJECT_DIR$/the-custom/index.php" />
+        <option value="$PROJECT_DIR$/css/maincmjr800px.css" />
+        <option value="$PROJECT_DIR$/the-custom-jr/design/index.php" />
+        <option value="$PROJECT_DIR$/the-custom/design/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="906" />
-    <option name="width" value="1013" />
-    <option name="height" value="1080" />
+    <option name="x" value="760" />
+    <option name="y" value="94" />
+    <option name="width" value="1143" />
+    <option name="height" value="943" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,20 +242,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expandable-dividers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="custom-organizers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -217,48 +257,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contact-us" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cm_follow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about-us" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -314,12 +312,12 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <are-packages-shown value="false" />
       <are-modules-shown value="false" />
       <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
+      <is-autoscroll-to-source value="true" />
     </todo-panel>
     <todo-panel id="all">
       <are-packages-shown value="false" />
@@ -335,15 +333,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="906" y="0" width="1013" height="1080" extended-state="0" />
-    <editor active="false" />
+    <frame x="760" y="94" width="1143" height="943" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.9910314" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.88612837" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299363" sideWeight="0.99379367" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23287672" sideWeight="0.9976581" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20481928" sideWeight="0.6700637" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.10662526" order="-1" side_tool="true" content_ui="tabs" />
@@ -411,20 +409,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/expandable-dividers/cimple-faq/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.2943723">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customers-comment/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="295" selection-end="295" vertical-scroll-proportion="0.33116883">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/customer-pictures/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="25" selection-start="297" selection-end="297" vertical-scroll-proportion="0.33116883">
@@ -467,39 +451,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-custom/design/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="426" column="128" selection-start="16977" selection-end="16977" vertical-scroll-proportion="0.8488211">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-custom-jr/design/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="20" selection-start="2316" selection-end="2316" vertical-scroll-proportion="0.6829837">
-          <folding>
-            <element signature="tag#script#1;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="14" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.4755245">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-organizers/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="113" selection-start="482" selection-end="482" vertical-scroll-proportion="0.25757575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="15" selection-start="44" selection-end="44" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
@@ -518,9 +472,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="0" selection-start="5469" selection-end="5469" vertical-scroll-proportion="2.260388">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-organizers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="46" selection-start="552" selection-end="552" vertical-scroll-proportion="0.33009708">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.3333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-custom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="50" selection-start="5875" selection-end="5875" vertical-scroll-proportion="-15.666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-custom/design/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="453" column="10" selection-start="17728" selection-end="17728" vertical-scroll-proportion="-18.423077">
+          <folding>
+            <element signature="tag#noscript#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#select#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="e#1525#1956#0" expanded="false" />
+            <element signature="e#2123#2826#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#script#1;tag#div#0;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-custom-jr/design/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="45" selection-start="6007" selection-end="6017" vertical-scroll-proportion="-5.8431373">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/maincmjr800px.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="30" selection-start="5095" selection-end="5095" vertical-scroll-proportion="1.8188074">
+        <state line="260" column="4" selection-start="4499" selection-end="4499" vertical-scroll-proportion="0.64285713">
           <folding />
         </state>
       </provider>
