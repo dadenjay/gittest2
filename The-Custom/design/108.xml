@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<data>
+	<templates>
+
+        <template t="108">
+            <name>Shelly</name>
+			<img></img>
+			<dims>
+				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
+				<dim name = "B"> <name>B</name> <max>insW-4.5</max> 		</dim>
+				<dim name = "C"> <name>C</name> <res>insW-dimB-1.5-2</res>	</dim>
+				<dim name = "D"> <name>D</name> <max>insD-4.5</max>			</dim>
+				<dim name = "E"> <name>E</name> <res>insD-dimD-1.5</res>		</dim>
+			</dims>
+			<sections>
+				<section name = "C">
+					<name>C</name>
+					<withDivs>dimC</withDivs>
+					<acrossDivs>dimA</acrossDivs>
+				</section>
+				<section name = "D">
+					<name>D</name>
+					<withDivs>dimD</withDivs>
+					<acrossDivs>dimB</acrossDivs>
+				</section>
+				<section name = "E">
+					<name>E</name>
+					<withDivs>dimE</withDivs>
+					<acrossDivs>dimB</acrossDivs>
+				</section>
+			</sections>
+		</template>	
+	</templates>
+</data>

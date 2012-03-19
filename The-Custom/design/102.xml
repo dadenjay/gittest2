@@ -2,8 +2,8 @@
 <data>
 	<templates>
 		<template t="102">
-			<name>Susanna</name>
-			<img></img>
+			<name>Brandi</name>
+			<img src="https://lh4.googleusercontent.com/-QdxdM9e3vl0/T2dKxJdY9gI/AAAAAAAACuU/TmlWQ2pypuY/s440/Fullscreen%2520capture%25203192012%2520110322%2520AM.jpg"></img>
 			<dims>
 				<dim name = "A"> <name>A</name> <res>insW-1</res> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insD-1.5-3</max> 		</dim>

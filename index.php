@@ -15,7 +15,7 @@ include ("header.inc.php");
 <H2><a href="/the-custom-jr"> The Custom Jr.</a> - starting at $20.00</H2>
 <center><a href="/the-custom-jr"><img src="https://lh5.googleusercontent.com/_oiTAxNb1Dlc/TVRg5y0VWrI/AAAAAAAAE8I/vTmO8luZrxQ/CustomJr%20on%20red%20mat%20with%204%20dividers-2.jpg"></a></center>
 <p>Orderly Drawer organizers are wood, adjustable, and beautiful.  Unlike acrylic, which easily scratches, or plastic with its short life span, these organizers are quality items, with lots of little carefully-designed details.  There are other wooden organizers on the market, but they lack the adjustability and detail you will find in our organizers. </p>
-<p>If you like the concepts you see here, but don't see what you need, you can contact us with details about your specific project.</p>
+<p>If you like the concepts you see here, but don't see what you need, you can contact us with details about your specific project.</p><br/><br/>
 <?php
 include ("footer.inc.php");
 ?> 

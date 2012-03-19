@@ -16,6 +16,7 @@
 
 <p>So, to the drawing board and the shop he went.  The (very adjustable) Orderly Drawer was born.</p>
 <p>Orderly Drawers are made from raw lumber in our shop.  We do all steps ourselves: sizing, cutting, sanding, finishing, assembling, packing and shipping.  If anything goes wrong, the buck stops here.  We&#8217;re a one-stop shop for your orders, suggestions, compliments, and complaints.  That&#8217;s why we gladly stand by <a href="/policies" target="_self">our guarantee to our customers</a>.</p>
+<br/><br/>
 <?php
 include ("../footer.inc.php");
 ?>

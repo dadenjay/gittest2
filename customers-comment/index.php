@@ -87,7 +87,7 @@ include ("../header.inc.php");
     <li>with no metal parts, we&#8217;re able to offer a great product at a great price</li>
     <li style="text-align: left;">we make the tallest dividers on the market.  The spring technology can only work with small and medium heights.  As far as we know, our 6&#8243; Cimple is the tallest non-custom drawer divider on the market.  And we&#8217;re considering offering even taller ones.</li>
 
-</ul>
+</ul><br/><br/>
 
 <?php
 include ("../footer.inc.php");

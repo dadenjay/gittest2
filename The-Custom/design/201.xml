@@ -1,0 +1,18 @@
+<?xml version="1.0"?> 
+<data>
+	<templates>
+		<template t="201">
+			<name>Carola</name>
+			<img></img>
+			<dims>
+				<dim name="A"><name>A</name> <res>insW-1</res> </dim>
+				<dim name="B"><name>B</name><res>insD-1</res></dim>
+			</dims>
+ 			<sections>
+ 				<section name="A"><name>A</name>
+				<withDivs>dimA</withDivs> 
+				<acrossDivs>dimB</acrossDivs> 
+			</sections>
+		</template>
+	</templates>
+</data>

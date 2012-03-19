@@ -24,7 +24,7 @@ include ("../header.inc.php");
 <p><span style="text-decoration: underline;">Privacy Commitment</span>:</p>
 <p>We take the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession.</p>
 <p>We do not share or sell customer information (including e-mail addresses) outside of our company unless it is necessary to provide you with our products or services (for example, shipping your products to you or notifying you of problems/updates with your order), or we are legally required to do so.  If you wish not to receive periodic emails from us, simply click the unsubscribe link at the bottom of the message or reply to the message with &#8220;unsubscribe&#8221; in the subject field.</p>
-
+<br/><br/>
 <?php
 include ("../footer.inc.php");
 ?> 

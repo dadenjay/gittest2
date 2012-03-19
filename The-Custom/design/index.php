@@ -83,6 +83,9 @@
 	<div class = "callout">
 		<a id = "price" href="">Please enable Javascript to use this form</a>
 	</div>
+    <div>
+        <img src="<?php echo $dom->templates->template->img;	?>" alt="custom drawer organizer layout">
+    </div>
 	
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> 
 <!--<script src="jquery-1.6.min.js"></script>-->

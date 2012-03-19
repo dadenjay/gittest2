@@ -42,44 +42,38 @@ Check out at end of page.</div>
 
 <li>When installed properly, the Cimple will be sturdy and stout.  However, it is not designed for heavy duty applications - like separating pots and pans.</li>
 </ul>
-<p><strong>Options:</strong><br />
+
 <a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc07669.jpg"><img class="alignnone size-full wp-image-958" title="expandable drawer dividers" src="http://lh4.ggpht.com/_oiTAxNb1Dlc/SuXgdz6fjdI/AAAAAAAABok/D_hha_H4aKw/3%20sizes%20cimples.jpg" alt="" width="320" height="240" align="right" /></a></p>
-<h2>We offer the following options:</p>
-<li>3&#8243; high</li>
-<li>4.5&#8243; high</li>
-<li>6&#8243; high</li>
+<h2>We offer the following options:</h2>
 
-<li>8&#8243; high, and</li>
-<li>6&#8243; high XL dividers</li>
-</h2>
-<p>Please let us know if you&#8217;d like to see other options or features added to this product.</p>
-<p><strong></strong></p>
-<h6>3&#8243; High Cimple Divider - $4</h6>
+<h4>3&#8243; High Cimple Divider - $4</h4>
+<h4>4.5&#8243; High Cimple Divider - $5.50</h4>
+<h4>6&#8243; High Cimple Divider - $6.50</h4>
+<h4>8&#8243; High Cimple Divider - $8.00</h4>
+<h4>6&#8243; High XL Cimple Divider - $10.00</h4>
 
-<h6>4.5&#8243; High Cimple Divider - $5.50</h6>
-<h6>6&#8243; High Cimple Divider - $6.50</h6>
-<h6>8&#8243; High Cimple Divider - $8.00</h6>
-<h6>6&#8243; High XL Cimple Divider - $10.00</h6>
-
-<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=329356&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Size:</p>
+<div class="addtocart">
+<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=329356&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Select Size:</p>
 <select name="o1"> <option value="3&quot; High Expandable Divider">3&#8243; High Expandable Divider</option> <option value="4.5&quot; High Expandable Divider">4.5&#8243; High Expandable Divider</option> <option value="6&quot; High Expandable Divider">6&#8243; High Expandable Divider</option> <option value="8&quot; High Expandable Divider">8&#8243; High Expandable Divider</option> <option value="6&quot; High XL Expandable Divider">6&#8243; High XL Expandable Divider</option> </select>
 
 <input class="ec_ejc_thkbx" onclick="javascript:return EJEJC_lc(this.parentNode);" alt="Add to Cart" src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" type="image" />
 </form>
-<h2 style="text-align: left;">Cimple 2nds - Available while supplies last</h2>
+</div>
+<h2>Cimple 2nds - Available while supplies last</h2>
 <p>When making our Cimple dividers, we often end up with some pieces of wood that don&#8217;t pass muster.  They might have blemishes or be slightly warped.  Some are worse than others.  But they are all functional.  If you&#8217;re in need of some drawer dividers on the cheap, you&#8217;ve found them.  These won&#8217;t look pretty (though many aren&#8217;t that bad), but they&#8217;ll get the job of dividing a drawer done for you.  Availability of these items will fluctuate.</p>
-<h2 style="text-align: left;">3&#8243; High Cimple Divider, 2nd - $2.00</h2>
-<h2 style="text-align: left;">4.5&#8243; High Cimple Divider, 2nd - $2.75</h2>
+<h4>3&#8243; High Cimple Divider, 2nd - $2.00</h4>
+<h4>4.5&#8243; High Cimple Divider, 2nd - $2.75</h4>
 
-<h2 style="text-align: left;">6&#8243; High Cimple Divider, 2nd - $3.25</h2>
-<h2 style="text-align: left;">6&#8243; High Cimple XL Divider, 2nd - $5.00</h2>
-<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=780365&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Size:</p>
+<h4>6&#8243; High Cimple Divider, 2nd - $3.25</h4>
+<h4>6&#8243; High Cimple XL Divider, 2nd - $5.00</h4>
+<div class="addtocart">
+<form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=780365&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Select Size:</p>
 <select name="o1"> <option value="3&quot; High Expandable Divider 2nd quality">3&#8243; High Expandable Divider 2nd quality</option> <option value="4.5&quot; High Expandable Divider 2nd quality">4.5&#8243; High Expandable Divider 2nd quality</option> <option value="6&quot; High Expandable Divider 2nd quality">6&#8243; High Expandable Divider 2nd quality</option> <option value="6&quot; High XL Expandable Divider 2nd quality">6&#8243; High XL Expandable Divider 2nd quality</option> <option value="8&quot; High Expandable Divider 2nd quality">8&#8243; High Expandable Divider 2nd quality</option> </select>
 
 <input class="ec_ejc_thkbx" onclick="javascript:return EJEJC_lc(this.parentNode);" alt="Add to Cart" src="http://www.e-junkie.com/ej/ej_add_to_cart.gif" type="image" />
 </form>
-<p><a href="/payment-options" target="_blank">See our Payment Options.</a></p>
-
+</div>
+<br/><br/><br/><br/><br/>
 
 <?php
 include ("../footer.inc.php");

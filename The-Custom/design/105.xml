@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<data>
+	<templates>
+		<template t="105">
+			<name>Linda</name>
+            <img></img>
+			<dims>
+				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
+				<dim name = "B"> <name>B</name> <max>insW-8</max> 		</dim>
+				<dim name = "C"> <name>C</name> <max>insW-dimB-5</max>	</dim>
+				<dim name = "D"> <name>D</name> <res>insW-dimB-dimC-2</res>			</dim>
+				
+			</dims>
+			<sections>
+				
+				<section name = "B">
+					<name>B</name>
+					<withDivs>dimB</withDivs>
+					<acrossDivs>dimA</acrossDivs>
+				</section>
+				<section name = "C">
+					<name>C</name>
+					<withDivs>dimC</withDivs>
+					<acrossDivs>dimA</acrossDivs>
+				</section>
+				<section name = "D">
+                    <name>D</name>
+					<withDivs>dimB</withDivs>
+					<acrossDivs>A</acrossDivs>
+				</section>
+				
+			</sections>
+		</template>	
+	</templates>
+
+	<heights>
+	  <height ht="1.5">
+		<cost>0.22</cost>
+	  </height>
+	  <height ht="2.0">
+		<cost>0.20</cost>
+	  </height>
+	  <height ht="2.5">
+		<cost>0.31</cost>
+	  </height>
+	  <height ht="3.0">
+		<cost>0.37</cost>
+	  </height>
+	  <height ht="3.5">
+		<cost>0.45</cost>
+	  </height>	
+	</heights>
+
+	
+  
+</data>

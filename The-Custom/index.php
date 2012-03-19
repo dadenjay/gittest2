@@ -17,7 +17,7 @@ include ("../header.inc.php");
 <p><a href="/customer-pictures">See more customers' pictures of Orderly Drawers.</a></p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744.jpg"><img class="alignnone size-medium wp-image-1290" title="junk drawer organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744-244x183.jpg" alt="" width="244" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210.jpg"><img class="alignnone size-medium wp-image-617" title="insert with knives" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2.jpg"><img class="alignnone size-medium wp-image-1292" title="custom flatware insert" src="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2-244x183.jpg" alt="" width="244" height="183" /></a></p>
 <p>It fits just perfectly and now I can actually see what I'm grabbing."- Joslyn H., South Elgin, IL</p>
-<p>What Makes our Organizers Unique</p>
+<h2>What Makes our Organizers Unique</h2>
 <ul>
 <blockquote>
 <li>They are made of solid Canadian maple</li>
@@ -61,17 +61,28 @@ include ("../header.inc.php");
 <li>The blue lines are thin (max of 3/16" --<a href="/slot-spacing">learn more</a>), movable dividers;</li>
 <li>The red letters represent usable space between fixed 1/2" dividers (thick black lines).  These are dimensions you can specify. (You might want to measure some of your utensils to help you determine the best numbers.)</li>
 
-<p>Not all of our templates are appropriate for all drawer sizes.  See the recommended minimum drawer width for our templates.</p>
-<p>The following templates are suitable for any drawer size.</p>
+<h3>Not all of our templates/designs are appropriate for all drawer sizes.  See the recommended minimum drawer width for our templates.</h3>
+<h2>The following templates are suitable for any drawer size.</h2>
 
+
+<div class="drawing">
+    <a href="/the-custom/design">
+        <img src="https://lh4.googleusercontent.com/-fF2sszeSD88/T2cqsTfnfXI/AAAAAAAACts/7YjFk8iyPSo/s320/Fullscreen%2520capture%25203192012%252084439%2520AM.jpg" </img>
+            <div class="name"><p>Carola</p></div>
+    </a>
+</div>
+
+<img src="https://lh5.googleusercontent.com/-FpgIySr9B4I/T2cxgQSMeQI/AAAAAAAACt8/UxBZburl7D8/s320/Fullscreen%2520capture%25203192012%252091510%2520AM.jpg"></img>
+<img src="https://lh6.googleusercontent.com/-L29qTaH7NMs/T2cox_yzdiI/AAAAAAAACtk/UZa1bKIhLOc/s320/Fullscreen%2520capture%25203192012%252083629%2520AM.jpg"></img>
+<img src="https://lh6.googleusercontent.com/-4jMzp2R2YjY/T2ctZs-UxgI/AAAAAAAACt0/aelFiDnLAbk/s350/Fullscreen%2520capture%25203192012%252085034%2520AM.jpg"></img>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/16.jpg"><img class="alignnone size-medium wp-image-782" title="template 1" src="http://orderlydrawer.com/wp-content/uploads/2009/02/16-192x245.jpg" alt="" width="192" height="245" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/22.jpg"><img class="alignnone size-medium wp-image-783" title="template 2" src="http://orderlydrawer.com/wp-content/uploads/2009/02/22-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/32.jpg"><img class="alignnone size-medium wp-image-784" title="template 3" src="http://orderlydrawer.com/wp-content/uploads/2009/02/32-192x245.jpg" alt="" width="192" height="245" /></a></p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/41.jpg"><img class="alignnone size-medium wp-image-785" title="template 4" src="http://orderlydrawer.com/wp-content/uploads/2009/02/41-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2010/01/template16.jpg"><img class="alignnone size-medium wp-image-1412" title="template16" src="http://orderlydrawer.com/wp-content/uploads/2010/01/template16-188x245.jpg" alt="" width="188" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2010/01/template17.jpg"><img class="alignnone size-medium wp-image-1413" title="template17" src="http://orderlydrawer.com/wp-content/uploads/2010/01/template17-168x245.jpg" alt="" width="168" height="245" /></a></p>
 
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2011/01/template184.jpg"><img class="size-medium wp-image-1699 aligncenter" title="template18" src="http://orderlydrawer.com/wp-content/uploads/2011/01/template184-244x245.jpg" alt="" width="244" height="245" /></a></p>
-<p>The following templates require a minimum drawer width of 14 inches.</p>
+<h2>The following templates require a minimum drawer width of 14 inches.</h2>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/51.jpg"><img class="alignnone size-medium wp-image-786" title="template 5" src="http://orderlydrawer.com/wp-content/uploads/2009/02/51-192x245.jpg" alt="" width="192" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/61.jpg"><img class="alignnone size-medium wp-image-787" title="template 6" src="http://orderlydrawer.com/wp-content/uploads/2009/02/61-192x245.jpg" alt="" width="192" height="245" /></a></p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/71.jpg"><img class="alignnone size-medium wp-image-789" title="template 7" src="http://orderlydrawer.com/wp-content/uploads/2009/02/71-192x245.jpg" alt="" width="192" height="245" /> </a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/82.jpg"><img class="alignnone size-medium wp-image-790" title="template 8" src="http://orderlydrawer.com/wp-content/uploads/2009/02/82-192x245.jpg" alt="" width="192" height="245" /></a></p>
-<p>The following templates require a minimum drawer width of 20 inches.</strong></p>
+<h2>The following templates require a minimum drawer width of 20 inches.</h2>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/93.jpg"><img class="alignnone size-medium wp-image-791" title="template 9" src="http://orderlydrawer.com/wp-content/uploads/2009/02/93-226x245.jpg" alt="" width="226" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/101.jpg"><img class="alignnone size-medium wp-image-792" title="template 10" src="http://orderlydrawer.com/wp-content/uploads/2009/02/101-226x245.jpg" alt="" width="226" height="245" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/112.jpg"><img class="alignnone size-medium wp-image-801" title="template 11" src="http://orderlydrawer.com/wp-content/uploads/2009/02/112-226x245.jpg" alt="" width="226" height="245" /></a></p>
 
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/122.jpg"><img class="alignnone size-medium wp-image-800" title="template 12" src="http://orderlydrawer.com/wp-content/uploads/2009/02/122-245x217.jpg" alt="" width="245" height="217" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/132.jpg"><img class="alignnone size-medium wp-image-802" title="template 13" src="http://orderlydrawer.com/wp-content/uploads/2009/02/132-245x221.jpg" alt="" width="245" height="221" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/142.jpg"><img class="alignnone size-medium wp-image-803" title="template 14" src="http://orderlydrawer.com/wp-content/uploads/2009/02/142-245x211.jpg" alt="" width="245" height="211" /></a></p>

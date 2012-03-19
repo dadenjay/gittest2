@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<data>
+    <templates>
+        <template t="107">
+            <name>Richard</name>
+            <img />
+            <dims>
+                <dim name="A">
+                    <name>A</name>
+                    <res>insW-1</res>
+                </dim>
+                <dim name="B">
+                    <name>B</name>
+                    <max>insD-2-3-3</max>
+                </dim>
+                <dim name="C">
+                    <name>C</name>
+                    <max>insD-2-dimB-3</max>
+                </dim>
+                <dim name="D">
+                    <name>D</name>
+                    <res>insD-dimB-dimC-2</res>
+                </dim>
+            </dims>
+            <sections>
+                <section name="B">
+                    <name>B</name>
+                    <withDivs>dimB</withDivs>
+                    <acrossDivs>dimA</acrossDivs>
+                </section>
+                <section name="C">
+                    <name>C</name>
+                    <withDivs>dimC</withDivs>
+                    <acrossDivs>dimA</acrossDivs>
+                </section>
+                <section name="D">
+                    <name>D</name>
+                    <withDivs>dimD</withDivs>
+                    <acrossDivs>dimA</acrossDivs>
+                </section>
+            </sections>
+        </template>
+    </templates>
+    <heights>
+        <height ht="1.5">
+            <cost>0.22</cost>
+        </height>
+        <height ht="2.0">
+            <cost>0.20</cost>
+        </height>
+        <height ht="2.5">
+            <cost>0.31</cost>
+        </height>
+        <height ht="3.0">
+            <cost>0.37</cost>
+        </height>
+        <height ht="3.5">
+            <cost>0.45</cost>
+        </height>
+    </heights>
+</data>

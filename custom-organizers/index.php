@@ -26,8 +26,8 @@ include ("../header.inc.php");
         <div class="caption"><a href="/the-custom-jr"> The Custom Jr.</a></div>
     </div>
 </div>
-
-
+<br/>
+<br/><br/><br/>
 
 
 <?php

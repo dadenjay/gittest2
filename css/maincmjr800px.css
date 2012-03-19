@@ -97,6 +97,19 @@ h3 {
     text-decoration: underline;
 
 }
+h4 {
+    tex-align: left;
+    margin-top: 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+}
+h6 {
+    font-size: .75em;
+}
+legend {
+    font-size: 1.1em;
+}
 a {
     text-decoration: none;
     font-weight: bold;
@@ -155,9 +168,9 @@ div#viewCartBox {
 }
 
 #mainMenu ul {
-    width: 675px;
+    width: 725px;
 	list-style: none;
-    margin: 0 0 0 25px;
+    /*margin: 0 0 0 25px;*/
     padding: 0;
     margin-left: auto;
     margin-right: auto;
@@ -207,20 +220,41 @@ div#viewCartBox {
     margin-left: auto;
     margin-right: auto;
     width: 500px;
-
 }
-
 .picbox {
     padding-top: 30px;
     float: left;
     padding-left: 30px;
     padding-right: 30px;
-
 }
  .caption {
     text-align: center;
      font-size: 1.5em;
      padding-top: 10px;
+ }
+ .outerdrawingbox{
+
+ }
+ .drawing {
+    opacity: .70;
+    position: relative;
+    float: left;
+     }
+ .drawing:hover {
+     opacity: 1;
+     color: #2B56AC;
+
+ }
+ .drawing a:hover {
+     color: #2B56AC;
+
+ }
+ .drawing .name {
+     position: absolute;
+     top:75px;
+     text-align: center;
+     font-size: 2em;
+     width: 250px;
  }
 
 .button{
@@ -253,13 +287,23 @@ div#container {
 	padding-top: 15px;
 	padding-bottom: 25px;
 }
-
+.addtocart {
+    width: 400px;
+    background-color: #cfcfd1;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    padding-left: 30px;
+}
 div#data {
-	position: relative;
+	top: 250px;
+    bottom: 100px;
 	padding-bottom: 25px;
 
 }	
-
 div#leftdata {
 	/*position: absolute;*/
     float: left;
@@ -274,17 +318,22 @@ div#leftdata {
     padding-left: 10px;
 
 }
-
 div#rightdata {
     width: 350px;
 	float: right;
 	padding: 15px 15px 0 15px;
 	
 }
-
 div#widthResponse p, div#depthResponse p{
-	height: 50%;
-	color: gray;
+	/*height: 10px;*/
+    margin: 2ex 0ex 3ex 1ex;
+    color: gray;
+    line-height: 0%;
+    font-size: 1em;
+    /*padding-bottom: 15px;*/
+}
+div#divsResponse {
+    color: gray;
 }
 /* killed on 9mar12 b/c we're going to use the button instead
 div.callout {
@@ -297,13 +346,9 @@ div.callout {
 	text-decoration: none;
 	text-align: center;
 } */
-
-
-
 .orderform {
     background-color: #CFCFD1;
 }
-
 a#price {
 	color: #fff;
 	text-decoration: none;
@@ -316,7 +361,7 @@ a#price:hover{
 }
 #footerlinks {
    clear: both;
-   position:absolute;
+   padding-top: 60px;
    bottom:0;
    width:100%;
    height:25px;   /* Height of the footer */

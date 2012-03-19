@@ -35,8 +35,8 @@
 				    <p>(Custom Mat not included with this insert.  It is <a href="/the-custom-jr/mat">available here</a>.)</p>
 				</div>
 				<div id = "rightdata">
-<!--				    <img src="https://lh6.googleusercontent.com/-xaw7apm_iuM/TeOrWJr6MyI/AAAAAAAAHnQ/q55dh-sDqlY/calcformpriceformula.jpg"></>-->
-                    <img src="https://lh5.googleusercontent.com/-ZlxQguv7Y9g/T15PmGQaGHI/AAAAAAAACsk/_Ums4T5_RHo/s651/Fullscreen%2520capture%25203122012%252033333%2520PM.jpg">
+				    <img src="https://lh6.googleusercontent.com/-WzqwnnbN6a0/T2S1Ivw_7uI/AAAAAAAACs8/fejj0zuFU5k/s440/Jr-1.JPG"></img>
+
                 </div>
 			</div>
         </div>
@@ -172,4 +172,4 @@
     }
 </script>
 
-</html>
+<!--</html>-->

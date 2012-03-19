@@ -1,0 +1,20 @@
+<?xml version="1.0"?> 
+<data>
+	<templates>
+		<template t="101">
+			<name>Carola</name>
+			<img>https://lh5.googleusercontent.com/-jmmp10MZgbA/T2dKEbx0hYI/AAAAAAAACuM/XjVbxA0gyxE/s440/Fullscreen%2520capture%25203192012%2520110020%2520AM.jpg</img>
+			<dims>
+				<dim name="A"><name>A</name> <res>insW-1</res> </dim>
+				<dim name="B"><name>B</name><res>insD-1</res></dim>
+			</dims>
+ 			<sections>
+ 				<section name="A">
+                    <name>A</name>
+				    <withDivs>dimA</withDivs>
+				    <acrossDivs>dimB</acrossDivs>
+                </section>
+			</sections>
+		</template>
+	</templates>
+</data>

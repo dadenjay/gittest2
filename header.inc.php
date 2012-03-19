@@ -16,6 +16,7 @@
                 <ul>
                     <li><a href="/custom-organizers">Custom Inserts</a></li>
                     <li><a href="/expandable-dividers">Dividers</a></li>
+                    <li><a href="/faq">FAQ</a></li>
                     <li><a href="/customer-pictures">Gallery</a></li>
                     <li><a href="/customers-comment">Comments</a></li>
                     <li><a href="/about-us">About Us</a></li>
