@@ -32,21 +32,5 @@
             </sections>
         </template>
     </templates>
-    <heights>
-        <height ht="1.5">
-            <cost>0.22</cost>
-        </height>
-        <height ht="2.0">
-            <cost>0.20</cost>
-        </height>
-        <height ht="2.5">
-            <cost>0.31</cost>
-        </height>
-        <height ht="3.0">
-            <cost>0.37</cost>
-        </height>
-        <height ht="3.5">
-            <cost>0.45</cost>
-        </height>
-    </heights>
+
 </data>

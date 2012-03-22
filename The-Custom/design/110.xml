@@ -3,7 +3,7 @@
 	<templates>
 		<template t="110">
 			<name>Phillip</name>
-            <img></img>
+            <img>https://lh5.googleusercontent.com/-er1txyhr9Us/T2sh-xWu3eI/AAAAAAAACy8/UDjpdrvTtP8/s529/T110.JPG</img>
 			<dims>
 				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insW-15</max> 		</dim>
@@ -42,23 +42,6 @@
 		</template>	
 	</templates>
 
-	<heights>
-	  <height ht="1.5">
-		<cost>0.22</cost>
-	  </height>
-	  <height ht="2.0">
-		<cost>0.20</cost>
-	  </height>
-	  <height ht="2.5">
-		<cost>0.31</cost>
-	  </height>
-	  <height ht="3.0">
-		<cost>0.37</cost>
-	  </height>
-	  <height ht="3.5">
-		<cost>0.45</cost>
-	  </height>	
-	</heights>
 
 	
   

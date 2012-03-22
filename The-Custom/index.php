@@ -39,8 +39,8 @@ include ("../header.inc.php");
 
 <li>3.0" tall maple inserts are $0.35/square inch</li>
 <li>3.5" tall maple inserts are $0.43/square inch</li></ul></ul>
-<li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="http://orderlydrawer.com/custom-cut-drawer-mat">See our mat options here.</a></li>
-<li>Add Scooped Dividers. Learn <a href="http://orderlydrawer.com/scooped-dividers" target="_self">more about scoops here.</a></li>
+<li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="/custom-cut-drawer-mat">See our mat options here.</a></li>
+<li>Add Scooped Dividers. Learn <a href="/scooped-dividers">more about scoops here.</a></li>
 
 </ul>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06295.jpg"><img class="alignnone size-medium wp-image-735" title="custom drawer insert" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06295-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06333.jpg"><img class="alignnone size-medium wp-image-736" title="close-up of slot &amp; divider system" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06333-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06336.jpg"><img class="alignnone size-medium wp-image-737" title="custom insert, ready to be disassembled, packaged &amp; shipped" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06336-245x183.jpg" alt="" width="245" height="183" /></a></p>

@@ -3,7 +3,7 @@
 	<templates>
 		<template t="115">
 			<name>Cody</name>
-            <img></img>
+            <img>https://lh4.googleusercontent.com/-6boDHLMolO0/T2sh-3J1A-I/AAAAAAAACy0/Mm1MPRxun5k/s440/T115.JPG</img>
 			<dims>
 				<dim name = "A"> <name>A</name> <res>insW-1</res> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insW-4.5</max> 		</dim>
@@ -39,23 +39,7 @@
 		</template>	
 	</templates>
 
-	<heights>
-	  <height ht="1.5">
-		<cost>0.22</cost>
-	  </height>
-	  <height ht="2.0">
-		<cost>0.20</cost>
-	  </height>
-	  <height ht="2.5">
-		<cost>0.31</cost>
-	  </height>
-	  <height ht="3.0">
-		<cost>0.37</cost>
-	  </height>
-	  <height ht="3.5">
-		<cost>0.45</cost>
-	  </height>	
-	</heights>
+
 
 	
   

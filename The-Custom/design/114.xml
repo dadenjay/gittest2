@@ -3,7 +3,7 @@
 	<templates>
 		<template t="114">
 			<name>Julie</name>
-            <img></img>
+            <img>https://lh5.googleusercontent.com/-PXF_DJly9cw/T2sh91fCVfI/AAAAAAAACyM/Rc7Re0SZ2l4/s531/T114.JPG</img>
 			<dims>
 				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insD-4.5</max> 		</dim>
@@ -40,23 +40,7 @@
 		</template>	
 	</templates>
 
-	<heights>
-	  <height ht="1.5">
-		<cost>0.22</cost>
-	  </height>
-	  <height ht="2.0">
-		<cost>0.20</cost>
-	  </height>
-	  <height ht="2.5">
-		<cost>0.31</cost>
-	  </height>
-	  <height ht="3.0">
-		<cost>0.37</cost>
-	  </height>
-	  <height ht="3.5">
-		<cost>0.45</cost>
-	  </height>	
-	</heights>
+
 
 	
   

@@ -54,35 +54,36 @@
 			}
 			else if (isset($dim->res))
 			{
-				echo 'So, '.$dim['name'].' = <span id = "result'.$dim['name'].'"></span> min.';
+				echo '<div class="so">So, '.$dim['name'].' = <span id = "result'.$dim['name'].'"></span> min.</div>';
 			}
 			echo '<br />';
 		}
-		echo "-- Number of Movable Dividers in Each Section (learn more) --<br/>";	
+		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a>(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quanity of dividers</h6></p>';
 		$secGrp = $dom->xpath("//template[@t='$var']/sections");	
 		$sections = $secGrp[0];
 		foreach ($sections as $sec)
 		{
 			echo 'Sec. '.$sec['name'].': Qty Reg Divs = <span id = "sec'.$sec['name'].'"></span> ';
-			echo '<a class="plusminus" id="plus'.$sec['name'].'" name="1" href="">+</a> ';
-			echo '<a class="plusminus" id="minus'.$sec['name'].'" name="-1" href="">-</a> ';
+			echo '<a title="Add another regular divider to this section" class="plusminus" id="plus'.$sec['name'].'" name="1" href="">+</a> ';
+			echo '<a title="Remove a regular divider from this section" class="plusminus" id="minus'.$sec['name'].'" name="-1" href="">-</a> ';
 			echo '<input id="k'.$sec['name'].'" name="k'.$sec['name'].'" type="hidden" value="0" />';		
-			echo '<span class="hideScoop"> | Qty Scooped Divs = <span class="scoopNum" id = "scoop'.$sec['name'].'">0</span> ';
-			echo '<a class="scoopPlusMinus" id="scoopPlus'.$sec['name'].'" name="1" href="">+</a> ';
-			echo '<a class="scoopPlusMinus" id="scoopMinus'.$sec['name'].'" name="-1" href="">-</a></span><br/>';
-		}	
+			echo '<span class="hideScoop">   Qty Scooped Divs = <span class="scoopNum" id = "scoop'.$sec['name'].'">0</span> ';
+			echo '<a title="Add a scooped divider to this section" class="scoopPlusMinus" id="scoopPlus'.$sec['name'].'" name="1" href="">+</a> ';
+			echo '<a <a title="Remove a scooped divider from this section" class="scoopPlusMinus" id="scoopMinus'.$sec['name'].'" name="-1" href="">-</a></span><br/>';
+		}
+
 	?><br/>
-	-- Bottom Options --
+	<p class="calcSubTitle">-- Bottom Options --</p>
 	<div id = "btmPrice">
-		<input class="btms" id="wBtm" type="radio" name="Btm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span class="wood"></span>&nbsp;<a href="http://orderlydrawer.com/attached-bottom" target="_blank">(Learn more)</a>
+		<input class="btms" id="wBtm" type="radio" name="Btm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span class="wood"></span>&nbsp;<a href="/attached-bottom" target="_blank">(Learn more)</a>
 		Increases insert height by .19"
 		<br/><input class="btms" id="rMat" type="radio" name="Btm" value="rMat" /> Add a Red Mat:&nbsp;$<span class="mat"></span>&nbsp;<a href="http://design.orderlydrawer.com/mat.htm" target="_blank">(Learn more)</a>
 		<br/><input class="btms" id="tMat" type="radio" name="Btm" value="tMat" /> Add a Tan Mat:&nbsp;$<span class="mat"></span>
 		<br/><input class="btms" id="cMat" type="radio" name="Btm" value="cMat" /> Add a Clear Mat:&nbsp;$<span class="mat"></span>
 		<br/><input class="btms" id="none" type="radio" name="Btm" value="none" checked="true" data-cost="0"/> No Bottom
 	</div>
-	<div id = "priceResponse"><p>Price: $<span>40</span></p></div>
-	Ships in XX business days.  Shipping for first insert is $10.  Add'l inserts ship free	
+	<div id = "priceResponse"><p class="calcSubTitle">Price: $<span>40</span></p></div>
+	<h6>Ships in 12 business days.  First insert $10.  Add'l inserts ship free.</h6>
 	<div class = "callout">
 		<a id = "price" class="button" href="">Please enable Javascript to use this form</a>
 	</div>

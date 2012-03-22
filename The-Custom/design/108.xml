@@ -4,7 +4,7 @@
 
         <template t="108">
             <name>Shelly</name>
-			<img></img>
+			<img>https://lh4.googleusercontent.com/-W0CTGHlDSXI/T2sh9vv-8LI/AAAAAAAACx8/WPhnxN_Kj2A/s440/T108.JPG</img>
 			<dims>
 				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insW-4.5</max> 		</dim>

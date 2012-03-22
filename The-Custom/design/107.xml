@@ -3,7 +3,7 @@
     <templates>
         <template t="107">
             <name>Richard</name>
-            <img />
+            <img>https://lh3.googleusercontent.com/-ijyQ-42spK8/T2sh9gB5A0I/AAAAAAAACyo/UCZFzeWTISc/s440/T107.JPG</img>
             <dims>
                 <dim name="A">
                     <name>A</name>
@@ -41,21 +41,5 @@
             </sections>
         </template>
     </templates>
-    <heights>
-        <height ht="1.5">
-            <cost>0.22</cost>
-        </height>
-        <height ht="2.0">
-            <cost>0.20</cost>
-        </height>
-        <height ht="2.5">
-            <cost>0.31</cost>
-        </height>
-        <height ht="3.0">
-            <cost>0.37</cost>
-        </height>
-        <height ht="3.5">
-            <cost>0.45</cost>
-        </height>
-    </heights>
+
 </data>

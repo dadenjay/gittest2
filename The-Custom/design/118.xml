@@ -3,7 +3,7 @@
     <templates>
         <template t="118">
             <name>David</name>
-            <img src="https://lh4.googleusercontent.com/-4V7zJ5rkTWg/T2dJEQgXVeI/AAAAAAAACuE/fDt3g35A-q8/s440/Fullscreen%2520capture%25203192012%2520105451%2520AM.jpg"></img><img />
+            <img>https://lh3.googleusercontent.com/-Jpw8IFMaQlw/T2sh9tCpyEI/AAAAAAAACyQ/n8U9uIOW_cQ/s440/T118.JPG</img>
             <dims>
                 <dim name="A">
                     <name>A</name>
@@ -23,21 +23,5 @@
             </sections>
         </template>
     </templates>
-    <heights>
-        <height ht="1.5">
-            <cost>0.22</cost>
-        </height>
-        <height ht="2.0">
-            <cost>0.20</cost>
-        </height>
-        <height ht="2.5">
-            <cost>0.31</cost>
-        </height>
-        <height ht="3.0">
-            <cost>0.37</cost>
-        </height>
-        <height ht="3.5">
-            <cost>0.45</cost>
-        </height>
-    </heights>
+
 </data>
