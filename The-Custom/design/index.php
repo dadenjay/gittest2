@@ -9,33 +9,36 @@
     <?php
     include ("../../header.inc.php");
     ?>
-
-    <h1>Custom Insert - <?php echo $dom->templates->template->name;	?> Layout
-		
-		
-	</h1>
-<div id = "data">
-    <div id = "leftdata">
-	<noscript id = "jsEnabled">
-		<p>You do not have Javascript enabled.  Please use <a href="../the-custom">our old form</a>.</p>
-	</noscript>
+        <div id = "container">
+            <h1>Custom Insert - <?php echo $dom->templates->template->name;	?> Layout
+	        </h1>
+            <div id = "data">
+                <div id = "leftdata">
+	                <noscript id = "jsEnabled">
+		                <p>You do not have Javascript enabled.  Please use <a href="../the-custom">our old form</a>.</p>
+	                </noscript>
 	<!-- width and depth fields with response divs -->
-
-    <input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" class="chg" size="16" /> Internal Drawer Width <br />
-	<div id = "widthResponse"><p> </p></div>
-	<input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" class="chg" size="16" /> Internal Drawer Depth <br />
-	<div id = "depthResponse"><p> </p></div>
+                    <form id = "formcalc" class="h5-defaults" action="">
+                        <fieldset>
+                        <legend>Personalize Your Insert:</legend>
+                        <h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
+                        <h6> Use decimals, not fractions. <a href="http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg" onclick="return popitup('http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
+                        <input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" class="chg" size="16" /> Internal Drawer Width <br />
+                        <div id = "widthResponse"><p> </p></div>
+                        <input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" class="chg" size="16" /> Internal Drawer Depth <br />
+                        <div id = "depthResponse"><p> </p></div>
 	<!-- loop for height options selectbox -->
-	<select name="height" id="height">
-		<?php
-			foreach ($gen->heights->height as $ht)
-			{
-				echo '<option value="'.$ht['ht'].'" data-cost="'.$ht->cost.'">';
-				echo $ht['ht'].'" tall = $';
-				echo $ht->cost.' per square inch</option>';
-			}
-		?>
-	</select> Height of Your Insert <br /><br />
+
+           <select name="height" id="height">
+                            <?php
+                                foreach ($gen->heights->height as $ht)
+                                {
+                                    echo '<option value="'.$ht['ht'].'" data-cost="'.$ht->cost.'">';
+                                    echo $ht['ht'].'" tall = $';
+                                    echo $ht->cost.' per square inch</option>';
+                                }
+                            ?>
+                        </select> Height of Your Insert <br /><br />
 	
 	<?php
 		$var = $_GET['t'];
@@ -81,11 +84,11 @@
 	<div id = "priceResponse"><p>Price: $<span>40</span></p></div>
 	Ships in XX business days.  Shipping for first insert is $10.  Add'l inserts ship free	
 	<div class = "callout">
-		<a id = "price" href="">Please enable Javascript to use this form</a>
+		<a id = "price" class="button" href="">Please enable Javascript to use this form</a>
 	</div>
-    <div>
-        <img src="<?php echo $dom->templates->template->img;	?>" alt="custom drawer organizer layout">
-    </div>
+<!--    <div>-->
+<!--        <img src="--><?php //echo $dom->templates->template->img;	?><!--" alt="custom drawer organizer layout">-->
+<!--    </div>-->
 	
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> 
 <!--<script src="jquery-1.6.min.js"></script>-->
@@ -454,8 +457,12 @@
 	</script>
     </div>
     <div id = "rightdata">
+        <div>
+            <img src="<?php echo $dom->templates->template->img;	?>" alt="custom drawer organizer layout">
+        </div>
     </div>
     </div>
+            </div>
 <?php
 include ("../../footer.inc.php");
 ?>

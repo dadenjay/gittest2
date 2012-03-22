@@ -34,7 +34,7 @@
 					<a id = "price" class="button" href="">Please enable Javascript to use this form</a>
 				    <p>(Custom Mat not included with this insert.  It is <a href="/the-custom-jr/mat">available here</a>.)</p>
 				</div>
-				<div id = "rightdata">
+				<div id = "rightdatajr">
 				    <img src="https://lh6.googleusercontent.com/-WzqwnnbN6a0/T2S1Ivw_7uI/AAAAAAAACs8/fejj0zuFU5k/s440/Jr-1.JPG"></img>
 
                 </div>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<data>
+	<templates>
+		<template t="120">
+			<name>Sandra</name>
+            <img></img>
+			<dims>
+				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
+				<dim name = "B"> <name>B</name> <max>insW-8</max> 		</dim>
+				<dim name = "C"> <name>C</name> <max>insW-dimB-5</max>	</dim>
+				<dim name = "D"> <name>D</name> <res>insW-dimB-dimC</res>			</dim>
+
+			</dims>
+			<sections>
+				<section name = "A">
+					<name>A</name>
+					<withDivs>dimA</withDivs>
+					<acrossDivs>dimD</acrossDivs>
+				</section>
+				<section name = "B">
+					<name>B</name>
+					<withDivs>dimB</withDivs>
+					<acrossDivs>dimA</acrossDivs>
+				</section>
+				<section name = "C">
+					<name>C</name>
+					<withDivs>dimC</withDivs>
+					<acrossDivs>dimA</acrossDivs>
+				</section>
+
+			</sections>
+		</template>	
+	</templates>
+
+
+
+	
+  
+</data>

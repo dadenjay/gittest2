@@ -85,6 +85,7 @@ h2 {
     margin-bottom: 10px;
     font-size: 1.6em;
     font-weight: bold;
+    clear:both;
 
 }
 
@@ -104,9 +105,17 @@ h4 {
     font-weight: bold;
     text-decoration: none;
 }
-h6 {
+/*h5 {      *//*   for names on drawings     */
+   /*margin-top:5px;*/
+   /*font-size: 1.4em;*/
+   /*font-weight: bold;*/
+   /*font-variant: small-caps;*/
+
+/*}*/
+h6 {  /*used on forms  */
     font-size: .75em;
 }
+
 legend {
     font-size: 1.1em;
 }
@@ -236,9 +245,12 @@ div#viewCartBox {
 
  }
  .drawing {
-    opacity: .70;
-    position: relative;
-    float: left;
+     opacity: .70;
+     float: left;
+     margin-top: 10px;
+     margin-left:10px;
+     margin-bottom: 10px;
+     height: 220px;
      }
  .drawing:hover {
      opacity: 1;
@@ -250,13 +262,22 @@ div#viewCartBox {
 
  }
  .drawing .name {
-     position: absolute;
-     top:75px;
-     text-align: center;
-     font-size: 2em;
-     width: 250px;
- }
 
+     margin-top:5px;
+     font-size: 1.4em;
+     font-weight: bold;
+     font-variant: small-caps;
+     /*margin-left:-5px;*/
+     text-align: center;
+     /*font-size: 1em;*/
+     /*width: 120px;*/
+     /*padding-left: 10px;*/
+
+ }
+.drawing .name p {
+    margin-top:1px;
+    font-size: .6em;
+}
 .button{
     font-family: "Trebuchet MS", sans-serif;
     font-size: 1.2em;
@@ -267,6 +288,7 @@ div#viewCartBox {
     text-align: center;
     font-weight: bold;
     padding: 0 15px 0 15px;
+    margin-top: 10px;
     margin-right: 5px;
     line-height: 50px;
     background-color: #354c56;
@@ -316,13 +338,18 @@ div#leftdata {
 	padding-top: 10px;
 	padding-bottom: 8px;
     padding-left: 10px;
+    padding-right: 5px;
 
 }
-div#rightdata {
+div#rightdata, #rightdatajr {
     width: 350px;
 	float: right;
 	padding: 15px 15px 0 15px;
+    margin-top: 150px;
 	
+}
+div#rightdatajr {
+    margin-top: 0;
 }
 div#widthResponse p, div#depthResponse p{
 	/*height: 10px;*/

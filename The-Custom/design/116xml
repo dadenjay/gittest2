@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<data>
+	<templates>
+		<template t="116">
+			<name>Ren&eacute;</name>
+            <img></img>
+			<dims>
+				<dim name = "A"> <name>A</name> <max>insW-4.5</max> 			</dim>
+				<dim name = "B"> <name>B</name> <res>insW-dimA-1.5</res> 		</dim>
+				<dim name = "C"> <name>C</name> <max>insD-4.5</max>	</dim>
+				<dim name = "D"> <name>D</name> <res>insD-dimC-1.5</max>			</dim>
+				<dim name = "E"> <name>E</name> <max>insD-4.5</max>		</dim>
+				<dim name = "F"> <name>F</name> <res>insD-dimE-1.5</max>	</dim>
+               </dims>
+			<sections>
+				<section name = "A">
+					<name>A</name>
+					<withDivs>dimA</withDivs>
+					<acrossDivs>dimD</acrossDivs>
+				</section>
+				<section name = "C">
+					<name>C</name>
+					<withDivs>dimC</withDivs>
+					<acrossDivs>dimA</acrossDivs>
+				</section>
+				<section name = "E">
+					<name>E</name>
+					<withDivs>dimE</withDivs>
+					<acrossDivs>dimB</acrossDivs>
+				</section>
+				<section name = "F">
+					<name>F</name>
+					<withDivs>dimF</withDivs>
+					<acrossDivs>dimB</acrossDivs>
+				</section>
+
+            </sections>
+		</template>	
+	</templates>
+
+	<heights>
+	  <height ht="1.5">
+		<cost>0.22</cost>
+	  </height>
+	  <height ht="2.0">
+		<cost>0.20</cost>
+	  </height>
+	  <height ht="2.5">
+		<cost>0.31</cost>
+	  </height>
+	  <height ht="3.0">
+		<cost>0.37</cost>
+	  </height>
+	  <height ht="3.5">
+		<cost>0.45</cost>
+	  </height>	
+	</heights>
+
+	
+  
+</data>
