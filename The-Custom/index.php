@@ -39,7 +39,7 @@ include ("../header.inc.php");
 
 <li>3.0" tall maple inserts are $0.35/square inch</li>
 <li>3.5" tall maple inserts are $0.43/square inch</li></ul></ul>
-<li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="/custom-cut-drawer-mat">See our mat options here.</a></li>
+<li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="/the-custom/mat">See our mat options here.</a></li>
 <li>Add Scooped Dividers. Learn <a href="/scooped-dividers">more about scoops here.</a></li>
 
 </ul>

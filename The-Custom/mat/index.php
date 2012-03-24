@@ -5,8 +5,8 @@
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 	<title>Orderly Drawer Custom-Cut Mat</title>
 	<link rel="shortcut icon" href="http://orderlydrawer.com/wp-content/uploads/2009/02/favicon.ico" >
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-    <script type="text/javascript">
+	<script type="text/javascript" src="js/jquery-1.6.min.js"></script>
+	<script type="text/javascript">
 		//Test for Javascript enabled
 	    $("document").ready(function() {
 			$("#jsEnabled").empty();
@@ -59,7 +59,7 @@
 
 <body onload="formCalc()">
 <head>
-    <title>Orderly Drawer Organizers  -  Cimple Install</title>
+    <title>Orderly Drawer Organizers  -  Drawer Mat</title>
     <?php
     include ("../../header.inc.php");
     ?>
@@ -77,36 +77,7 @@
 				<img class = "horizontal" src = "http://orderlydrawer.com/wp-content/uploads/2010/11/dsc07598.jpg" width="250px">
 				</p>
 			</div>
-				<div id = "data">
-					<div id = "leftdata">
-					<div id = "jsEnabled">
-						<p>You do not have Javascript enabled.  Please use <a href="/contact-us">our contact form</a> to place your order and we will invoice you.</p>
-					</div>
-						<form id = "formcalc" action="">
-							<fieldset>
-								<legend>Personalize Your Mat:</legend>
-								<br />
-								Choose mat color/type (see pictures above):
-								<select id="mat_type">
-								  <option value="red">Red</option>
-								  <option value="tan">Tan</option>
-								  <option value="clr">Clear</option>
-								</select><br /><br />
-								Enter drawer dimensions:
-								<h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
-								<h6> Use decimals, not fractions. <a href="media/fractiontodecimalpopup.jpg" onclick="return popitup('media/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
-								<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" size="12" /> Drawer Inside Width (Mat Width)<br />
-								<input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" size="12" /> Drawer Inside Depth (Mat Length) <br /><br />
-								<div id = "priceResponse"><p>Price: $<span>2</span></p></div>
-							</fieldset>
-						</form>
-						<div class = "callout">
-							<a id = "price" href="orderlydrawer.com/">Add to Shopping Cart</a>
-						</div>
-				</div>
-				<div id = "rightdata">
-				<img src="media/cm_mat.jpg"></>
-				</div>
+
     <?php
     include ("../../footer.inc.php");
     ?>

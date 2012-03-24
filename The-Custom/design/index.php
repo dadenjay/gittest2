@@ -30,15 +30,15 @@
 	<!-- loop for height options selectbox -->
 
            <select name="height" id="height">
-                            <?php
-                                foreach ($gen->heights->height as $ht)
-                                {
-                                    echo '<option value="'.$ht['ht'].'" data-cost="'.$ht->cost.'">';
-                                    echo $ht['ht'].'" tall = $';
-                                    echo $ht->cost.' per square inch</option>';
-                                }
-                            ?>
-                        </select> Height of Your Insert <br /><br />
+                <?php
+                    foreach ($gen->heights->height as $ht)
+                    {
+                        echo '<option value="'.$ht['ht'].'" data-cost="'.$ht->cost.'">';
+                        echo $ht['ht'].'" tall = $';
+                        echo $ht->cost.' per square inch</option>';
+                    }
+                ?>
+            </select> Height of Your Insert <br /><br />
 	
 	<?php
 		$var = $_GET['t'];
@@ -58,7 +58,7 @@
 			}
 			echo '<br />';
 		}
-		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a>(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quanity of dividers</h6></p>';
+		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a href="/movable-dividers" target="_blank">(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quanity of dividers</h6></p>';
 		$secGrp = $dom->xpath("//template[@t='$var']/sections");	
 		$sections = $secGrp[0];
 		foreach ($sections as $sec)
@@ -77,7 +77,7 @@
 	<div id = "btmPrice">
 		<input class="btms" id="wBtm" type="radio" name="Btm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span class="wood"></span>&nbsp;<a href="/attached-bottom" target="_blank">(Learn more)</a>
 		Increases insert height by .19"
-		<br/><input class="btms" id="rMat" type="radio" name="Btm" value="rMat" /> Add a Red Mat:&nbsp;$<span class="mat"></span>&nbsp;<a href="http://design.orderlydrawer.com/mat.htm" target="_blank">(Learn more)</a>
+		<br/><input class="btms" id="rMat" type="radio" name="Btm" value="rMat" /> Add a Red Mat:&nbsp;$<span class="mat"></span>&nbsp;<a href="/the-custom/mat" target="_blank">(Learn more)</a>
 		<br/><input class="btms" id="tMat" type="radio" name="Btm" value="tMat" /> Add a Tan Mat:&nbsp;$<span class="mat"></span>
 		<br/><input class="btms" id="cMat" type="radio" name="Btm" value="cMat" /> Add a Clear Mat:&nbsp;$<span class="mat"></span>
 		<br/><input class="btms" id="none" type="radio" name="Btm" value="none" checked="true" data-cost="0"/> No Bottom
@@ -112,7 +112,7 @@
 		   Calcform.totalPrice();
 		},
 		widthFn: function()	{
-			//add special notice for width over 24"
+			//TODO: add special notice for width over 24"
 			
 			str = document.getElementById('dwWidth').value;
 			var ins_width = parseFloat(str)-.125;
@@ -203,7 +203,8 @@
 					var max = eval(result);
 					//establish name of dim and the output id
 					var name = xml_dims.dim[i].name;
-					var spanId = "mx" + name;					
+					var spanId = "mx" + name;
+                    //if the result of max calculation is a number
 					if (!isNaN(parseFloat(max)))
 					{
 						//write max value to the output span
@@ -213,11 +214,12 @@
 						var temp = document.getElementById(id).value;
 						if (temp >= 3 && temp <= max){dimsList[name] = temp;}
 						else{
-							//var = xout, and turn the min/max text red
+							//if not in range,  var = null, and TODO turn the min/max text red
 							temp = 'null';
 							complete = 0;
 						}
 					}
+                    //if not a number, then mark form as incomplete
 					else 
 					{
 						complete = 0;
@@ -263,7 +265,6 @@
 				var modDivLength = 0;
 				//pull in xml data for sections and start looping them
 				<?php
-				//do we really need this again?  $var = $_GET['t'];
 				$sections_xml = $dom->xpath("//template[@t='$var']/sections");
 				$sections_array = $sections_xml[0];
 				$js_sections = json_encode($sections_array);
@@ -273,35 +274,38 @@
 				for (var i in xml_sections.section){
 				//use section data to find official number of divs -- see formula on planning sheet
 					//grab the withDivs and acrossDivs values from the xml for this loop
-					var withDivs = parseFloat(eval(xml_sections.section[i].withDivs));
-					var acrossDivs = parseFloat(eval(xml_sections.section[i].acrossDivs));
-					//plug them into formulas to get recommended number of divs and total div length
-					var numDivs = Math.ceil(((.94 * acrossDivs)-1.875)/2);
-					//fetch the value from the hidden cell
-					var name = xml_sections.section[i].name;
-					var hidId = "k" + name;
-					var chg = parseFloat(document.getElementById(hidId).value);
-					//now add those two together to get the actual number of divs they want
-					var actual = parseFloat(numDivs) + parseFloat(chg);
-					if (actual < 0) {actual = 0};
-					//write that number onto the line for Qty Reg Divs
-					var spanId = "sec" + name;
-					if (!isNaN(actual)){
-						$('#' + spanId).html(actual.toFixed(0));
-						//write that value into the divsList object
-						divsList.divs[name] = actual;	
-						//use mod and the length of the section to find the total length of their increment/decrement
-						if (-chg > numDivs){modDivLength -= (numDivs * (withDivs + .375))}
-						else {modDivLength += (chg * (withDivs + .375))};
+					console.log("section pass %s", i);
+                    if (xml_sections.section[i].withDivs){
+						console.log("section pass %s", i);
+						var withDivs = parseFloat(eval(xml_sections.section[i].withDivs));
+						var acrossDivs = parseFloat(eval(xml_sections.section[i].acrossDivs));
+						//plug them into formulas to get recommended number of divs and total div length
+						var numDivs = Math.ceil(((.94 * acrossDivs)-1.875)/2);
+						//fetch the value from the hidden cell
+						var name = xml_sections.section[i].name;
+						var hidId = "k" + name;
+						var chg = parseFloat(document.getElementById(hidId).value);
+						//now add those two together to get the actual number of divs they want
+						var actual = parseFloat(numDivs) + parseFloat(chg);
+						if (actual < 0) {actual = 0};
+						//write that number onto the line for Qty Reg Divs
+						var spanId = "sec" + name;
+						if (!isNaN(actual)){
+							$('#' + spanId).html(actual.toFixed(0));
+							//write that value into the divsList object
+							divsList.divs[name] = actual;	
+							//use mod and the length of the section to find the total length of their increment/decrement
+							if (-chg > numDivs){modDivLength -= (numDivs * (withDivs + .375))}
+							else {modDivLength += (chg * (withDivs + .375))};
+						}
+						//use name to get id of scoop qty location
+						var scoopLoc = "scoop" + name;
+						//call that id to get value of scoops
+						var scoopTemp = parseFloat($('#' + scoopLoc).text());
+							console.log("scoopTemp is %s", scoopTemp);
+						//put it into the object
+						divsList.scoops[name] = scoopTemp;
 					}
-					//use name to get id of scoop qty location
-					var scoopLoc = "scoop" + name;
-					//call that id to get value of scoops
-					var scoopTemp = parseFloat($('#' + scoopLoc).text());
-						console.log("scoopTemp is %s", scoopTemp);
-					//put it into the object
-					divsList.scoops[name] = scoopTemp;
-					
 				}
 			//return array of arrays/vars to master(): ABC array, divs per section array, inches added per section, scoops per section
 			var passDnD = [dimsList, divsList, modDivLength];

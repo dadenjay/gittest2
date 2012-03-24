@@ -354,7 +354,7 @@ div#leftdata {
     text-align: center;
 }
 .so {
-    padding-bottom: 2ex;
+    /*padding-bottom: 2ex;*/
 }
 .plusminus, .scoopPlusMinus {
     background-color: white;
@@ -364,16 +364,13 @@ div#leftdata {
     height: 15px;
     width: 9px;
     text-align: center;
-
-
-
 }
+
 div#rightdata, #rightdatajr {
     width: 350px;
 	float: right;
 	padding: 15px 15px 0 15px;
     margin-top: 150px;
-	
 }
 div#rightdatajr {
     margin-top: 0;
