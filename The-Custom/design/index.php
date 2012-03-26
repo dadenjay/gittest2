@@ -275,14 +275,20 @@
 				//use section data to find official number of divs -- see formula on planning sheet
 					//grab the withDivs and acrossDivs values from the xml for this loop
 					console.log("section pass %s", i);
+					//trying to find a way to make t101 and 118 work here
                     if (xml_sections.section[i].withDivs){
-						console.log("section pass %s", i);
 						var withDivs = parseFloat(eval(xml_sections.section[i].withDivs));
 						var acrossDivs = parseFloat(eval(xml_sections.section[i].acrossDivs));
+						var name = xml_sections.section[i].name;
+					} else {
+						var withDivs = parseFloat(eval(xml_sections.section.withDivs));
+						var acrossDivs = parseFloat(eval(xml_sections.section.acrossDivs));
+						var name = xml_sections.section.name;	
+					}
+					
 						//plug them into formulas to get recommended number of divs and total div length
 						var numDivs = Math.ceil(((.94 * acrossDivs)-1.875)/2);
 						//fetch the value from the hidden cell
-						var name = xml_sections.section[i].name;
 						var hidId = "k" + name;
 						var chg = parseFloat(document.getElementById(hidId).value);
 						//now add those two together to get the actual number of divs they want
@@ -305,7 +311,7 @@
 							console.log("scoopTemp is %s", scoopTemp);
 						//put it into the object
 						divsList.scoops[name] = scoopTemp;
-					}
+					
 				}
 			//return array of arrays/vars to master(): ABC array, divs per section array, inches added per section, scoops per section
 			var passDnD = [dimsList, divsList, modDivLength];

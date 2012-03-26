@@ -79,15 +79,18 @@ include ("../header.inc.php");
 <p><em>&#8220;A bit tricky, but much more affordable than the spring-loaded dividers. Thanks!&#8221; </em>- Kathleen M, Chardon, OH</p>
 <p style="text-align: left;"><strong>The following is from a customer who purchased and returned some Cimple Drawer Dividers:</strong><br />
     <em>&#8220;There were too many pieces to each divider.  I am a very senior citizen.  I wanted and prefer the spring system which seems to work much more easily and is only one piece.  I think that if you would/could reduce the piece amount on your system, they might work better.&#8221;</em></p>
-<p><strong>Our response:</strong><br />
+<div class = "ourresponse">
+	<h5>Our response:</h5>
+    For now, we&#8217;ve decided to stick with our current design even though our Cimple Drawer dividers are difficult for some people to install.  Here&#8217;s why&#8230;
+		<ul style="text-align: left;">
+			<li> since it is not dependent on moving parts (like a spring), the divider is very durable and won't weaken over time.</li>
+			<li> you can set the tension.  With a spring-loaded divider, you don't get a choice in how much pressure is put on your drawer frame.  With our Cimple dividers, you're in charge of the tension.</li>
+			<li>with no metal parts, we&#8217;re able to offer a great product at a great price</li>
+			<li style="text-align: left;">we make the tallest dividers on the market.  The spring technology can only work with small and medium heights.  As far as we know, our 6&#8243; Cimple is the tallest non-custom drawer divider on the market.  And we&#8217;re considering offering even taller ones.</li>
 
-    For now, we&#8217;ve decided to stick with our current design even though our Cimple Drawer dividers are difficult for some people to install.  Here&#8217;s why&#8230;</p>
-<ul style="text-align: left;">
-    <li> since it is not dependent on moving parts (like a spring), the divider is very durable, and we&#8217;re able to offer a lifetime guarantee</li>
-    <li>with no metal parts, we&#8217;re able to offer a great product at a great price</li>
-    <li style="text-align: left;">we make the tallest dividers on the market.  The spring technology can only work with small and medium heights.  As far as we know, our 6&#8243; Cimple is the tallest non-custom drawer divider on the market.  And we&#8217;re considering offering even taller ones.</li>
-
-</ul><br/><br/>
+		</ul>
+</div>
+<br/><br/>
 
 <?php
 include ("../footer.inc.php");

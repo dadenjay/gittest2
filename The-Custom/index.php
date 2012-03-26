@@ -11,7 +11,7 @@ include ("../header.inc.php");
 <h1>The Custom: Full-Drawer Customized Insert</h1>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/03/ebay-gallery-pic.jpg"><img class="size-thumbnail wp-image-819" src="http://orderlydrawer.com/wp-content/uploads/2009/03/ebay-gallery-pic-150x150.jpg" alt="" width="150" height="150" align="right" /></a><br />
 <p>Solid wood. Adjustable. A custom fit. Your choice of layout.</p>
-<p>Prices start at just $40! (Note: if price is an issue, consider our <a href="http://orderlydrawer.com/the-custom-jr">Custom Jr</a> - prices start around $20 - especially if you have a narrow drawer.)  Our 2" tall custom drawer organizers are $0.20/square inch.  So, for a 12&#8243; x 20&#8243; deep drawer, multiply 12&#8243; x 20&#8243; x $0.20.  The cost would be $48.</p>
+<p>Prices start at just $40! (Note: if price is an issue, consider our <a href="/the-custom-jr">Custom Jr</a> - prices start around $20 - especially if you have a narrow drawer.)  Our 2" tall custom drawer organizers are $0.20/square inch.  So, for a 12&#8243; x 20&#8243; deep drawer, multiply 12&#8243; x 20&#8243; x $0.20.  The cost would be $48.</p>
 
 <p><a href="/customer-pictures">See more customers' pictures of Orderly Drawers.</a></p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744.jpg"><img class="alignnone size-medium wp-image-1290" title="junk drawer organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744-244x183.jpg" alt="" width="244" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210.jpg"><img class="alignnone size-medium wp-image-617" title="insert with knives" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2.jpg"><img class="alignnone size-medium wp-image-1292" title="custom flatware insert" src="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2-244x183.jpg" alt="" width="244" height="183" /></a></p>
@@ -65,43 +65,43 @@ include ("../header.inc.php");
 
 
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=101">
         <img src="https://lh3.googleusercontent.com/-yQM-IaCVr8s/T2k2YNfRsYI/AAAAAAAACuk/lVkxw-sCRVg/s160/T101min.jpg" </img>
         <div class="name">"Carola"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=118">
         <img src="https://lh6.googleusercontent.com/--e3QhPEbvQA/T2nIE8Ft0CI/AAAAAAAACvs/n2P6b9omJ8A/s160/T118min.jpg" </img>
         <div class="name">"Mary Ann"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=102">
         <img src="https://lh3.googleusercontent.com/-7LCEobx3aG4/T2nIDFwNtCI/AAAAAAAACvg/67ppAcw3fbo/s160/T102min.jpg" </img>
         <div class="name">"Brandi"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=103">
         <img src="https://lh4.googleusercontent.com/-8aSImqfPk-8/T2nIEDM2lvI/AAAAAAAACvM/ftUvpRtM0Yg/s160/T103min.jpg" </img>
         <div class="name">"Susan"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=104">
         <img src="https://lh5.googleusercontent.com/-Ix9J8Ozp_SY/T2nIDCDrORI/AAAAAAAACuw/se78Ntt-uew/s160/T104min.jpg" </img>
         <div class="name">"Brie"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=107">
         <img src="https://lh6.googleusercontent.com/-f5dHDGj3ksA/T2nIDOYYajI/AAAAAAAACvE/oWDAILMIeAM/s160/T107min.jpg" </img>
         <div class="name">"Richard"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=108">
         <img src="https://lh4.googleusercontent.com/-FBoseT6Ega4/T2nIDL8y95I/AAAAAAAACus/6518gKjHOdk/s160/T108min.jpg" </img>
         <div class="name">"Shelly"<p>click to design</p></div>
     </a>
@@ -111,31 +111,31 @@ include ("../header.inc.php");
 
 <h2>The following templates require a minimum drawer width of 14 inches.</h2>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=106">
         <img src="https://lh3.googleusercontent.com/-bdqe5-A0w84/T2nIE6YW_sI/AAAAAAAACvw/zNqBYQ8fM0Y/s160/T106min.jpg" </img>
         <div class="name">"William"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=105">
         <img src="https://lh6.googleusercontent.com/-lT-8TVR0iiE/T2nIEa1zdRI/AAAAAAAACvc/XmT8Ktmk3o4/s160/T105min.jpg" </img>
         <div class="name">"Linda"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=115">
         <img src="https://lh5.googleusercontent.com/--FtPvAT9eeU/T2oi80HbKPI/AAAAAAAACxA/HtR5Z2Z_Eg8/s160/T115min-1.JPG" </img>
         <div class="name">"Cody"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=116">
         <img src="https://lh6.googleusercontent.com/--OsG9vjZTS0/T2nIDL4gzpI/AAAAAAAACvA/MNQGeZd5MU8/s160/T116min.jpg" </img>
         <div class="name">"Ren&eacute;"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=117">
         <img src="https://lh3.googleusercontent.com/-vVHbzFmJuSU/T2nIDNF5HEI/AAAAAAAACu0/aLfW3tM234Y/s160/T117min.jpg" </img>
         <div class="name">"Jeffrey"<p>click to design</p></div>
     </a>
@@ -143,43 +143,43 @@ include ("../header.inc.php");
 
 <h2>The following templates require a minimum drawer width of 20 inches.</h2>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=109">
         <img src="https://lh6.googleusercontent.com/-3ioRlyCnkH0/T2nq3fdvqlI/AAAAAAAACwE/IxkMTULT7Wk/s191/T109min.jpg" </img>
         <div class="name">"DeAnn"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=110">
         <img src="https://lh5.googleusercontent.com/-fH5smVLQvi0/T2nq4DfnBoI/AAAAAAAACwg/xsUu3L1U4o0/s191/T110min.jpg" </img>
         <div class="name">"Phillip"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=111">
         <img src="https://lh6.googleusercontent.com/-ehYfDsUdpUk/T2nq3gqmiTI/AAAAAAAACwQ/05nLrbcpDC0/s191/T111min.jpg" </img>
         <div class="name">"Alex"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=112">
         <img src="https://lh6.googleusercontent.com/-BkGMWMDzSlA/T2nq3RizNcI/AAAAAAAACwA/c_CJi3MJAPg/s191/T112min.jpg" </img>
         <div class="name">"Joni"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=114">
         <img src="https://lh6.googleusercontent.com/-Ksp9MYxWt8A/T2nq4MQQkDI/AAAAAAAACwc/1HfxfC8GtyQ/s191/T114min.jpg" </img>
         <div class="name">"Julie"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=119">
         <img src="https://lh4.googleusercontent.com/-YUxnKjz-4p4/T2oAWA1FQUI/AAAAAAAACw4/8ZJlPfIPAaA/s191/T119min-2.jpg" </img>
         <div class="name">"Jolene"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
-    <a href="/the-custom/design">
+    <a href="/the-custom/design/?t=120">
         <img src="https://lh4.googleusercontent.com/-2HQ4iYwi9m8/T2nq3bt1yfI/AAAAAAAACwo/eeWKhOH2NZk/s191/T120min.jpg" </img>
         <div class="name">"Sandra"<p>click to design</p></div>
     </a>

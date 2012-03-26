@@ -105,13 +105,14 @@ h4 {
     font-weight: bold;
     text-decoration: none;
 }
-/*h5 {      *//*   for names on drawings     */
-   /*margin-top:5px;*/
-   /*font-size: 1.4em;*/
-   /*font-weight: bold;*/
-   /*font-variant: small-caps;*/
+h5 {      
+   margin-top:5px;
+   font-size: 1em;
+   font-weight: bold;
+   
+   }
 
-/*}*/
+
 h6 {  /*used on forms  */
     font-size: .75em;
 }
@@ -350,6 +351,17 @@ div#leftdata {
 
 
 }
+.ourresponse {
+	display: block;
+	background-color:#cfcfd1;
+	margin: 30px;
+	padding: 5px;
+	padding-top: 4px;
+	border-radius: 15px; 
+	-webkit-border-radius: 15px; 
+	-moz-border-radius: 15px;
+	
+}	
 .calcSubTitle {
     text-align: center;
 }
