@@ -8,7 +8,7 @@
 			<dims>
 				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insW-4.5</max> 		</dim>
-				<dim name = "C"> <name>C</name> <res>insW-dimB-1.5-2</res>	</dim>
+				<dim name = "C"> <name>C</name> <res>insW-dimB-1.5</res>	</dim>
 				<dim name = "D"> <name>D</name> <max>insD-4.5</max>			</dim>
 				<dim name = "E"> <name>E</name> <res>insD-dimD-1.5</res>		</dim>
 			</dims>

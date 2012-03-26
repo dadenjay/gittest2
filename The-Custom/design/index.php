@@ -61,6 +61,7 @@
 		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a href="/movable-dividers" target="_blank">(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quanity of dividers</h6></p>';
 		$secGrp = $dom->xpath("//template[@t='$var']/sections");	
 		$sections = $secGrp[0];
+
 		foreach ($sections as $sec)
 		{
 			echo 'Sec. '.$sec['name'].': Qty Reg Divs = <span id = "sec'.$sec['name'].'"></span> ';
@@ -71,7 +72,17 @@
 			echo '<a title="Add a scooped divider to this section" class="scoopPlusMinus" id="scoopPlus'.$sec['name'].'" name="1" href="">+</a> ';
 			echo '<a <a title="Remove a scooped divider from this section" class="scoopPlusMinus" id="scoopMinus'.$sec['name'].'" name="-1" href="">-</a></span><br/>';
 		}
-
+		//okay, at this point, the SimpleXMLElement command leaves us with two different structures in the object, 
+			//depending on whether there is more than one element inside the "section" section of the xml file
+			//So, the code below is to fix the object for templates #101 and 108 that have only one section in them
+			//Strangely, the section below was still working fine for both, but the Javascript couldn't handle the difference
+		//If $sections[0] does not exist, then save the guts of $sections into $section[0]
+		// if (!(property_exists('sections', '0')))
+		// {
+			// echo 'Bugfix modification initiated';
+			// $sections[0] = $sections;	
+		// }
+		//couldn't come up with an effective existence test nor a way to interpolate a parent so the rest of form works
 	?><br/>
 	<p class="calcSubTitle">-- Bottom Options --</p>
 	<div id = "btmPrice">
@@ -257,7 +268,7 @@
 			}
 			if (complete != 0) {
 				//BEGIN THE "DIVS" SECTION
-				console.log("begin divs section");
+				//console.log("begin divs section");
 				//set up an array to hold the output of divs/scoops from a "section loop"
 				var divsList = new Object;
 				divsList.divs = {};
@@ -270,21 +281,34 @@
 				$js_sections = json_encode($sections_array);
 				echo "var xml_sections = jQuery.parseJSON('". $js_sections ."');";
 				?>
+				//see note on approx line 70.  I was unable to standardize the object there for the edge cases 101 and 118
+				//so, I'm going to try to do it here, using javascript
+				//if section[0] is undefined, then 
+				if (!(xml_sections.section[0]))
+				{
+					console.log("initiating workaround");
+					var tempy = new Object;
+					tempy = xml_sections.section;
+					xml_sections.section = {};
+					xml_sections.section[0] = tempy;
+				}	
 				//loop sections to get # of divs and scoops needed in each section.  Foreach:
 				for (var i in xml_sections.section){
 				//use section data to find official number of divs -- see formula on planning sheet
 					//grab the withDivs and acrossDivs values from the xml for this loop
-					console.log("section pass %s", i);
+					
 					//trying to find a way to make t101 and 118 work here
-                    if (xml_sections.section[i].withDivs){
+                    // if (xml_sections.section[i].withDivs){
 						var withDivs = parseFloat(eval(xml_sections.section[i].withDivs));
 						var acrossDivs = parseFloat(eval(xml_sections.section[i].acrossDivs));
 						var name = xml_sections.section[i].name;
-					} else {
-						var withDivs = parseFloat(eval(xml_sections.section.withDivs));
-						var acrossDivs = parseFloat(eval(xml_sections.section.acrossDivs));
-						var name = xml_sections.section.name;	
-					}
+						// console.log("using route one");
+					// } else {
+						// var withDivs = parseFloat(eval(xml_sections.section.withDivs));
+						// var acrossDivs = parseFloat(eval(xml_sections.section.acrossDivs));
+						// var name = xml_sections.section.name;	
+						// console.log("using route two");
+					// }
 					
 						//plug them into formulas to get recommended number of divs and total div length
 						var numDivs = Math.ceil(((.94 * acrossDivs)-1.875)/2);
@@ -308,7 +332,6 @@
 						var scoopLoc = "scoop" + name;
 						//call that id to get value of scoops
 						var scoopTemp = parseFloat($('#' + scoopLoc).text());
-							console.log("scoopTemp is %s", scoopTemp);
 						//put it into the object
 						divsList.scoops[name] = scoopTemp;
 					
@@ -445,7 +468,7 @@
 				var ht = sel.value;
 				//if ht doesn't work, try "return ht" from that fn
 				var code = "T"+template+price.toFixed(0)+"W"+insW+"D"+insD+"H"+ht+dimSnippet+","+divSnippet+","+scoopSnippet+","+btm;
-				console.log("code string is %s", code);
+				//console.log("code string is %s", code);
 				//fix the anchor text and the url of checkout button
 				$("#price").text('Add to Shopping Cart');
 				document.getElementById('price').href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=263445&cl=69858&ejc=2&amount=" + (price.toFixed(2)) + "&on0=Options&os0=" + code;

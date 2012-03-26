@@ -7,7 +7,7 @@
             <dims>
                 <dim name="A">
                     <name>A</name>
-                    <max>insD-1</max>
+                    <res>insD-1</res>
                 </dim>
                 <dim name="B">
                     <name>B</name>
@@ -15,7 +15,7 @@
                 </dim>
                 <dim name="C">
                     <name>C</name>
-                    <max>insW-2.5-dimB-3-3</max>
+                    <max>insW-dimB-3-3-2.5</max>
                 </dim>
                 <dim name="D">
                     <name>D</name>

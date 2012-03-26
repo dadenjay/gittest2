@@ -11,8 +11,8 @@
 				<dim name = "D"> <name>D</name> <max>insD-4.5</max>			</dim>
 				<dim name = "E"> <name>E</name> <res>insD-dimD-1.5</res>		</dim>
 				<dim name = "F"> <name>F</name> <max>insW-8</max>	</dim>
-				<dim name = "G"> <name>G</name> <max>insW-dimF-2</max>			</dim>
-				<dim name = "H"> <name>H</name> <res>insD-dimC-1.5</res>	</dim>
+				<dim name = "G"> <name>G</name> <max>insW-dimF-5</max>			</dim>
+				<dim name = "H"> <name>H</name> <res>insW-dimF-dimG-2</res>	</dim>
 			</dims>
 			<sections>
 				<section name = "A">

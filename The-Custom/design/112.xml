@@ -10,7 +10,7 @@
 				<dim name = "C"> <name>C</name> <res>insD-dimB-1.5</res>	</dim>
 				<dim name = "D"> <name>D</name> <max>insW-11.5</max>			</dim>
 				<dim name = "E"> <name>E</name> <max>insW-dimD-8.5</max>		</dim>
-				<dim name = "F"> <name>F</name> <max>insW-dimD-dimE-dimF-5.5</max>	</dim>
+				<dim name = "F"> <name>F</name> <max>insW-dimD-dimE-5.5</max>	</dim>
                 <dim name = "G"> <name>G</name> <res>insW-dimD-dimE-dimF-2.5</res>	</dim>
             </dims>
 			<sections>
