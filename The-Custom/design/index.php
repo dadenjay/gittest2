@@ -58,7 +58,7 @@
 			}
 			echo '<br />';
 		}
-		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a href="/movable-dividers" target="_blank">(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quanity of dividers</h6></p>';
+		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a href="/movable-dividers" target="_blank">(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quantity of dividers</h6></p>';
 		$secGrp = $dom->xpath("//template[@t='$var']/sections");	
 		$sections = $secGrp[0];
 
@@ -94,9 +94,9 @@
 		<br/><input class="btms" id="none" type="radio" name="Btm" value="none" checked="true" data-cost="0"/> No Bottom
 	</div>
 	<div id = "priceResponse"><p class="calcSubTitle">Price: $<span>40</span></p></div>
-	<h6>Ships in 12 business days.  First insert $10.  Add'l inserts ship free.</h6>
+	<h6>Order totals over $200 ship free.</h6>
 	<div class = "callout">
-		<a id = "price" class="button" href="">Please enable Javascript to use this form</a>
+		<a id = "price" class="button" href="" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);">Please enable Javascript to use this form</a>
 	</div>
 <!--    <div>-->
 <!--        <img src="--><?php //echo $dom->templates->template->img;	?><!--" alt="custom drawer organizer layout">-->
@@ -471,13 +471,17 @@
 				//console.log("code string is %s", code);
 				//fix the anchor text and the url of checkout button
 				$("#price").text('Add to Shopping Cart');
-				document.getElementById('price').href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=263445&cl=69858&ejc=2&amount=" + (price.toFixed(2)) + "&on0=Options&os0=" + code;
+                document.getElementById('price').href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=263445&cl=69858&ejc=2&amount=" + (price.toFixed(2)) + "&on0=Options&os0=" + code;
+//                document.getElementById('price').target="ej_ejc";
+//                document.getElementById('price').class="ec_ejc_thkbx";
+//                document.getElementById('price').onClick="javascript:return EJEJC_lc(this);";
+//                document.getElementById('price').alt="Add this insert to Cart";
+                $("#price").attr('alt', 'howdy');
+
 			}else{$("#priceResponse p span").html(" Awaiting your Input");	
 			document.getElementById('price').href="";
-
-			};
-			
-		}
+            }
+        }
 	};
 
 	Calcform.init();
@@ -490,6 +494,7 @@
 
 	</script>
     </div>
+    <!-- TODO - MOVE THIS UP WITH THE HTML -->
     <div id = "rightdata">
         <div>
             <img src="<?php echo $dom->templates->template->img;	?>" alt="custom drawer organizer layout">

@@ -31,7 +31,7 @@
 							<div id = "priceResponse"><p>Price: $<span>20</span></p></div>
 						</fieldset>
 					</form><br/><br/>
-					<a id = "price" class="button" href="">Please enable Javascript to use this form</a>
+					<a id = "price" class="button" href="" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);">Please enable Javascript to use this form</a>
 				    <p>(Custom Mat not included with this insert.  It is <a href="/the-custom-jr/mat">available here</a>.)</p>
 				</div>
 				<div id = "rightdatajr">

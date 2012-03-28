@@ -9,8 +9,14 @@
 				<a href="/"><img src="http://orderlydrawer.com/wp-content/uploads/2011/05/odlogo1.jpg" title="drawer organizers" alt="drawer organizers"></a>
 			</div>			
 			<div id="viewCartBox">
-				<a href="http://www.e-junkie.com/ecom/gb.php?c=cart;cl=69858;ejc=2"  target="ej_ejc" class="ec_ejc_thkbx"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
-				<p>423.521.5357</p>
+                <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&cl=69858&ejc=2" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);"><img src="http://www.e-junkie.com/ej/ej_view_cart.gif" border="0" alt="View Cart"/></a>
+                <script language="javascript" type="text/javascript">
+                    <!--
+                    function EJEJC_lc(th) { return false; }
+                    // -->
+                </script>
+                <script src='http://www.e-junkie.com/ecom/box.js' type='text/javascript'></script>
+                <p>423.521.5357</p>
 			</div>			
 			<div id = "mainMenu">
                 <ul>

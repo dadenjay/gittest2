@@ -2,204 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99c8d5c1-0052-4da6-9b82-bd524e5cfe50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movable-dividers/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/the-custom/mat/index.php" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\Install-Cimple\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\The-Custom\cm_follow\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\Wood-types\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter11\airline.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\filestore\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\filestore\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\filestore\files.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\filestore\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\includes\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\includes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\includes\helpers.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\includes\magicquotes.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\recentjokes\controller.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\recentjokes\generate.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\recentjokes\generate.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\recentjokes\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\recentjokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\sql\filestore.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter12\sql\ijdb.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter1\today.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter2\joketable.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\count10-for.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\count10.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\count10\count.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\count10\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\echo.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\today.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\today\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome1.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome2.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome3.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome3.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome4.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome4.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome5.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome5.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome6.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome6.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome7.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome7.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome8.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome8.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter3\welcome\welcome.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\addjoke\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\addjoke\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\addjoke\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\addjoke\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\connect\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\connect\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\createtable\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\createtable\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\deletejoke\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\deletejoke\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\deletejoke\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\deletejoke\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\listjokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\listjokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\listjokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\sql\joketable.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\updatechicken\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter4\updatechicken\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter5\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter5\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter5\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter5\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter5\sql\2tables.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter5\sql\jokes1.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\calculate-area\area-function.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\calculate-area\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\calculate-area\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\dynamic-footer\footer.inc.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\dynamic-footer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\dynamic-footer\samplepage.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\includes\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\includes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\includes\helpers.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\includes\magicquotes.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes-helpers\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes-helpers\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes-helpers\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes-helpers\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\sql\joketable.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\static-footer\footer.inc.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\static-footer\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\static-footer\samplepage.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-error\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-error\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-error\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-error\totaljokes-function.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global1\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global1\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global1\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global1\totaljokes-function.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global2\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global2\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global2\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter6\totaljokes-global2\totaljokes-function.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\authors\authors.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\authors\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\authors\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\authors\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\categories\categories.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\categories\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\categories\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\categories\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\admin\jokes\searchform.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\includes\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\includes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\includes\helpers.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\includes\magicquotes.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter7\sql\ijdb.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\authors\authors.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\authors\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\authors\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\authors\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\categories\categories.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\categories\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\categories\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\categories\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\admin\jokes\searchform.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\includes\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\includes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\includes\helpers.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\includes\magicquotes.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\preg_match1\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\preg_match1\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\preg_match2\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\preg_match2\output.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter8\sql\ijdb.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\accessdenied.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\authors\authors.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\authors\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\authors\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\authors\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\categories\categories.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\categories\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\categories\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\categories\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\jokes\searchform.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\login.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\admin\logout.inc.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\cookiecounter\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\cookiecounter\welcome.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\includes\access.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\includes\db.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\includes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\includes\helpers.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\includes\magicquotes.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\jokes\error.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\jokes\form.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\jokes\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\jokes\jokes.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\shoppingcart\cart.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\shoppingcart\catalog.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\shoppingcart\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\chapter9\sql\ijdb.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\shared\archive.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\shared\book-cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\zz-playground\code-archive\shared\sitepoint-logo.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/maincmjr800px.css" afterPath="$PROJECT_DIR$/css/maincmjr800px.css" />
-      <change type="MODIFICATION" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\slot-spacing\index.php" afterPath="$PROJECT_DIR$/slot-spacing/index.php" />
-      <change type="MODIFICATION" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\the-custom-jr\mat\index.php" afterPath="$PROJECT_DIR$/the-custom-jr/mat/index.php" />
-      <change type="MODIFICATION" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\the-custom\design\101.xml" afterPath="$PROJECT_DIR$/the-custom/design/101.xml" />
-      <change type="MODIFICATION" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\the-custom\design\index.php" afterPath="$PROJECT_DIR$/the-custom/design/index.php" />
-      <change type="MODIFICATION" beforePath="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\the-custom\index.php" afterPath="$PROJECT_DIR$/the-custom/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.inc.php" afterPath="$PROJECT_DIR$/header.inc.php" />
     </list>
     <ignored path="htdocs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -221,21 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/the-custom/design/index.php">
+      <file leaf-file-name="maincmjr800px.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/maincmjr800px.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="276" column="23" selection-start="11498" selection-end="11498" vertical-scroll-proportion="0.45498198">
-              <folding>
-                <element signature="e#8776#9732#0" expanded="false" />
-              </folding>
+            <state line="421" column="30" selection-start="7391" selection-end="7391" vertical-scroll-proportion="0.3573923">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maincmjr800px.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/maincmjr800px.css">
+      <file leaf-file-name="header.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="357" column="1" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.0">
+            <state line="31" column="14" selection-start="1606" selection-end="1606" vertical-scroll-proportion="-20.26923">
               <folding />
             </state>
           </provider>
@@ -245,6 +48,15 @@
         <entry file="file://$PROJECT_DIR$/the-custom/design/101.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the-custom-jr/design/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="83" selection-start="2701" selection-end="2701" vertical-scroll-proportion="-10.431373">
               <folding />
             </state>
           </provider>
@@ -265,9 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/the-custom/design/118.xml" />
-        <option value="$PROJECT_DIR$/the-custom/design/116.xml" />
-        <option value="$PROJECT_DIR$/the-custom/design/107.xml" />
         <option value="$PROJECT_DIR$/the-custom/design/115.xml" />
         <option value="$PROJECT_DIR$/the-custom/design/109.xml" />
         <option value="$PROJECT_DIR$/the-custom/design/110.xml" />
@@ -278,17 +87,20 @@
         <option value="$PROJECT_DIR$/the-custom/mat/index.php" />
         <option value="$PROJECT_DIR$/the-custom/index.php" />
         <option value="$PROJECT_DIR$/the-custom-jr/mat/index.php" />
-        <option value="$PROJECT_DIR$/css/maincmjr800px.css" />
         <option value="$PROJECT_DIR$/the-custom/design/101.xml" />
+        <option value="$PROJECT_DIR$/header.inc.php" />
         <option value="$PROJECT_DIR$/the-custom/design/index.php" />
+        <option value="$PROJECT_DIR$/the-custom/design/EJUNKIE TEST.js" />
+        <option value="$PROJECT_DIR$/the-custom-jr/design/index.php" />
+        <option value="$PROJECT_DIR$/css/maincmjr800px.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="675" />
-    <option name="y" value="8" />
-    <option name="width" value="1240" />
+    <option name="x" value="1145" />
+    <option name="y" value="7" />
+    <option name="width" value="749" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -364,38 +176,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="the-custom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="the-custom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -410,21 +190,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slot-spacing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="movable-dividers" />
+              <option name="myItemId" value="the-custom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,6 +237,13 @@
       <method>
         <option name="PhingTarget" enabled="false" />
       </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
     </configuration>
     <list size="0" />
   </component>
@@ -522,14 +295,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="8" width="1240" height="1080" extended-state="0" />
-    <editor active="false" />
+    <frame x="1145" y="7" width="749" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.99379367" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18282314" sideWeight="0.6700637" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32554746" sideWeight="0.670282" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.10662526" order="7" side_tool="true" content_ui="tabs" />
@@ -598,16 +371,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/the-custom/design/115.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="752" selection-end="752" vertical-scroll-proportion="0.303233" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-custom/design/109.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="34" selection-start="436" selection-end="436" vertical-scroll-proportion="0.22742476" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/the-custom/design/110.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="45" selection-start="870" selection-end="870" vertical-scroll-proportion="0.41694537" />
@@ -621,11 +384,6 @@
     <entry file="file://$PROJECT_DIR$/the-custom/design/111.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="36" selection-start="798" selection-end="798" vertical-scroll-proportion="0.41694537" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the-custom-jr/design/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="59" selection-start="1670" selection-end="1673" vertical-scroll-proportion="0.53061223" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/movable-dividers/index.php">
@@ -643,54 +401,69 @@
         <state line="64" column="6" selection-start="2808" selection-end="2808" vertical-scroll-proportion="1.2680652" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the-custom/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="82" selection-start="6877" selection-end="6877" vertical-scroll-proportion="0.43589744">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="44" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0990676">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/the-custom-jr/mat/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.11888112">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.11888112" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/the-custom/design/118.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/maincmjr800px.css">
+    <entry file="file://$PROJECT_DIR$/footer.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="357" column="1" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.0">
+        <state line="5" column="44" selection-start="161" selection-end="161" vertical-scroll-proportion="-3.2692308">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/the-custom/design/101.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="14" selection-start="1606" selection-end="1606" vertical-scroll-proportion="-20.26923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-custom/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="71" selection-start="11861" selection-end="11864" vertical-scroll-proportion="0.020408163">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/the-custom/design/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="276" column="23" selection-start="11498" selection-end="11498" vertical-scroll-proportion="0.45498198">
+        <state line="473" column="16" selection-start="20447" selection-end="20447" vertical-scroll-proportion="9.653061">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-custom-jr/design/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="83" selection-start="2701" selection-end="2701" vertical-scroll-proportion="-10.431373">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-custom/design/EJUNKIE TEST.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="108" selection-start="591" selection-end="611" vertical-scroll-proportion="0.1574074">
           <folding>
-            <element signature="e#8776#9732#0" expanded="false" />
+            <element signature="e#0#155#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/maincmjr800px.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="421" column="30" selection-start="7391" selection-end="7391" vertical-scroll-proportion="0.3573923">
+          <folding />
         </state>
       </provider>
     </entry>
