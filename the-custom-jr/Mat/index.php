@@ -101,7 +101,7 @@
 							</fieldset>
 						</form>
 						<div class = "callout">
-							<a id = "price" class = "button" href="orderlydrawer.com/">Add to Shopping Cart</a>
+							<a id = "price" class = "button" href="" target="ej_ejc" class="ec_ejc_thkbx" onClick="javascript:return EJEJC_lc(this);">Add to Shopping Cart</a>
 						</div>
 				</div>
 				<div id = "rightdata">
