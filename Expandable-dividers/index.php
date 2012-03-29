@@ -1,3 +1,4 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="eng-GB">
 
 <head>
@@ -10,7 +11,7 @@ include ("../header.inc.php");
 <div class="noticebox">Prices starting at $4 for a regular divider.  Seconds starting at $2.<br />
 Check out at end of page.</div>
 
-<p style="padding-left: 30px;">
+
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/2-3-inch-cimples-in-drawer-withclothes.jpg"><img class="alignnone size-medium wp-image-1273" src="http://orderlydrawer.com/wp-content/uploads/2009/10/2-3-inch-cimples-in-drawer-withclothes-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/best-drawer1.jpg"><img class="alignnone size-medium wp-image-1274" src="http://orderlydrawer.com/wp-content/uploads/2009/10/best-drawer1-245x184.jpg" alt="" width="245" height="184" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/6-inch-cimple-in-empty-drawer1.jpg"><img class="alignnone size-medium wp-image-1276" src="http://orderlydrawer.com/wp-content/uploads/2009/10/6-inch-cimple-in-empty-drawer1-245x184.jpg" alt="" width="245" height="184" /></a></p>
 <p style="padding-left: 30px;"><em>I love my Cimple drawer dividers!&#8230;I have installed the Cimple drawer dividers all by myself I will add (totally EASY)&#8230;Again, I love my Cimple drawer dividers! - Heather W.</em></p>
 <p>We call it &#8220;Cimple&#8221; because it&#8217;s REALLY SIMPLE.  (and all our other products start with a &#8220;C&#8221;)<a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc076001.jpg"><img class="size-medium wp-image-909" title="expandable drawer divider" src="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc076001-245x183.jpg" alt="" width="245" height="183" align="right" /></a></p>
@@ -43,7 +44,7 @@ Check out at end of page.</div>
 <li>When installed properly, the Cimple will be sturdy and stout.  However, it is not designed for heavy duty applications - like separating pots and pans.</li>
 </ul>
 
-<a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc07669.jpg"><img class="alignnone size-full wp-image-958" title="expandable drawer dividers" src="http://lh4.ggpht.com/_oiTAxNb1Dlc/SuXgdz6fjdI/AAAAAAAABok/D_hha_H4aKw/3%20sizes%20cimples.jpg" alt="" width="320" height="240" align="right" /></a></p>
+<a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc07669.jpg"><img class="alignnone size-full wp-image-958" title="expandable drawer dividers" src="http://lh4.ggpht.com/_oiTAxNb1Dlc/SuXgdz6fjdI/AAAAAAAABok/D_hha_H4aKw/3%20sizes%20cimples.jpg" alt="" width="320" height="240" align="right" /></a>
 <h2>We offer the following options:</h2>
 
 <h4>3&#8243; High Cimple Divider - $4</h4>
