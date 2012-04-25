@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- acj.1.2.3 IE not showing response on the depth, not showing price when form complete: it was the console.log entries for firebug -->
+<!-- 25april12 had to rebuild this page for amz traffic to make the amz bot happy -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -10,6 +10,8 @@
         <div id = "container">
 			<h1>Design Your "Custom Jr" Drawer Insert</h1>
 			<p><a href = "/the-custom-jr">See Product Details</a></p>
+            <p><span style="color: #f00000;"><em><strong>Note to Amazon customers: We have inserted some example values for the size of the "Custom Jr".  You will want to overwrite these values (in the boxes below) to match your drawer's internal width and your largest utensil size.</strong></em></span>
+
 			<div id = "data">
 				<div id = "leftdata">
 					<noscript id = "jsEnabled">
@@ -20,9 +22,9 @@
 							<legend>Personalize Your Insert:</legend>
 							<h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
 							<h6> Use decimals, not fractions. <a href="http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg" onclick="return popitup('http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
-							<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" size="16" /> Internal Drawer Width <br />
+							<input type="text" value="10 (example)" name="dwWidth" id="dwWidth" size="16" /> Internal Drawer Width <br />
 							<div id = "widthResponse"><p> </p></div>
-							<input type="text" placeholder="8.75 (example)" name="utensilLength" id="utensilLength" size="16" /> Longest Utensil Length <br />
+							<input type="text" value="9.875 (example)" name="utensilLength" id="utensilLength" size="16" /> Longest Utensil Length <br />
 							<div id = "depthResponse"><p> </p></div>
 							<div id = "divsResponse"><p>Movable Dividers included: <span>4</span></p></div>
 							<div id = "btmPrice">

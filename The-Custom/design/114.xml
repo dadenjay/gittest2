@@ -15,11 +15,6 @@
 				<dim name = "H"> <name>H</name> <res>insW-dimF-dimG-2</res>	</dim>
 			</dims>
 			<sections>
-				<section name = "A">
-					<name>A</name>
-					<withDivs>dimA</withDivs>
-					<acrossDivs>dimF</acrossDivs>
-				</section>
 				<section name = "B">
 					<name>B</name>
 					<withDivs>dimB</withDivs>
@@ -27,14 +22,24 @@
 				</section>
 				<section name = "C">
 					<name>C</name>
-					<withDivs>dimC</withDivs>
+					<withDivs>dimB</withDivs>
 					<acrossDivs>dimH</acrossDivs>
 				</section>
-				<section name = "F">
-					<name>F</name>
-					<withDivs>dimF</withDivs>
-					<acrossDivs>dimA</acrossDivs>
+				<section name = "D">
+					<name>D</name>
+					<withDivs>dimD</withDivs>
+					<acrossDivs>dimG</acrossDivs>
 				</section>
+				<section name = "E">
+					<name>E</name>
+					<withDivs>dimE</withDivs>
+					<acrossDivs>dimG</acrossDivs>
+				</section>
+                <section name = "F">
+                    <name>F</name>
+                    <withDivs>dimF</withDivs>
+                    <acrossDivs>dimA</acrossDivs>
+                </section>
 				
 			</sections>
 		</template>	

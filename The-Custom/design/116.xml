@@ -3,7 +3,7 @@
 	<templates>
 		<template t="116">
 			<name>René</name>
-            <img>https://lh5.googleusercontent.com/-DNDlnUvivcs/T2sh9lOTqYI/AAAAAAAACyY/f2WJXEBEViE/s440/T116.JPG</img>
+            <img>https://lh4.googleusercontent.com/-d0RyHRI5sxI/T3SrGQdWlEI/AAAAAAAACz8/BdYCt0KnVtk/s440/T116-1.JPG</img>
 			<dims>
 				<dim name = "A"> <name>A</name> <max>insW-4.5</max> 			</dim>
 				<dim name = "B"> <name>B</name> <res>insW-dimA-1.5</res> 		</dim>
@@ -13,11 +13,11 @@
 				<dim name = "F"> <name>F</name> <res>insD-dimE-1.5</res>	</dim>
                </dims>
 			<sections>
-				<section name = "A">
-					<name>A</name>
-					<withDivs>dimA</withDivs>
-					<acrossDivs>dimD</acrossDivs>
-				</section>
+                <section name = "A">
+                    <name>A</name>
+                    <withDivs>dimA</withDivs>
+                    <acrossDivs>dimD</acrossDivs>
+                </section>
 				<section name = "C">
 					<name>C</name>
 					<withDivs>dimC</withDivs>

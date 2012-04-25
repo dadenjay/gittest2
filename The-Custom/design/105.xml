@@ -25,8 +25,8 @@
 				</section>
 				<section name = "D">
                     <name>D</name>
-					<withDivs>dimB</withDivs>
-					<acrossDivs>A</acrossDivs>
+					<withDivs>dimD</withDivs>
+					<acrossDivs>dimA</acrossDivs>
 				</section>
 				
 			</sections>

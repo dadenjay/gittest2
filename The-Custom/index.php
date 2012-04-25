@@ -11,7 +11,7 @@ include ("../header.inc.php");
 <h1>The Custom: Full-Drawer Customized Insert</h1>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/03/ebay-gallery-pic.jpg"><img class="size-thumbnail wp-image-819" src="http://orderlydrawer.com/wp-content/uploads/2009/03/ebay-gallery-pic-150x150.jpg" alt="" width="150" height="150" align="right" /></a><br />
 <p>Solid wood. Adjustable. A custom fit. Your choice of layout.</p>
-<p>Prices start at just $40! (Note: if price is an issue, consider our <a href="/the-custom-jr">Custom Jr</a> - prices start around $20 - especially if you have a narrow drawer.)  Our 2" tall custom drawer organizers are $0.20/square inch.  So, for a 12&#8243; x 20&#8243; deep drawer, multiply 12&#8243; x 20&#8243; x $0.20.  The cost would be $48.</p>
+<p>Prices start at just $40! (Note: if price is an issue, consider our <a href="/the-custom-jr">Custom Jr</a> - prices start around $20 - especially if you have a narrow drawer.)  Our 2" tall custom drawer organizers are $0.24/square inch.  So, for a 12&#8243; x 20&#8243; deep drawer, multiply 12&#8243; x 20&#8243; x $0.24.  The cost would be $57.60.</p>
 
 <p><a href="/customer-pictures">See more customers' pictures of Orderly Drawers.</a></p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744.jpg"><img class="alignnone size-medium wp-image-1290" title="junk drawer organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744-244x183.jpg" alt="" width="244" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210.jpg"><img class="alignnone size-medium wp-image-617" title="insert with knives" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2.jpg"><img class="alignnone size-medium wp-image-1292" title="custom flatware insert" src="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2-244x183.jpg" alt="" width="244" height="183" /></a></p>
@@ -35,10 +35,13 @@ include ("../header.inc.php");
 <li>Add a Bottom to your organizer. If your drawer bottom is showing age, bowed, etc. you might want us to add a finished plywood bottom to your insert. Attached bottoms are $10 plus $0.01/square inch.  (So a bottom for a 10&#8243; x 20&#8243; drawer would be 10 x 20 x $0.01 + $10, or $12.00.)  <a href="/attached-bottom" target="_self">Read more about attached bottoms here.</a></li>
 
 <li>Height.  Choose a height in 1/2" increments from 1.5" to 3.5" tall.</li>
-<ul><ul><li>2.5" tall maple inserts are $0.29/square inch</li>
+<ul><ul>
+    <li>1.5" tall inserts are $0.27/square inch</li>
+    <li>2" tall inserts are $0.24/square inch</li>
+    <li>2.5" tall inserts are $0.29/square inch</li>
 
-<li>3.0" tall maple inserts are $0.35/square inch</li>
-<li>3.5" tall maple inserts are $0.43/square inch</li></ul></ul>
+<li>3.0" tall inserts are $0.35/square inch</li>
+<li>3.5" tall inserts are $0.43/square inch</li></ul></ul>
 <li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="/the-custom/mat">See our mat options here.</a></li>
 <li>Add Scooped Dividers. Learn <a href="/scooped-dividers">more about scoops here.</a></li>
 
@@ -138,6 +141,18 @@ include ("../header.inc.php");
     <a href="/the-custom/design/?t=117">
         <img src="https://lh3.googleusercontent.com/-vVHbzFmJuSU/T2nIDNF5HEI/AAAAAAAACu0/aLfW3tM234Y/s160/T117min.jpg" </img>
         <div class="name">"Jeffrey"<p>click to design</p></div>
+    </a>
+</div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=121">
+        <img src="https://lh4.googleusercontent.com/-E1aVK-BfEes/T5YNdcBAvAI/AAAAAAAAJao/-FZP9WR6Gb8/s160/T121min.jpg" </img>
+        <div class="name">"Neil"<p>click to design</p></div>
+    </a>
+</div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=113">
+        <img src="https://lh5.googleusercontent.com/-wsVmkhY73l8/T5YP8lCkunI/AAAAAAAAJa4/KaCi05rBVfY/s160/T113min-001.JPG" </img>
+        <div class="name">"Paul"<p>click to design</p></div>
     </a>
 </div>
 

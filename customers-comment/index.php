@@ -10,6 +10,24 @@ include ("../header.inc.php");
 <h1>Customer Comments</h1>
 <p><strong>See Customer Comments about <a href="#thecustom">The Custom</a>, <a href="#thecustomjr">The Custom Junior</a> and <a href="#thecimple">The Cimple</a></strong></p>
 <p><a name="thecustom">The Custom</a></p>
+<p>Our OrderlyDrawer is just terrific! We were able to get the exact size we needed; the quality of the product is outstanding; the folks who run the company are very customer-oriented. Thank you very much for making OrderlyDrawer available to us. - Laurie B., Sacramento, CA, 3-26-12</p>
+<p>I received the draw and it fits perfectly. I really love it.
+
+    Will be ordering more. :) - Jyotsna, Edison, NJ, 3-26-12</p>
+<p>My drawer organizer arrived yesterday and I LOVE, LOVE, LOVE it!!  It is just perfect.  Thanks for all your help in determining the size and layout of it.  Now I have to find more drawers to do…LOL - Denise L., Northbrook, IL, 3-15-12</p>
+<p>The new custom jr draw organizers fit perfectly in my skinny drawer. I was not using anything because everything else I tried was too wide for the drawer.  The silverware was just loosely grouped in a mess. Now it looks so good. I hope the pictures I'm sending are ok. (new camera also)
+    Thanks so much such a fantastic product. - Mary Lynn K., Decatur, AL, 3-14-12</p>
+<p>Our drawer organizer arrived recently and I just wanted to let you
+    know how much we love it!  The adjustable compartments are such a
+    great idea, and our flatware drawer has never been this easy to use.
+
+    The drawer used to have an old divider that we made from a kit, and
+    after a decade of use the knives and chopsticks were constantly
+    migrating their way into other areas--- which was driving all of us
+    crazy. This new divider keeps everything firmly in place and I smile
+    every time I open the drawer.
+
+    Thanks again! -  Sarah M., Burlington, VT, 3-11-12</p>
 <p>&#8220;I was so impressed and pleased with the drawer dividers we ordered for 3 kitchen drawers. Everything is PERFECT and so well organized. Bethany was so great to work with - she has great knowledge of exactly what you need and some other things I had not thought of that I love. They fit beautifully and with extra dividers, I could really customize each drawer. Total perfection! Thank you so very much!!!&#8221; - Patricia C., Charleston, SC - 2/14/12</p>
 
 <p>&#8220;We received the drawer insert a couple of weeks ago and we  absolutely love it! It fits perfectly in our drawer and it has really  optimized the usable space in the drawer that we&#8217;ve desperately needed since we got our new flatware. If I ever need another customized drawer insert, I will be sure to reach out to you!&#8221; - Megan C., Baltimore, MD, 2-8-2012</p>
