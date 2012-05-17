@@ -1,5 +1,4 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- mat.1.0.4 killed the NaN on price, fixed error on sizing sent to cart, nicened up the format -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -22,11 +21,16 @@
 		});
 		//function to update everything
 		function formCalc() {
-			//fetch cell values into vars and get actual insert dims
 			str = document.getElementById('dwWidth').value;
 			var width = parseFloat(str);
 			str = document.getElementById('dwDepth').value;
-			var depth = parseFloat(str);	
+			var depth = parseFloat(str);
+            if ((width > 20) && (depth > 20)){
+                document.getElementById('largeMat').style.display = 'block';
+            }
+            else{
+                document.getElementById('largeMat').style.display = 'none';
+            }
 			str = document.getElementById('mat_type').value;
 			var mat_type = str;			
 			//calculate and output the price
@@ -96,7 +100,8 @@
 								<h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
 								<h6> Use decimals, not fractions. <a href="http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg" onclick="return popitup('http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
 								<input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" size="12" /> Drawer Inside Width (Mat Width)<br />
-								<input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" size="12" /> Drawer Inside Depth (Mat Length) <br /><br />
+								<input type="text" placeholder="18.75 (example)" name="dwDepth" id="dwDepth" size="12" /> Drawer Inside Depth (Mat Length) <br />
+                                <p id = "largeMat" style="display: none;">Please see our <a href="/large-mats"  target="_blank">special notes about large mats.</a></p><br />
 								<div id = "priceResponse"><p>Price: $<span>2</span></p></div>
 							</fieldset>
 						</form>
@@ -105,7 +110,7 @@
 						</div>
 				</div>
 				<div id = "rightdata">
-				<img src="media/cm_mat.jpg"></>
+				<img src="https://lh3.googleusercontent.com/-8uIEYUYQ7qc/T7Fr1QhQX8I/AAAAAAAAJhs/Tdw63CImUcc/s325/mat_drawing-001.jpg"></>
 				</div>
     <?php
     include ("../../footer.inc.php");

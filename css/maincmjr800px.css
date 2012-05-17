@@ -391,8 +391,8 @@ div#leftdata {
 div#rightdata, #rightdatajr {
     width: 350px;
 	float: right;
-	padding: 15px 15px 0 15px;
-    margin-top: 150px;
+	padding: 0px 15px 0 15px;
+    margin-top: 0px;
 }
 div#rightdatajr {
     margin-top: 0;

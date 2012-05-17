@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<data>
+	<templates>
+		<template t="125">
+			<name>Cheryl</name>
+            <img>https://lh5.googleusercontent.com/-BT5uRYUlC2c/T6QZuR8XEbI/AAAAAAAAJfI/qdyLN90Q_o0/s440/T125_001-001.jpg</img>
+			<dims>
+				<dim name = "A"> <name>A</name> <res>insW-1</res> 			</dim>
+				<dim name = "B"> <name>B</name> <max>insD-8</max> 		</dim>
+				<dim name = "C"> <name>C</name> <max>insW-4.5</max>	</dim>
+                <dim name = "D"> <name>D</name> <max>insD-dimB-5</max>	</dim>
+
+                <dim name = "F"> <name>F</name> <res>insW-dimC-1.5</res>	</dim>
+                <dim name = "E"> <name>E</name> <res>insD-dimF-1.5</res>	</dim>
+                <dim name = "G"> <name>G</name> <res>insD-dimB-dimD-2</res>	</dim>
+
+			</dims>
+			<sections>
+				
+				<section name = "B">
+					<name>B</name>
+					<withDivs>dimB</withDivs>
+					<acrossDivs>dimC</acrossDivs>
+				</section>
+
+
+			</sections>
+		</template>	
+	</templates>
+
+
+
+	
+  
+</data>

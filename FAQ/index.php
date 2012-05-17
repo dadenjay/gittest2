@@ -22,8 +22,6 @@ For our Custom products, we use maple.  For our Cimple drawer dividers, we use u
 <p><strong><em><span style="color: #800000;">When will I receive my order?</span></em><em> </em></strong><br />We can ship non-custom items within a couple of days.  For custom items, we'll ship within 12 business days.  </p>
 <p><strong><span style="color: #800000;"><em>Do you ship outside the continental US?</em></span></strong><br />  To give a quote, we'll  need to know the shipping location, the drawer dimensions of any custom inserts you are planning to buy, and if you'll be adding a bottom to your organizer.</p>
 
-<p><strong><em><span style="color: #800000;">Are your products sold in stores?</span></em></strong><br /> Some non-custom items are available through Amazon.com.</p>
-<p><strong><em></em></strong></p>
 <br/><br/>
 
 

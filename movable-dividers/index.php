@@ -12,7 +12,7 @@ include ("../header.inc.php");
 
 <p><img class="aligncenter" title="adjustable, movable dividers" src="https://lh6.googleusercontent.com/-JmQvNSEaX2g/T2ubeI8CZjI/AAAAAAAACzo/MFJr8JgLqx8/s480/DSC07223.JPG" alt="" /><br />
 <br /></br></p>
-<p>When designing your custom insert using a template from <a href="/the-custom" >our Custom Inserts page</a>, the design form calculates the number of movable dividers.  It calculates one movable divider for every 2" of usable space.  Using the form you can add or subtract the quanity of movable dividers, and the price will update accordingly.</p>
+<p>When designing your custom insert using a template from <a href="/the-custom" >our Custom Inserts page</a>, the design form calculates the number of movable dividers.  It calculates one movable divider for every 2" of usable space.  Using the form you can add or subtract the quantity of movable dividers, and the price will update accordingly.</p>
 
 
 <?php

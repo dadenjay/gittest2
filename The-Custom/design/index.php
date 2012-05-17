@@ -10,7 +10,7 @@
     include ("../../header.inc.php");
     ?>
         <div id = "container">
-            <h1>Custom Insert - <?php echo $dom->templates->template->name;	?> Layout
+            <h1>Custom Insert - <?php echo $dom->templates->template->name;	?> Design
 	        </h1>
             <div id = "data">
                 <div id = "leftdata">
@@ -21,7 +21,7 @@
                     <form id = "formcalc" class="h5-defaults" action="">
                         <fieldset>
                         <legend>Personalize Your Insert:</legend>
-                        <h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(How to measure)</a> </h6>
+                        <h6> Please enter sizes in inches. <a href="/how-to-measure" target="_blank">(Measuring tips)</a> </h6>
                         <h6> Use decimals, not fractions. <a href="http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg" onclick="return popitup('http://orderlydrawer.com/wp-content/uploads/2011/07/fractiontodecimalpopup.jpg')">(Helpful chart)</a> </h6>
                         <input type="text" placeholder="12.13 (example)" name="dwWidth" id="dwWidth" class="chg" size="16" /> Internal Drawer Width <br />
                         <div id = "widthResponse"><p> </p></div>
@@ -58,7 +58,7 @@
 			}
 			echo '<br />';
 		}
-		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a href="/movable-dividers" target="_blank">(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quantity of dividers</h6></p>';
+		echo '<p class="calcSubTitle">--- Movable Dividers in Each Section <a href="/movable-dividers" target="_blank">(learn more)</a>  --- <br/><h6> Use the "plus" and "minus" below to change the quantity of dividers</br>Learn about scooped divs <a href="/scooped-dividers"target="_blank">here</a></h6></p>';
 		$secGrp = $dom->xpath("//template[@t='$var']/sections");	
 		$sections = $secGrp[0];
 
@@ -87,11 +87,12 @@
 	<p class="calcSubTitle">-- Bottom Options --</p>
 	<div id = "btmPrice">
 		<input class="btms" id="wBtm" type="radio" name="Btm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span class="wood"></span>&nbsp;<a href="/attached-bottom" target="_blank">(Learn more)</a>
-		Increases insert height by .19"
+		Increases insert height by 0.19"
 		<br/><input class="btms" id="rMat" type="radio" name="Btm" value="rMat" /> Add a Red Mat:&nbsp;$<span class="mat"></span>&nbsp;<a href="/the-custom/mat" target="_blank">(Learn more)</a>
 		<br/><input class="btms" id="tMat" type="radio" name="Btm" value="tMat" /> Add a Tan Mat:&nbsp;$<span class="mat"></span>
 		<br/><input class="btms" id="cMat" type="radio" name="Btm" value="cMat" /> Add a Clear Mat:&nbsp;$<span class="mat"></span>
 		<br/><input class="btms" id="none" type="radio" name="Btm" value="none" checked="true" data-cost="0"/> No Bottom
+        <br/><h6>Need a mat sized differently from your insert?  Instead of selecting one above, <a href="/the-custom-jr/mat/" target="_blank">order a custom sized mat here.</a></h6>
 	</div>
 	<div id = "priceResponse"><p class="calcSubTitle">Price: $<span>40</span></p></div>
 	<h6>Order totals over $200 ship free.</h6>
@@ -497,6 +498,12 @@
     <!-- TODO - MOVE THIS UP WITH THE HTML -->
     <div id = "rightdata">
         <div>
+            <p style="margin-left:15px" "margin-top:0px">
+            <a href="http://www.screencast.com/t/TntkQRPe8BG"target="_blank"><img src="https://lh5.googleusercontent.com/-Ynd9YS-RRbY/T6sw2sur7wI/AAAAAAAAJg8/LYdLoLI0Nbs/s252/OrderForm%2520pt1.jpg"></a><br/>
+            <a href="http://www.screencast.com/t/wFzCQoCe"target="_blank">Video: part 2</a><br/>
+            <a href="http://www.screencast.com/t/e0bIf8gMv"target="_blank">Video: part 3</a><br/>
+            <br/>
+            </p>
             <img src="<?php echo $dom->templates->template->img;	?>" alt="custom drawer organizer layout">
         </div>
     </div>

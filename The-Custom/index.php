@@ -16,16 +16,26 @@ include ("../header.inc.php");
 <p><a href="/customer-pictures">See more customers' pictures of Orderly Drawers.</a></p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744.jpg"><img class="alignnone size-medium wp-image-1290" title="junk drawer organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc06744-244x183.jpg" alt="" width="244" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210.jpg"><img class="alignnone size-medium wp-image-617" title="insert with knives" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06210-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2.jpg"><img class="alignnone size-medium wp-image-1292" title="custom flatware insert" src="http://orderlydrawer.com/wp-content/uploads/2009/10/drwr-002_2-244x183.jpg" alt="" width="244" height="183" /></a></p>
 <p>"It fits just perfectly and now I can actually see what I'm grabbing."- Joslyn H., South Elgin, IL</p>
-<h2>What Makes our Organizers Unique</h2>
+<div>
+
+    <h2>What Makes our Organizers Unique</h2>
+    <a href="http://www.screencast.com/t/6ESVBdPx"target="_blank"><img src="https://lh3.googleusercontent.com/-woEMltaAgSo/T6urFQN2HYI/AAAAAAAAJhc/fDgjPJlHU_E/s225/about_our_custom_insert-003.jpg" alt="video" style="float:right; margin-right:50px"></a>
+
 <ul>
-<blockquote>
+
 <li>made of solid Canadian maple</li>
 <li>movable dividers for easy micro-adjustability</li>
 <li>made-to-order from your dimensions and layout choice</li>
 <li>urethane finish that resists stains</li>
 <li>bottom is optional.  <a href="/attached-bottom">Learn more</a></li>
 <li>Height options from 1.5" - 3.5"  (Add 1/4" if including a bottom)</li>
-</blockquote>
+
+   
+
+    
+    </div>
+
+
 
 </ul>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205.jpg"><img class="alignnone size-medium wp-image-619" title="skewed dividers make space for irregular items" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185.jpg"><img class="alignnone size-medium wp-image-620" title="OrderlyDrawer.com's unique adjustable dividers" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1.jpg"><img class="alignnone size-medium wp-image-1296" title="bathroom organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1-244x184.jpg" alt="" width="244" height="184" /></a></p>
@@ -58,10 +68,10 @@ include ("../header.inc.php");
 
 <p>2. Your preferred layout.</p>
 <p>The following are some templates (or layouts) you may want to consider for your drawer.</p>
-<li>The black lines show fixed 1/2" pieces.  <a href="/thin-walls-for-narrow-drawers">(In some cases, we&#8217;re able to use thinner fixed walls for narrow drawers.)</a></li>
+<li>The thick brown lines on the drawings indicate fixed 1/2" pieces of wood.  <a href="/thin-walls-for-narrow-drawers">(In some cases, we&#8217;re able to use thinner fixed walls for narrow drawers.)</a></li>
 
-<li>The blue lines are thin (max of 3/16" --<a href="/slot-spacing">learn more</a>), movable dividers;</li>
-<li>The red letters represent usable space between fixed 1/2" dividers (thick black lines).  These are dimensions you can specify. (You might want to measure some of your utensils to help you determine the best numbers.)</li>
+<li>The blue thin brown lines represent movable dividers (max of 3/16" --<a href="/slot-spacing">learn more</a>), movable dividers;</li>
+
 
 <h3>Not all of our templates/designs are appropriate for all drawer sizes.  See the recommended minimum drawer width for our templates.</h3>
 <h2>The following templates are suitable for any drawer size - but especially narrow drawers.</h2>
@@ -107,6 +117,12 @@ include ("../header.inc.php");
     <a href="/the-custom/design/?t=108">
         <img src="https://lh4.googleusercontent.com/-FBoseT6Ega4/T2nIDL8y95I/AAAAAAAACus/6518gKjHOdk/s160/T108min.jpg" </img>
         <div class="name">"Shelly"<p>click to design</p></div>
+    </a>
+</div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=124">
+        <img src="https://lh4.googleusercontent.com/-BX_xAnFL4lc/T6HvSB9GWuI/AAAAAAAAJc0/Q546RkcEh_o/s160/T124min-001.jpg" </img>
+        <div class="name">"Jill"<p>click to design</p></div>
     </a>
 </div>
 
@@ -155,6 +171,12 @@ include ("../header.inc.php");
         <div class="name">"Paul"<p>click to design</p></div>
     </a>
 </div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=125">
+        <img src="https://lh3.googleusercontent.com/-C0NIVmLsB-U/T6PVzuxVZTI/AAAAAAAAJek/Nch9X5cmBSU/s161/T125min-001.jpg" </img>
+        <div class="name">"Cheryl"<p>click to design</p></div>
+    </a>
+</div>
 
 <h2>The following templates require a minimum drawer width of 20 inches.</h2>
 <div class="drawing">
@@ -199,9 +221,30 @@ include ("../header.inc.php");
         <div class="name">"Sandra"<p>click to design</p></div>
     </a>
 </div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=122">
+        <img src="https://lh5.googleusercontent.com/-znnIIEwUmic/T6GecKJrz9I/AAAAAAAAJcM/dIGaDfuQTIc/s192/T222min-002.jpg" </img>
+        <div class="name">"Roger"<p>click to design</p></div>
+    </a>
+</div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=123">
+        <img src="https://lh6.googleusercontent.com/-8rSke8TOAMQ/T6GlhcYjQAI/AAAAAAAAJcg/U9pxqEUK1YU/s191/T223min-001.jpg" </img>
+        <div class="name">"Sterling"<p>click to design</p></div>
+    </a>
+</div>
+<div class="drawing">
+    <a href="/the-custom/design/?t=126">
+        <img src="https://lh6.googleusercontent.com/-_etSzaP-CP0/T6NIJIdaRQI/AAAAAAAAJd8/NT92z-Orqno/s191/T126min-001.jpg" </img>
+        <div class="name">"Michael"<p>click to design</p></div>
+    </a>
+</div>
 <!-- todo -->
 <h2>"What if none of these templates will work for me?"</h2>
-<p>You are welcome to come up with your own design. Here are the ways you can go about communicating your design to us:</p>
+<p>You are welcome to come up with your own design. But before you do, view these two instructional videos.</p>
+<li><a href="http://www.screencast.com/t/hFEGkuHer8er" target=”_blank>Video: Tweak Our Designs</li></a>
+<li><a href="http://www.screencast.com/t/YDFxibfwMzL" target=”_blank>Video: Avoid the Most Common Mistkaes When Making Your Own Design</li></a>
+<p>Here are the ways you can go about communicating your design to us:</p>
 <li>Sketch it in the style of the templates above, photo or scan it, and <a href="/contact-us" target="_blank">email it to us</a>.</li>
 <li><a href="/contact-us" target="_blank">Fax it to us</a>.</li>
 <li>Describe the dimensions of your drawer and contents, we'll make a sketch, and email it to you for approval. Going this route may delay your shipping date somewhat.</li>

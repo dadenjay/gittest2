@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<data>
+	<templates>
+		<template t="129">
+			<name>Katherine</name>
+            <img>https://lh4.googleusercontent.com/-PbgpSTP4EtE/T6KAQhNPO-I/AAAAAAAAJdQ/WkYI3HQWQjE/s531/T129-001.jpg</img>
+			<dims>
+				<dim name = "A"> <name>A</name> <res>insD-1</res> 			</dim>
+				<dim name = "B"> <name>B</name> <max>insD-11.5</max> 		</dim>
+				<dim name = "C"> <name>C</name> <max>insW-11.5</max>	</dim>
+                <dim name = "D"> <name>D</name> <max>insD-8</max>	</dim>
+                <dim name = "E"> <name>E</name> <res>dimD-dimB-.5</res>	</dim>
+                <dim name = "F"> <name>F</name> <max>insW-8</max>	</dim>
+                <dim name = "G"> <name>G</name> <res>dimF-dimC-0.5</res>	</dim>
+                <dim name = "H"> <name>H</name> <max>insD-4.5</max>	</dim>
+                <dim name = "I"> <name>I</name> <res>dimH-dimD-0.5</res>	</dim>
+                <dim name = "J"> <name>J</name> <res>insD-dimH-1.5</res>	</dim>
+                <dim name = "K"> <name>K</name> <max>insW-4.5</max>	</dim>
+                <dim name = "L"> <name>L</name> <res>dimK-dimF-0.5</res>	</dim>
+                <dim name = "M"> <name>M</name> <res>insW-dimK-1.5</res>	</dim>
+
+
+			</dims>
+			<sections>
+				
+				<section name = "B">
+					<name>B</name>
+					<withDivs>dimB</withDivs>
+					<acrossDivs>dimC</acrossDivs>
+				</section>
+                <section name = "M">
+                    <name>M</name>
+                    <withDivs>dimM</withDivs>
+                    <acrossDivs>dimA</acrossDivs>
+                </section>
+
+				
+
+			</sections>
+		</template>	
+	</templates>
+
+
+
+	
+  
+</data>
