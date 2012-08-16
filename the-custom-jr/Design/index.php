@@ -122,7 +122,7 @@
         btmPriceFn: function(width, depth)
         {
             //calculate and output the btm price
-            var btmPrice = 10 + (width * depth * .01);
+            var btmPrice = 5 + (width * depth * .01);
             return btmPrice;
         },
         totalPrice: function()
