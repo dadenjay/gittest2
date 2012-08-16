@@ -7,17 +7,17 @@
 include ("../header.inc.php");
 ?> 
 <h1>The Cimple</h1>
-<h2><strong>Available in three sizes: 3&#8243;, 4.5&#8243;, 6&#8243;, and 8&#8243; high</strong></h2>
-<div class="noticebox">Prices starting at $4 for a regular divider.  Seconds starting at $2.<br />
+<h2><strong>Available in four heights: 3&#8243;, 4.5&#8243;, 6&#8243;, and 8&#8243; high</strong></h2>
+<div class="noticebox">Prices starting at $9.59 for a PACK OF TWO 3" tall dividers.  Seconds starting at $6.59.<br />
 Check out at end of page.</div>
 
 
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/2-3-inch-cimples-in-drawer-withclothes.jpg"><img class="alignnone size-medium wp-image-1273" src="http://orderlydrawer.com/wp-content/uploads/2009/10/2-3-inch-cimples-in-drawer-withclothes-245x183.jpg" alt="" width="245" height="183" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/best-drawer1.jpg"><img class="alignnone size-medium wp-image-1274" src="http://orderlydrawer.com/wp-content/uploads/2009/10/best-drawer1-245x184.jpg" alt="" width="245" height="184" /></a><a href="http://orderlydrawer.com/wp-content/uploads/2009/10/6-inch-cimple-in-empty-drawer1.jpg"><img class="alignnone size-medium wp-image-1276" src="http://orderlydrawer.com/wp-content/uploads/2009/10/6-inch-cimple-in-empty-drawer1-245x184.jpg" alt="" width="245" height="184" /></a></p>
 <p style="padding-left: 30px;"><em>I love my Cimple drawer dividers!&#8230;I have installed the Cimple drawer dividers all by myself I will add (totally EASY)&#8230;Again, I love my Cimple drawer dividers! - Heather W.</em></p>
 <p>We call it &#8220;Cimple&#8221; because it&#8217;s REALLY SIMPLE.  (and all our other products start with a &#8220;C&#8221;)<a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc076001.jpg"><img class="size-medium wp-image-909" title="expandable drawer divider" src="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc076001-245x183.jpg" alt="" width="245" height="183" align="right" /></a></p>
-<p>Our Cimple Expandable Wood Drawer Divider will work for distances from 12&#8243; up to 17&#8243;.  The 6&#8243; high dividers are also available in XL (extra-long) size, fitting distances from 17-24&#8243;.</p>
+<p>Our Cimple Expandable Wood Drawer Dividers will work for distances from 12&#8243; up to 17&#8243;.  The 6&#8243; high dividers are also available in XL (extra-long) size, fitting distances from 17-24&#8243;.</p>
 
-<p>The Cimple Divider uses solid-wood, adhesive-backed feet to grip the walls of your drawer.  (The non-permanent adhesive tape can be moved multiple times and will not leave a residue on your drawers.)  Then, the expandable cabinet-grade plywood walls slide out to fit into the cushioned groove in the wooden feet.  Finally, we provide a quality styrene cap to lock the divider in place and to offer a smooth top edge that&#8217;s easy on your delicate items.</p>
+<p>The Cimple Dividers use solid-wood, adhesive-backed feet to grip the walls of your drawer.  (The non-permanent adhesive tape can be moved multiple times and will not leave a residue on your drawers.)  Then, the expandable cabinet-grade plywood walls slide out to fit into the cushioned groove in the wooden feet.  Finally, we provide a quality styrene cap to lock the divider in place and to offer a smooth top edge that&#8217;s easy on your delicate items.</p>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc07600.jpg"> </a></p>
 <p><strong>Why not Plastic Drawer Dividers?</strong></p>
 <p>Who really wants plastic in their home when they can have quality woodwork <em>for less? </em>One of the biggest complaints with plastic dividers is their short lifespan.  Another is that there&#8217;s no way to create outward pressure so that the divider stays in place.   Other plastic organizers on the market are just plain flimsy, though it&#8217;s hard to tell from the pictures.</p>
@@ -47,11 +47,11 @@ Check out at end of page.</div>
 <a href="http://orderlydrawer.com/wp-content/uploads/2009/04/dsc07669.jpg"><img class="alignnone size-full wp-image-958" title="expandable drawer dividers" src="http://lh4.ggpht.com/_oiTAxNb1Dlc/SuXgdz6fjdI/AAAAAAAABok/D_hha_H4aKw/3%20sizes%20cimples.jpg" alt="" width="320" height="240" align="right" /></a>
 <h2>We offer the following options:</h2>
 
-<h4>3&#8243; High Cimple Divider - $4</h4>
-<h4>4.5&#8243; High Cimple Divider - $5.50</h4>
-<h4>6&#8243; High Cimple Divider - $6.50</h4>
-<h4>8&#8243; High Cimple Divider - $8.00</h4>
-<h4>6&#8243; High XL Cimple Divider - $10.00</h4>
+<h4>Set of two 3&#8243; High Cimple Dividers - $9.59</h4>
+<h4>Set of two 4.5&#8243; High Cimple Dividers - $9.97</h4>
+<h4>Set of two 6&#8243; High Cimple Dividers - $10.35</h4>
+<h4>Set of two 8&#8243; High Cimple Dividers - $10.66</h4>
+<h4>Set of two 6&#8243; High XL Cimple Dividers - $10.91</h4>
 
 <div class="addtocart">
 <form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=329356&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Select Size:</p>
@@ -62,11 +62,11 @@ Check out at end of page.</div>
 </div>
 <h2>Cimple 2nds - Available while supplies last</h2>
 <p>When making our Cimple dividers, we often end up with some pieces of wood that don&#8217;t pass muster.  They might have blemishes or be slightly warped.  Some are worse than others.  But they are all functional.  If you&#8217;re in need of some drawer dividers on the cheap, you&#8217;ve found them.  These won&#8217;t look pretty (though many aren&#8217;t that bad), but they&#8217;ll get the job of dividing a drawer done for you.  Availability of these items will fluctuate.</p>
-<h4>3&#8243; High Cimple Divider, 2nd - $2.00</h4>
-<h4>4.5&#8243; High Cimple Divider, 2nd - $2.75</h4>
-
-<h4>6&#8243; High Cimple Divider, 2nd - $3.25</h4>
-<h4>6&#8243; High Cimple XL Divider, 2nd - $5.00</h4>
+<h4>Set of two3&#8243; High Cimple Dividers, 2nds - $6.59</h4>
+<h4>Set of two4.5&#8243; High Cimple Dividers, 2nds - $6.97</h4>
+<h4>Set of two6&#8243; High Cimple Dividers, 2nds - $7.65</h4>
+<h4>Set of two 8" High Cimple Divders, 2nds - $7.66</h4>
+<h4>Set of two6&#8243; High Cimple XL Dividers, 2nds - $7.91</h4>
 <div class="addtocart">
 <form action="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=780365&amp;cl=69858&amp;ejc=2" accept-charset="UTF-8" method="POST"> Select Size:</p>
 <select name="o1"> <option value="3&quot; High Expandable Divider 2nd quality">3&#8243; High Expandable Divider 2nd quality</option> <option value="4.5&quot; High Expandable Divider 2nd quality">4.5&#8243; High Expandable Divider 2nd quality</option> <option value="6&quot; High Expandable Divider 2nd quality">6&#8243; High Expandable Divider 2nd quality</option> <option value="6&quot; High XL Expandable Divider 2nd quality">6&#8243; High XL Expandable Divider 2nd quality</option> <option value="8&quot; High Expandable Divider 2nd quality">8&#8243; High Expandable Divider 2nd quality</option> </select>

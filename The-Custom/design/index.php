@@ -12,6 +12,7 @@
         <div id = "container">
             <h1>Custom Insert - <?php echo $dom->templates->template->name;	?> Design
 	        </h1>
+            <p> <span style="color:red"> NOTE TO INTERNET EXPLORER USERS: This form is currently not working in Microsoft IE browsers.  Please use Firefox or Chrome to complete this form.  Or, you can email the content of your form to info@OrderlyDrawer.com</span></p>
             <div id = "data">
                 <div id = "leftdata">
 	                <noscript id = "jsEnabled">
@@ -297,45 +298,42 @@
 				for (var i in xml_sections.section){
 				//use section data to find official number of divs -- see formula on planning sheet
 					//grab the withDivs and acrossDivs values from the xml for this loop
-					
-					//trying to find a way to make t101 and 118 work here
-                    // if (xml_sections.section[i].withDivs){
-						var withDivs = parseFloat(eval(xml_sections.section[i].withDivs));
-						var acrossDivs = parseFloat(eval(xml_sections.section[i].acrossDivs));
-						var name = xml_sections.section[i].name;
-						// console.log("using route one");
-					// } else {
-						// var withDivs = parseFloat(eval(xml_sections.section.withDivs));
-						// var acrossDivs = parseFloat(eval(xml_sections.section.acrossDivs));
-						// var name = xml_sections.section.name;	
-						// console.log("using route two");
-					// }
-					
-						//plug them into formulas to get recommended number of divs and total div length
-						var numDivs = Math.ceil(((.94 * acrossDivs)-1.875)/2);
-						//fetch the value from the hidden cell
-						var hidId = "k" + name;
-						var chg = parseFloat(document.getElementById(hidId).value);
-						//now add those two together to get the actual number of divs they want
-						var actual = parseFloat(numDivs) + parseFloat(chg);
-						if (actual < 0) {actual = 0};
-						//write that number onto the line for Qty Reg Divs
-						var spanId = "sec" + name;
-						if (!isNaN(actual)){
-							$('#' + spanId).html(actual.toFixed(0));
-							//write that value into the divsList object
-							divsList.divs[name] = actual;	
-							//use mod and the length of the section to find the total length of their increment/decrement
-							if (-chg > numDivs){modDivLength -= (numDivs * (withDivs + .375))}
-							else {modDivLength += (chg * (withDivs + .375))};
-						}
-						//use name to get id of scoop qty location
-						var scoopLoc = "scoop" + name;
-						//call that id to get value of scoops
-						var scoopTemp = parseFloat($('#' + scoopLoc).text());
-						//put it into the object
-						divsList.scoops[name] = scoopTemp;
-					
+                    var withDivs = parseFloat(eval(xml_sections.section[i].withDivs));
+                    var acrossDivs = parseFloat(eval(xml_sections.section[i].acrossDivs));
+                    var name = xml_sections.section[i].name;
+                    //plug them into formulas to get recommended number of divs
+                    var numDivs = Math.ceil(((.94 * acrossDivs)-1.875)/2);
+                    //fetch the value from the hidden cell
+                    var hidId = "k" + name;
+                    var chg = parseFloat(document.getElementById(hidId).value);
+                    //now add those two together to get the actual number of divs they want
+                    var actual = parseFloat(numDivs) + parseFloat(chg);
+                    //so that a single click on the plus will always add a div, whenever actual is neg, we could overwrite the value of the hid cell to equal the neg of the value of numDivs
+                    if (actual < 0) {
+                        actual = 0;
+                        //document.getElementById("hidId").value =((-1) * (numDivs));
+                        //$('#' + hidId).value((-1) * (numDivs));
+                        var temp8 = document.getElementById("hidId");
+                        temp8.value = 26;
+                    }
+                    //Here's the original code, where we merely prevent the form from showing or registering a negative value
+                    //if (actual < 0) {actual = 0};
+                    //write that number onto the line for Qty Reg Divs
+                    var spanId = "sec" + name;
+                    if (!isNaN(actual)){
+                        $('#' + spanId).html(actual.toFixed(0));
+                        //write that value into the divsList object
+                        divsList.divs[name] = actual;
+                        //use mod and the length of the section to find the total length of their increment/decrement
+                        if (-chg > numDivs){modDivLength -= (numDivs * (withDivs + .375))}
+                        else {modDivLength += (chg * (withDivs + .375))};
+                    }
+                    //use name to get id of scoop qty location
+                    var scoopLoc = "scoop" + name;
+                    //call that id to get value of scoops
+                    var scoopTemp = parseFloat($('#' + scoopLoc).text());
+                    //put it into the object
+                    divsList.scoops[name] = scoopTemp;
 				}
 			//return array of arrays/vars to master(): ABC array, divs per section array, inches added per section, scoops per section
 			var passDnD = [dimsList, divsList, modDivLength];
@@ -429,7 +427,7 @@
 				}
 				//get snippet for the # of divs in each section, meanwhile add up how many sections = 0
 				var divSnippet = '';
-				var numZeroedSections = '0';
+				var numZeroedSections = 0;
 				for (object in passDnD[1].divs){
 					divSnippet += object + passDnD[1].divs[object];
 					//to determine if no slots will be needed, get num of scoops in this section 
@@ -438,11 +436,11 @@
 					if ((passDnD[1].divs[object] == 0) && (passDnD[1].scoops[object]== 0)){numZeroedSections += 1};
 				}
 				//get price discount for sections that are zeroed
-				price -= numZeroedSections * 10 * htCost; //includes consideration for height
-					//console.log("price after zeroed sections is %s", price);
-					//console.log("number of zeroed sections is %s", numZeroedSections);
+				price -= numZeroedSections * 25 * htCost; //includes consideration for height
+					console.log("price after zeroed sections is %s", price);
+					console.log("number of zeroed sections is %s", numZeroedSections);
 				//get markup/markdown for total inches of divs added/removed
-				price += (passDnD[2] * .1); //for now we'll say 10c per inch of div changed
+				price += (passDnD[2] * .8 * htCost); //for now we'll say 10c per inch of div changed
 					//console.log("price after dividers removed is %s", price);
 				//get snippet for the scoops in each section, meanwhile add up total # of scoops
 				var scoopSnippet = '';
@@ -451,6 +449,7 @@
 					scoopSnippet += object + passDnD[1].scoops[object];
 					numScoops += parseFloat(passDnD[1].scoops[object]);
 				}
+                //need to fix this so they are charged the value of the div plus $3, but we've left the loop so we don't know how long the div is!
 				price += parseFloat(numScoops * 3);
 				//modify price for selected value of btm
 				var btm = $('input[type=radio]:checked').attr('value');
@@ -467,10 +466,7 @@
 				?>
 				var sel = document.getElementById("height");
 				var ht = sel.value;
-				//if ht doesn't work, try "return ht" from that fn
 				var code = "T"+template+price.toFixed(0)+"W"+insW+"D"+insD+"H"+ht+dimSnippet+","+divSnippet+","+scoopSnippet+","+btm;
-				//console.log("code string is %s", code);
-				//fix the anchor text and the url of checkout button
 				$("#price").text('Add to Shopping Cart');
                 document.getElementById('price').href="https://www.e-junkie.com/ecom/gb.php?c=cart&i=263445&cl=69858&ejc=2&amount=" + (price.toFixed(2)) + "&on0=Options&os0=" + code;
 //                document.getElementById('price').target="ej_ejc";

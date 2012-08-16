@@ -208,7 +208,7 @@ div#viewCartBox {
     color: #fff;
     text-decoration: none;
 	font-weight: bold;
-    padding: 0 15px 0 15px;
+    padding: 0 12px 0 12px;
     margin-right: 1px;
 	margin-left: 1px;
     line-height: 25px;
@@ -434,6 +434,60 @@ a#price {
 }
 a#price:hover{
     color: #f8b449;
+}
+
+.noticebox
+{
+    display: block;
+    position: absolute;
+    top: 240px;
+    left: 650px;
+    width: 220px;
+    border-style: double;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: Gerogia,Times New Roman,Trebuchet MS,Tahoma,Arial,Helvetica,sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    background-color: orange;
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-x-position: 0%;
+    background-y-position: 0%;
+    color: black;
+
+    padding-top: 3px;
+    padding-right: 1px;
+    padding-bottom: 3px;
+    padding-left: 1px;
+}
+.inlinenoticebox
+{
+    display: block;
+    float: right;
+    width: 200px;
+    border-style: double;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: Gerogia,Times New Roman,Trebuchet MS,Tahoma,Arial,Helvetica,sans-serif;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+    background-color: orange;
+
+    color: black;
+
+    padding-top: 3px;
+    padding-right: 1px;
+    padding-bottom: 3px;
+    padding-left: 1px;
+
 }
 
 #footerlinks {

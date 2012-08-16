@@ -28,7 +28,7 @@
 							<div id = "depthResponse"><p> </p></div>
 							<div id = "divsResponse"><p>Movable Dividers included: <span>4</span></p></div>
 							<div id = "btmPrice">
-								<input class="btms" id="wBtm" type="checkbox" name="woodBtm" value="wBtm" /> Add a Wood Bottom:&nbsp;$<span></span>&nbsp;<a href="/attached-bottom" target="_blank">(Learn more)</a>
+								<input class="btms" id="wbtm" type="checkbox" name="woodBtm" value="wbtm" /> Add a Wood Bottom:&nbsp;$<span></span>&nbsp;<a href="/attached-bottom" target="_blank">(Learn more)</a>
 							</div>
 							<div id = "priceResponse"><p>Price: $<span>20</span></p></div>
 						</fieldset>
@@ -151,7 +151,7 @@
             if (btmPrice)
             {$("#btmPrice span").html(btmPrice.toFixed(2));
             }
-            if (document.getElementById("wBtm").checked){price = price + btmPrice; btmOut = "wbtm"};
+            if (document.getElementById("wbtm").checked){price = price + btmPrice; btmOut = "wbtm"};
             //end of wood bottom pricing section
             //show current price, if available
             if (price)

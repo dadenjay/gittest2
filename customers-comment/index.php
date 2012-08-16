@@ -8,8 +8,22 @@
 include ("../header.inc.php");
 ?>
 <h1>Customer Comments</h1>
+
 <p><strong>See Customer Comments about <a href="#thecustom">The Custom</a>, <a href="#thecustomjr">The Custom Junior</a> and <a href="#thecimple">The Cimple</a></strong></p>
 <p><a name="thecustom">The Custom</a></p>
+<p>It's perfect, exactly what I was looking for to organize our measuring
+    spoons. I could not find a premade insert for these specifications and
+    stumbled across your web site. Thanks so much for a nice product and an
+    easy process for getting it. - Daniel B., Newton, MA, 7-30-12</p>
+<p> I couldn't be happier with them.  I had so much fun organizing all my utensils and other odds and ends.  The drawers look beautiful.  I will probably be ordering some more for other drawers in my kitchen soon. - Donna B., Summit, NJ, 7-30-12 </p>
+<p>My drawer insert arrived today.  The shipping box was a bit beat up.  I opened it cautiously expecting the worst, but your packing was flawless and the drawer insert is in perfect condition.
+
+    That extra 'wiggle room' you build into the finished dimensions was just enough for me to slide past the screw head holding the knob on the drawer!
+
+    The order arrived way sooner than I expected.  I am so happy with your product and your wonderful customer service. - Nancy D., Newton, CT, 7-9-12</p>
+<p>...it's a real wonder this kind of thing isn't more widely available.  I researched dozens of drawer organizers, and none of the standard ones fit my drawers, and I didn't think my drawers were odd-sized.  As it is, your custom one fit like a glove, and the shims eliminated even the .0625" shifting.  Plus, the custom slot configuration is great.  I will be ordering more for the rest of my drawers. - Daniel K., Simpsonville, SC, 7-9-12</p>
+<p>We received our custom drawer organizer today and it is just wonderful!! Attached are before and after pictures.  We just moved about a month ago, so all of our drawers are a mess---we will probably be ordering a few more as soon as we figure out the best configuration. Feel free to use the pictures on your website if you like. - R. Yura, Easton, PA. 6-13-12</p>
+<p>I wanted to write to say thank you to you and your husband for such an outstanding product at such a reasonable price.  I wasn't expecting much when I went on to Amazon and was blown away.  Thank you again,  Jennifer E., Jacksonville, NC, 5-15-12 </p>
 <p>Our OrderlyDrawer is just terrific! We were able to get the exact size we needed; the quality of the product is outstanding; the folks who run the company are very customer-oriented. Thank you very much for making OrderlyDrawer available to us. - Laurie B., Sacramento, CA, 3-26-12</p>
 <p>I received the draw and it fits perfectly. I really love it.
 
@@ -79,6 +93,11 @@ include ("../header.inc.php");
 <p><em>&#8220;Great item&#8230;easy to work with&#8230;THANK YOU!!&#8221;</em> - George F., Davie, FL</p>
 <p><em>&#8220;I feel a sense of serenity when I open my drawers.&#8221;</em> - Gwen M., Chattanooga, TN</p>
 <p><a name="thecustomjr">The Custom Jr.</a></p>
+<p>We received the package. It fits perfect and makes such a difference. Thank you very much. - J. Wood, Minneapolis, MN, 8-11-12</p>
+<p>The insert arrived and I couldn’t be more pleased.  I just bought a townhouse and was surprised how narrow the kitchen drawers were; something I didn’t really notice when viewing the place.  Your narrow drawer insert was perfect.  I only wish I had wider drawers because your custom organizers look even better.  I have already recommended you to several friends.  Thank you! - Adam Z., Alpharetta, GA, 8-9-12</p>
+<p>I received my order. It fits perfectly, holds a lot and looks good.  Who could ask for anything more? I love it!
+    I have never been able to get a tray to fit that drawer, now I have a perfect one. - L.B., Roselle, NJ, 7-29-12</p>
+<p>I am so happy with this insert. The drawers in the kitchen are too small for a pre-made flatware holder. This insert meant that I could have the flatware in the kitchen rather than having to store it in the dining room-which was not convenient whenever I needed something while cooking. The craftsmanship is excellent. - Penny R., Highlands Ranch, CO, 7-28-12</p>
 <p>&#8220;<strong>I just wanted to thank you both for my Drawer organizer. It fits perfectly and I love it&#8230;</strong><strong>This worked out perfectly for me. My little condo only had 8  inch drawers in the kitchen and I could not find anything in stores.  They either had 3 inch individual holders or 9 inch holders.&#8221; - Frank R., Asbury Park, NJ - 2-6-2012<br />
 
 </strong></p>

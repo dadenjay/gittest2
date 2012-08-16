@@ -40,18 +40,18 @@ include ("../header.inc.php");
 </ul>
 <p><a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205.jpg"><img class="alignnone size-medium wp-image-619" title="skewed dividers make space for irregular items" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06205-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185.jpg"><img class="alignnone size-medium wp-image-620" title="OrderlyDrawer.com's unique adjustable dividers" src="http://orderlydrawer.com/wp-content/uploads/2009/02/dsc06185-245x183.jpg" alt="" width="245" height="183" /></a> <a href="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1.jpg"><img class="alignnone size-medium wp-image-1296" title="bathroom organzier" src="http://orderlydrawer.com/wp-content/uploads/2009/10/dsc_6518-1-244x184.jpg" alt="" width="244" height="184" /></a></p>
 
-<h2>Options & Upgrades for your Custom Drawer Insert</h2>
+<a name="rates"><h2>Options & Upgrades for your Custom Drawer Insert</h2></a>
 <ul>
 <li>Add a Bottom to your organizer. If your drawer bottom is showing age, bowed, etc. you might want us to add a finished plywood bottom to your insert. Attached bottoms are $10 plus $0.01/square inch.  (So a bottom for a 10&#8243; x 20&#8243; drawer would be 10 x 20 x $0.01 + $10, or $12.00.)  <a href="/attached-bottom" target="_self">Read more about attached bottoms here.</a></li>
 
 <li>Height.  Choose a height in 1/2" increments from 1.5" to 3.5" tall.</li>
+    <p class="inlinenoticebox">Inventory Reduction Sale Rates</p>
 <ul><ul>
-    <li>1.5" tall inserts are $0.27/square inch</li>
-    <li>2" tall inserts are $0.24/square inch</li>
-    <li>2.5" tall inserts are $0.29/square inch</li>
-
-<li>3.0" tall inserts are $0.35/square inch</li>
-<li>3.5" tall inserts are $0.43/square inch</li></ul></ul>
+    <li>1.5" tall inserts are <strike>$0.27</strike> $0.20/square inch</li>
+    <li>2" tall inserts are <strike>$0.24</strike> $0.18/square inch</li>
+    <li>2.5" tall inserts are <strike>$0.29</strike> $0.24/square inch</li>
+    <li>3.0" tall inserts are <strike>$0.35</strike> $0.28/square inch</li>
+    <li>3.5" tall inserts are <strike>$0.43</strike> $0.32/square inch</li></ul></ul>
 <li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="/the-custom/mat">See our mat options here.</a></li>
 <li>Add Scooped Dividers. Learn <a href="/scooped-dividers">more about scoops here.</a></li>
 

@@ -2,19 +2,19 @@
 <data>
 	<heights>
 	  <height ht="1.5">
-		<cost>0.27</cost>
+		<cost>0.20</cost>
 	  </height>
 	  <height ht="2.0">
-		<cost>0.24</cost>
+		<cost>0.18</cost>
 	  </height>
 	  <height ht="2.5">
-		<cost>0.31</cost>
+		<cost>0.24</cost>
 	  </height>
 	  <height ht="3.0">
-		<cost>0.37</cost>
+		<cost>0.28</cost>
 	  </height>
 	  <height ht="3.5">
-		<cost>0.45</cost>
+		<cost>0.32</cost>
 	  </height>	
 	</heights>
 
