@@ -18,7 +18,7 @@ include ("../header.inc.php");
 
 <div class="outerpicbox">
     <div class="picbox">
-        <a href="/the-custom"><img src="http://lh5.ggpht.com/_oiTAxNb1Dlc/S1pQ5Sdh4dI/AAAAAAAACGQ/QgXVcT7Yp34/aDSC07043.jpg" alt="" width="163" height="122" /></a>
+        <a href="/the-custom"><img src="https://lh5.googleusercontent.com/-oLp2xF2pjgU/S1pQ5Sdh4dI/AAAAAAAAJ3o/p1gTAVGAf5s/s480/aDSC07043.jpg" alt="" width="163" height="122" /></a>
         <div class="caption"><a href="/the-custom"> The Custom</a></div>
     </div>
     <div class="picbox">

@@ -19,7 +19,7 @@ include ("../header.inc.php");
 <div>
 
     <h2>What Makes our Organizers Unique</h2>
-    <a href="http://www.screencast.com/t/6ESVBdPx"target="_blank"><img src="https://lh3.googleusercontent.com/-woEMltaAgSo/T6urFQN2HYI/AAAAAAAAJhc/fDgjPJlHU_E/s225/about_our_custom_insert-003.jpg" alt="video" style="float:right; margin-right:50px"></a>
+    <a href="http://www.screencast.com/t/6ESVBdPx"target="_blank"><img src="https://lh5.googleusercontent.com/-EFW1J3pFmX0/T6WceZKS1lI/AAAAAAAAJ3o/ctT5OgTWPuU/s225/GotchaVideo.JPG" alt="video" style="float:right; margin-right:50px"></a>
 
 <ul>
 
@@ -45,13 +45,13 @@ include ("../header.inc.php");
 <li>Add a Bottom to your organizer. If your drawer bottom is showing age, bowed, etc. you might want us to add a finished plywood bottom to your insert. Attached bottoms are $10 plus $0.01/square inch.  (So a bottom for a 10&#8243; x 20&#8243; drawer would be 10 x 20 x $0.01 + $10, or $12.00.)  <a href="/attached-bottom" target="_self">Read more about attached bottoms here.</a></li>
 
 <li>Height.  Choose a height in 1/2" increments from 1.5" to 3.5" tall.</li>
-    <p class="inlinenoticebox">Inventory Reduction Sale Rates</p>
+    <!--<p class="inlinenoticebox">Inventory Reduction Sale Rates</p>-->
 <ul><ul>
-    <li>1.5" tall inserts are <strike>$0.27</strike> $0.20/square inch</li>
-    <li>2" tall inserts are <strike>$0.24</strike> $0.18/square inch</li>
-    <li>2.5" tall inserts are <strike>$0.29</strike> $0.24/square inch</li>
-    <li>3.0" tall inserts are <strike>$0.35</strike> $0.28/square inch</li>
-    <li>3.5" tall inserts are <strike>$0.43</strike> $0.32/square inch</li></ul></ul>
+    <li>1.5" tall inserts are $0.24/square inch</li>
+    <li>2" tall inserts are $0.20/square inch</li>
+    <li>2.5" tall inserts are $0.31/square inch</li>
+    <li>3.0" tall inserts are $0.37/square inch</li>
+    <li>3.5" tall inserts are $0.42/square inch</li></ul></ul>
 <li>Add a Custom-Sized Rubber Mat that will sit beneath your organizer for $0.02/square inch.  (Available in red, beige/tan or clear.)  For a 10&#8243;  x 20&#8243; wide drawer, a mat would be $4.  <a href="/the-custom/mat">See our mat options here.</a></li>
 <li>Add Scooped Dividers. Learn <a href="/scooped-dividers">more about scoops here.</a></li>
 
@@ -121,7 +121,7 @@ include ("../header.inc.php");
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=124">
-        <img src="https://lh4.googleusercontent.com/-BX_xAnFL4lc/T6HvSB9GWuI/AAAAAAAAJc0/Q546RkcEh_o/s160/T124min-001.jpg" </img>
+        <img src="https://lh4.googleusercontent.com/-BX_xAnFL4lc/T6HvSB9GWuI/AAAAAAAAJ3o/fj86ECvNW4A/s160/T124min-001.jpg" </img>
         <div class="name">"Jill"<p>click to design</p></div>
     </a>
 </div>
@@ -161,19 +161,19 @@ include ("../header.inc.php");
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=121">
-        <img src="https://lh4.googleusercontent.com/-E1aVK-BfEes/T5YNdcBAvAI/AAAAAAAAJao/-FZP9WR6Gb8/s160/T121min.jpg" </img>
+        <img src="https://lh4.googleusercontent.com/-E1aVK-BfEes/T5YNdcBAvAI/AAAAAAAAJ3o/WCi5Owg-IEE/s160/T121min.jpg" </img>
         <div class="name">"Neil"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=113">
-        <img src="https://lh5.googleusercontent.com/-wsVmkhY73l8/T5YP8lCkunI/AAAAAAAAJa4/KaCi05rBVfY/s160/T113min-001.JPG" </img>
+        <img src="https://lh5.googleusercontent.com/-wsVmkhY73l8/T5YP8lCkunI/AAAAAAAAJ3o/gHV3r4bT6uE/s160/T113min-001.JPG" </img>
         <div class="name">"Paul"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=125">
-        <img src="https://lh3.googleusercontent.com/-C0NIVmLsB-U/T6PVzuxVZTI/AAAAAAAAJek/Nch9X5cmBSU/s161/T125min-001.jpg" </img>
+        <img src="https://lh3.googleusercontent.com/-C0NIVmLsB-U/T6PVzuxVZTI/AAAAAAAAJ3o/wnZK_bWBXJc/s161/T125min-001.jpg" </img>
         <div class="name">"Cheryl"<p>click to design</p></div>
     </a>
 </div>
@@ -223,19 +223,19 @@ include ("../header.inc.php");
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=122">
-        <img src="https://lh5.googleusercontent.com/-znnIIEwUmic/T6GecKJrz9I/AAAAAAAAJcM/dIGaDfuQTIc/s192/T222min-002.jpg" </img>
+        <img src="https://lh5.googleusercontent.com/-znnIIEwUmic/T6GecKJrz9I/AAAAAAAAJ3o/hJy467-2kxw/s192/T222min-002.jpg" </img>
         <div class="name">"Roger"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=123">
-        <img src="https://lh6.googleusercontent.com/-8rSke8TOAMQ/T6GlhcYjQAI/AAAAAAAAJcg/U9pxqEUK1YU/s191/T223min-001.jpg" </img>
+        <img src="https://lh6.googleusercontent.com/-8rSke8TOAMQ/T6GlhcYjQAI/AAAAAAAAJ3o/igyW68CZjWY/s191/T223min-001.jpg" </img>
         <div class="name">"Sterling"<p>click to design</p></div>
     </a>
 </div>
 <div class="drawing">
     <a href="/the-custom/design/?t=126">
-        <img src="https://lh6.googleusercontent.com/-_etSzaP-CP0/T6NIJIdaRQI/AAAAAAAAJd8/NT92z-Orqno/s191/T126min-001.jpg" </img>
+        <img src="https://lh6.googleusercontent.com/-_etSzaP-CP0/T6NIJIdaRQI/AAAAAAAAJ3o/888M6GJpAjg/s191/T126min-001.jpg" </img>
         <div class="name">"Michael"<p>click to design</p></div>
     </a>
 </div>

@@ -3,7 +3,7 @@
 	<templates>
 		<template t="122">
 			<name>Roger</name>
-            <img>https://lh6.googleusercontent.com/-4sz2-2_-Evk/T6Gg5MBwypI/AAAAAAAAJcU/e7tJMnRQers/s531/T222-002.jpg</img>
+            <img>https://lh6.googleusercontent.com/-4sz2-2_-Evk/T6Gg5MBwypI/AAAAAAAAJ3o/e9HlQkInFG0/s531/T222-002.jpg</img>
 			<dims>
 				<dim name = "A"> <name>A</name> <max>insD-4.5</max> 			</dim>
 				<dim name = "B"> <name>B</name> <max>insW-8</max> 		</dim>

@@ -9,14 +9,14 @@ include ("../header.inc.php");
 ?>
 <h1>Customer Pictures</h1>
 <p>Before</p>
-<p><img src="https://lh4.googleusercontent.com/-uyM-Vg-qH1w/Tx4MaTSouuI/AAAAAAAAJIo/AKfIHi3SDz4/s360/IMAG0117.jpg" alt="disorganized drawer, before" width="287" height="171" /></p>
+<p><img src="https://lh6.googleusercontent.com/-e6wQT05BwvI/T9t0FADi-ZI/AAAAAAAAJ3o/SktdIvMMxEY/s640/Yura%2520before.JPG" alt="disorganized drawer, before" width="287" height="171" /></p>
 <p style="text-align: left;">After</p>
 
-<p style="text-align: center;"><img class="alignnone" title="organized drawer, after, drawer organizer, orderly drawer insert" src="https://lh3.googleusercontent.com/-VsUetzBZbQw/Tx4JXJDMIcI/AAAAAAAAJIg/tdQYMDAcyC0/s640/IMAG0122.jpg" alt="" width="448" height="268" /></p>
+<p style="text-align: center;"><img class="alignnone" title="organized drawer, after, drawer organizer, orderly drawer insert" src="https://lh3.googleusercontent.com/-oSPJjPl2Du0/T9t0E-QYzQI/AAAAAAAAJ3o/7rHbIbZXolw/s640/Yura%2520after.JPG" alt="" width="448" height="268" /></p>
 <p>Before</p>
-<p><img src="https://lh6.googleusercontent.com/-e6wQT05BwvI/T9t0FADi-ZI/AAAAAAAAJl0/tfeA5g2v5gQ/s640/Yura%2520before.JPG alt="disorganized drawer, before" width="287" height="171""></p>
+<p><img src="https://lh5.googleusercontent.com/-WpL42hqkkGc/Tx4JW9e_F-I/AAAAAAAAJtU/vWRoDufiaiw/s640/IMAG0117.jpg" alt="disorganized drawer, before" width="287" height="171""></p>
 <p style="text-align: left;">After</p>
-<p style="text-align: center;"><img src="https://lh3.googleusercontent.com/-oSPJjPl2Du0/T9t0E-QYzQI/AAAAAAAAJlw/r4WPqsazgFI/s640/Yura%2520after.JPG"></p>
+<p style="text-align: center;"><img src="https://lh3.googleusercontent.com/-VsUetzBZbQw/Tx4JXJDMIcI/AAAAAAAAJtU/HKsM-B8uRUE/s640/IMAG0122.jpg"></p>
 <p style="text-align: center;"><img class="alignnone" title="organized drawer, after, drawer organizer, orderly drawer insert" src="https://lh4.googleusercontent.com/-oViHwURdHNE/T5LMBjWLsxI/AAAAAAAAJZ8/IZkoIpM24vM/s800/Drawer%2520pic%2520complete.JPG" alt="" width="640" " /></p>
 <p style="text-align: center;"><img class="alignnone" title="organized drawer, after, drawer organizer, orderly drawer insert" src="https://lh5.googleusercontent.com/-5Po8s_VEBSQ/T5LNSOMGaYI/AAAAAAAAJaE/ySJ0rlEupMI/s800/Drawer%2520pic%2520w%2520spices.JPG" alt="" width="360" /></p>
 <p style="text-align: center;"><a href="http://orderlydrawer.com/wp-content/uploads/2011/08/img_0004.jpeg"><img class="size-full wp-image-1907 aligncenter" title="make-up organizer" src="http://orderlydrawer.com/wp-content/uploads/2011/08/img_0004.jpeg" alt="" width="320" height="240" /></a></p>

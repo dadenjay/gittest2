@@ -9,7 +9,7 @@ include ("../header.inc.php");
 ?> 
 <h1>The Custom Jr.</h1>
 <h2>Built to fit the width of your drawer.  Prices starting at $20.</h2>
-<p style="text-align: center;"><img class="aligncenter" src="https://lh5.googleusercontent.com/_oiTAxNb1Dlc/TVRW0-A9VdI/AAAAAAAAE7I/Rgsra69WDeI/CustomJr%20on%20red%20mat%20with%204%20dividers-1.jpg" alt="" width="320" height="267" /> <img class="alignnone" src="https://lh5.googleusercontent.com/_oiTAxNb1Dlc/TVRXmZ1T9oI/AAAAAAAAE7c/boxiSeFifww/CustomJr%20on%20red%20mat%20with%204%20dividers%20straight.jpg" alt="" width="320" height="308" /></p>
+<p style="text-align: center;"><img class="aligncenter" src="https://lh6.googleusercontent.com/-beuiTYJmFjI/TGb_XnktYJI/AAAAAAAAJ3o/zwBUNdNZxIQ/s500/CustomJr%2520on%2520red%2520mat%2520with%25204%2520dividers.jpg" alt="" width="320" height="267" /> <img class="alignnone" src="https://lh4.googleusercontent.com/-n9xy4AQCeiI/TGb_fY3Yd4I/AAAAAAAAJ3o/_bt_I6FsRVY/s500/CustomJr%2520on%2520red%2520mat%2520with%25204%2520dividers%2520straight.jpg" alt="" width="320" height="308" /></p>
 <br/><br/>
 <a href="/the-custom-jr/design" class="button">DESIGN YOURS NOW!</a><br/><br/>
 
